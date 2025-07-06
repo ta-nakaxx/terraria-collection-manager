@@ -1,50 +1,14 @@
 "use client";
 
+import { useState } from 'react';
 import { Item } from '@/types';
+import { getRarityStyle } from '@/constants/rarityStyles';
 
 interface ItemCardProps {
   item: Item;
   onToggleOwned: (itemId: string) => void;
   onItemClick: (item: Item) => void;
 }
-
-const rarityStyles = {
-  white: {
-    border: "border-gray-300/40",
-    background: "bg-gradient-to-br from-gray-50/60 to-white/90",
-    glow: "hover:shadow-gray-200/30",
-  },
-  blue: {
-    border: "border-blue-300/40",
-    background: "bg-gradient-to-br from-blue-50/40 to-white/90",
-    glow: "hover:shadow-blue-200/30",
-  },
-  green: {
-    border: "border-green-300/40",
-    background: "bg-gradient-to-br from-green-50/40 to-white/90",
-    glow: "hover:shadow-green-200/30",
-  },
-  orange: {
-    border: "border-orange-300/40",
-    background: "bg-gradient-to-br from-orange-50/40 to-white/90",
-    glow: "hover:shadow-orange-200/30",
-  },
-  red: {
-    border: "border-red-300/40",
-    background: "bg-gradient-to-br from-red-50/40 to-white/90",
-    glow: "hover:shadow-red-200/30",
-  },
-  purple: {
-    border: "border-purple-300/40",
-    background: "bg-gradient-to-br from-purple-50/40 to-white/90",
-    glow: "hover:shadow-purple-200/30",
-  },
-  rainbow: {
-    border: "border-purple-300/40",
-    background: "bg-gradient-to-br from-purple-50/40 to-white/90",
-    glow: "hover:shadow-purple-200/30",
-  },
-};
 
 // Function to abbreviate subcategory text
 const abbreviateSubcategory = (subcategory: string): string => {
@@ -70,7 +34,12 @@ const abbreviateSubcategory = (subcategory: string): string => {
 };
 
 export function ItemCard({ item, onToggleOwned, onItemClick }: ItemCardProps) {
-  const rarityStyle = rarityStyles[item.rarity];
+  const [imageError, setImageError] = useState(false);
+  const rarityStyle = getRarityStyle(item.rarity);
+
+  const handleImageError = () => {
+    setImageError(true);
+  };
 
   return (
     <div
@@ -98,9 +67,10 @@ export function ItemCard({ item, onToggleOwned, onItemClick }: ItemCardProps) {
       {/* Icon with overlaid elements */}
       <div className="relative w-full h-full flex items-center justify-center">
         <img
-          src={item.iconPath || "/placeholder.svg"}
+          src={imageError ? "/placeholder.svg" : item.iconPath || "/placeholder.svg"}
           alt={item.name}
           className="w-16 h-16 object-contain transition-all duration-300 group-hover:scale-110 drop-shadow-sm"
+          onError={handleImageError}
         />
 
         {/* Subtle glow effect for higher rarities */}
@@ -113,11 +83,13 @@ export function ItemCard({ item, onToggleOwned, onItemClick }: ItemCardProps) {
         )}
 
         {/* Subcategory Badge - Top Left */}
-        <div className="absolute top-0 left-0 z-10">
-          <span className="inline-flex items-center px-1 py-0.5 rounded-sm text-[8px] font-medium bg-black/30 text-white backdrop-blur-sm shadow-sm">
-            {abbreviateSubcategory(item.subcategory)}
-          </span>
-        </div>
+        {item.subcategory && (
+          <div className="absolute top-0 left-0 z-10">
+            <span className="inline-flex items-center px-1 py-0.5 rounded-sm text-[8px] font-medium bg-black/30 text-white backdrop-blur-sm shadow-sm">
+              {abbreviateSubcategory(item.subcategory)}
+            </span>
+          </div>
+        )}
 
         {/* Item Name - Bottom overlay */}
         <div className="absolute bottom-0 left-0 right-0 z-10">

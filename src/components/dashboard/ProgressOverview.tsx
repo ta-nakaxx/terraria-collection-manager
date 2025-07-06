@@ -1,6 +1,8 @@
 "use client";
 
-import { Item } from '@/types';
+import { useMemo } from 'react';
+import { Item, ItemType } from '@/types';
+import { calculateProgress, calculateProgressByType } from '@/utils/itemUtils';
 
 interface ProgressOverviewProps {
   items: Item[];
@@ -10,48 +12,50 @@ interface CategoryProgress {
   name: string;
   current: number;
   total: number;
-  type: "weapon" | "armor" | "accessory" | "npc" | "boss";
+  type: ItemType;
 }
 
 export function ProgressOverview({ items }: ProgressOverviewProps) {
-  // Calculate overall progress
-  const totalItems = items.length;
-  const ownedItems = items.filter((item) => item.owned).length;
-  const overallPercentage = totalItems > 0 ? (ownedItems / totalItems) * 100 : 0;
-
-  // Calculate category progress
-  const categoryProgress: CategoryProgress[] = [
-    {
-      name: "Weapons",
-      type: "weapon",
-      current: items.filter((item) => item.type === "weapon" && item.owned).length,
-      total: items.filter((item) => item.type === "weapon").length,
-    },
-    {
-      name: "Armor",
-      type: "armor",
-      current: items.filter((item) => item.type === "armor" && item.owned).length,
-      total: items.filter((item) => item.type === "armor").length,
-    },
-    {
-      name: "Accessories",
-      type: "accessory",
-      current: items.filter((item) => item.type === "accessory" && item.owned).length,
-      total: items.filter((item) => item.type === "accessory").length,
-    },
-    {
-      name: "NPCs",
-      type: "npc",
-      current: items.filter((item) => item.type === "npc" && item.owned).length,
-      total: items.filter((item) => item.type === "npc").length,
-    },
-    {
-      name: "Bosses",
-      type: "boss",
-      current: items.filter((item) => item.type === "boss" && item.owned).length,
-      total: items.filter((item) => item.type === "boss").length,
-    },
-  ];
+  // Calculate overall progress using utility function
+  const overallProgress = useMemo(() => calculateProgress(items), [items]);
+  
+  // Calculate category progress using utility function
+  const categoryProgress: CategoryProgress[] = useMemo(() => {
+    const progressByType = calculateProgressByType(items);
+    
+    return [
+      {
+        name: "Weapons",
+        type: "weapon",
+        current: progressByType.weapon.owned,
+        total: progressByType.weapon.total,
+      },
+      {
+        name: "Armor",
+        type: "armor",
+        current: progressByType.armor.owned,
+        total: progressByType.armor.total,
+      },
+      {
+        name: "Accessories",
+        type: "accessory",
+        current: progressByType.accessory.owned,
+        total: progressByType.accessory.total,
+      },
+      {
+        name: "NPCs",
+        type: "npc",
+        current: progressByType.npc.owned,
+        total: progressByType.npc.total,
+      },
+      {
+        name: "Bosses",
+        type: "boss",
+        current: progressByType.boss.owned,
+        total: progressByType.boss.total,
+      },
+    ];
+  }, [items]);
 
   return (
     <div className="flex items-center space-x-8">
@@ -63,12 +67,12 @@ export function ProgressOverview({ items }: ProgressOverviewProps) {
         <div className="w-full bg-gray-200/80 rounded-full h-3 shadow-inner">
           <div
             className="bg-gradient-to-r from-gray-700 to-gray-800 h-3 rounded-full transition-all duration-700 ease-out"
-            style={{ width: `${overallPercentage}%` }}
+            style={{ width: `${overallProgress.percentage}%` }}
           />
         </div>
         <div className="text-right mt-2">
           <span className="text-sm font-bold text-gray-800">
-            {Math.round(overallPercentage)}% ({ownedItems}/{totalItems})
+            {overallProgress.percentage}% ({overallProgress.owned}/{overallProgress.total})
           </span>
         </div>
       </div>

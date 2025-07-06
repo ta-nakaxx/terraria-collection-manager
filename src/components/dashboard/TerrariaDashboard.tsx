@@ -9,6 +9,7 @@ import { ItemDetailsPanel } from "../items/ItemDetailsPanel";
 import { ProgressOverview } from "./ProgressOverview";
 import { SearchBar } from "../common/SearchBar";
 import { Search } from "lucide-react";
+import { filterItems } from "@/utils/itemUtils";
 
 export default function TerrariaDashboard() {
   const [items, setItems] = useState<Item[]>(v0Items);
@@ -18,27 +19,13 @@ export default function TerrariaDashboard() {
   const [searchQuery, setSearchQuery] = useState("");
 
   const filteredItems = useMemo(() => {
-    let filtered = items;
-
-    // Filter by category
-    if (selectedCategory) {
-      const category = categories.find((c) => c.id === selectedCategory);
-      if (category) {
-        filtered = filtered.filter((item) => item.type === category.type);
-      }
-    }
-
-    // Filter by subcategory
-    if (selectedSubcategory) {
-      filtered = filtered.filter((item) => item.subcategory === selectedSubcategory);
-    }
-
-    // Filter by search query
-    if (searchQuery) {
-      filtered = filtered.filter((item) => item.name.toLowerCase().includes(searchQuery.toLowerCase()));
-    }
-
-    return filtered;
+    const category = selectedCategory ? categories.find((c) => c.id === selectedCategory) : null;
+    
+    return filterItems(items, {
+      type: category?.type,
+      subcategory: selectedSubcategory || undefined,
+      search: searchQuery || undefined,
+    });
   }, [items, selectedCategory, selectedSubcategory, searchQuery]);
 
   const handleCategorySelect = (categoryId: string) => {

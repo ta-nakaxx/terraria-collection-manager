@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" fill="#f3f4f6"/>
+  <rect x="8" y="8" width="48" height="48" fill="#e5e7eb" stroke="#d1d5db" stroke-width="2"/>
+  <path d="M24 32l8 8 16-16" stroke="#9ca3af" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="32" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#6b7280">Item</text>
+</svg>
