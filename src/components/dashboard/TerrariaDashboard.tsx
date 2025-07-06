@@ -10,23 +10,40 @@ import { ProgressOverview } from "./ProgressOverview";
 import { SearchBar } from "../common/SearchBar";
 import { Search } from "lucide-react";
 import { filterItems } from "@/utils/itemUtils";
+import { useCollection } from "@/hooks/useCollection";
 
 export default function TerrariaDashboard() {
-  const [items, setItems] = useState<Item[]>(v0Items);
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [selectedSubcategory, setSelectedSubcategory] = useState<string | null>(null);
   const [selectedItem, setSelectedItem] = useState<Item | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
 
+  // ローカルストレージ機能を使用
+  const { 
+    collection, 
+    toggleItemOwnership, 
+    getItemOwnership, 
+    isLoading, 
+    error 
+  } = useCollection();
+
+  // アイテムデータに所持状態を統合
+  const itemsWithOwnership = useMemo(() => {
+    return v0Items.map(item => ({
+      ...item,
+      owned: getItemOwnership(item.id)
+    }));
+  }, [collection, getItemOwnership]);
+
   const filteredItems = useMemo(() => {
     const category = selectedCategory ? categories.find((c) => c.id === selectedCategory) : null;
     
-    return filterItems(items, {
+    return filterItems(itemsWithOwnership, {
       type: category?.type,
       subcategory: selectedSubcategory || undefined,
       search: searchQuery || undefined,
     });
-  }, [items, selectedCategory, selectedSubcategory, searchQuery]);
+  }, [itemsWithOwnership, selectedCategory, selectedSubcategory, searchQuery]);
 
   const handleCategorySelect = (categoryId: string) => {
     setSelectedCategory(selectedCategory === categoryId ? null : categoryId);
@@ -38,9 +55,10 @@ export default function TerrariaDashboard() {
   };
 
   const handleToggleOwned = (itemId: string) => {
-    setItems((prevItems) => prevItems.map((item) => (item.id === itemId ? { ...item, owned: !item.owned } : item)));
+    // ローカルストレージで所持状態を切り替え
+    toggleItemOwnership(itemId);
 
-    // Update selected item if it's the one being toggled
+    // 選択中のアイテムが切り替え対象の場合、UIを更新
     if (selectedItem && selectedItem.id === itemId) {
       setSelectedItem((prev) => (prev ? { ...prev, owned: !prev.owned } : null));
     }
@@ -53,6 +71,35 @@ export default function TerrariaDashboard() {
   const handleCloseDetails = () => {
     setSelectedItem(null);
   };
+
+  // ローディング状態
+  if (isLoading) {
+    return (
+      <div className="h-screen bg-gray-50 flex items-center justify-center">
+        <div className="text-center">
+          <div className="w-16 h-16 mx-auto mb-4 bg-blue-100 rounded-full flex items-center justify-center">
+            <div className="w-8 h-8 border-4 border-blue-600 border-t-transparent rounded-full animate-spin"></div>
+          </div>
+          <p className="text-gray-600 font-medium">Loading your collection...</p>
+        </div>
+      </div>
+    );
+  }
+
+  // エラー状態
+  if (error) {
+    return (
+      <div className="h-screen bg-gray-50 flex items-center justify-center">
+        <div className="text-center">
+          <div className="w-16 h-16 mx-auto mb-4 bg-red-100 rounded-full flex items-center justify-center">
+            <div className="w-8 h-8 text-red-600">⚠️</div>
+          </div>
+          <p className="text-red-600 font-medium">Error loading collection</p>
+          <p className="text-gray-500 text-sm mt-1">{error}</p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="h-screen bg-gray-50 flex flex-col">
@@ -72,7 +119,7 @@ export default function TerrariaDashboard() {
 
           {/* Right Side - Progress Overview */}
           <div className="flex-shrink-0">
-            <ProgressOverview items={items} />
+            <ProgressOverview items={itemsWithOwnership} />
           </div>
         </div>
       </header>
