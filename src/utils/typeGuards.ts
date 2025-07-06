@@ -22,24 +22,38 @@ export const isValidRarity = (rarity: string): rarity is Rarity => {
  * オブジェクトが有効なItemかどうかを判定
  */
 export const isValidItem = (obj: unknown): obj is Item => {
-  return (
-    obj &&
-    typeof obj === 'object' &&
-    obj !== null &&
-    'id' in obj &&
-    'name' in obj &&
-    'type' in obj &&
-    'category' in obj &&
-    'iconPath' in obj &&
-    'owned' in obj &&
-    typeof (obj as Record<string, unknown>).id === 'string' &&
-    typeof (obj as Record<string, unknown>).name === 'string' &&
-    isValidItemType((obj as Record<string, unknown>).type as string) &&
-    typeof (obj as Record<string, unknown>).category === 'string' &&
-    typeof (obj as Record<string, unknown>).iconPath === 'string' &&
-    typeof (obj as Record<string, unknown>).owned === 'boolean' &&
-    (!('rarity' in obj) || isValidRarity((obj as Record<string, unknown>).rarity as string))
-  );
+  if (!obj || typeof obj !== 'object' || obj === null) {
+    return false;
+  }
+
+  const record = obj as Record<string, unknown>;
+
+  // 必須プロパティの存在確認
+  if (!('id' in record) || !('name' in record) || !('type' in record) || 
+      !('category' in record) || !('iconPath' in record) || !('owned' in record)) {
+    return false;
+  }
+
+  // 型チェック
+  if (typeof record.id !== 'string' || 
+      typeof record.name !== 'string' || 
+      typeof record.category !== 'string' || 
+      typeof record.iconPath !== 'string' || 
+      typeof record.owned !== 'boolean') {
+    return false;
+  }
+
+  // type の型チェック
+  if (!isValidItemType(record.type as string)) {
+    return false;
+  }
+
+  // rarity の型チェック（オプショナル）
+  if ('rarity' in record && !isValidRarity(record.rarity as string)) {
+    return false;
+  }
+
+  return true;
 };
 
 /**
