@@ -25,14 +25,14 @@ export interface Item {
   name: string;
   type: ItemType;
   category: string;
-  subCategory?: string;
+  subcategory: string;
   iconPath: string;
-  acquisition: AcquisitionMethod[];
+  acquisition: string[];
   stats?: ItemStats;
   description?: string;
   rarity: Rarity;
   gameStage: 'pre-hardmode' | 'hardmode' | 'post-plantera' | 'post-golem';
-  isHardmode?: boolean;
+  owned: boolean;
 }
 
 export interface WeaponItem extends Item {
