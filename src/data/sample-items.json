@@ -1,0 +1,152 @@
+{
+  "weapons": [
+    {
+      "id": "copper_shortsword",
+      "name": "Copper Shortsword",
+      "type": "weapon",
+      "weaponCategory": "melee",
+      "category": "swords",
+      "subCategory": "shortswords",
+      "iconPath": "/assets/icons/weapons/copper_shortsword.png",
+      "acquisition": ["craft"],
+      "stats": {
+        "damage": 5,
+        "useTime": 12,
+        "knockback": 4,
+        "critChance": 4,
+        "requirements": ["Copper Bar x7", "Wood x3"]
+      },
+      "description": "A basic sword made of copper.",
+      "rarity": "white",
+      "gameStage": "pre-hardmode"
+    },
+    {
+      "id": "wooden_bow",
+      "name": "Wooden Bow",
+      "type": "weapon",
+      "weaponCategory": "ranged",
+      "category": "bows",
+      "iconPath": "/assets/icons/weapons/wooden_bow.png",
+      "acquisition": ["craft"],
+      "stats": {
+        "damage": 4,
+        "useTime": 30,
+        "knockback": 0,
+        "requirements": ["Wood x10"]
+      },
+      "description": "A simple bow made of wood.",
+      "rarity": "white",
+      "gameStage": "pre-hardmode",
+      "ammoType": "arrows",
+      "projectile": true
+    },
+    {
+      "id": "wand_of_sparking",
+      "name": "Wand of Sparking",
+      "type": "weapon",
+      "weaponCategory": "magic",
+      "category": "staves",
+      "iconPath": "/assets/icons/weapons/wand_of_sparking.png",
+      "acquisition": ["drop"],
+      "stats": {
+        "damage": 8,
+        "useTime": 25,
+        "knockback": 0
+      },
+      "description": "A magical wand that shoots sparks.",
+      "rarity": "white",
+      "gameStage": "pre-hardmode",
+      "projectile": true
+    }
+  ],
+  "armor": [
+    {
+      "id": "copper_helmet",
+      "name": "Copper Helmet",
+      "type": "armor",
+      "category": "head",
+      "slot": "head",
+      "armorClass": "melee",
+      "iconPath": "/assets/icons/armor/copper_helmet.png",
+      "acquisition": ["craft"],
+      "stats": {
+        "defense": 1,
+        "requirements": ["Copper Bar x5"]
+      },
+      "description": "A helmet made of copper.",
+      "rarity": "white",
+      "gameStage": "pre-hardmode"
+    },
+    {
+      "id": "copper_chainmail",
+      "name": "Copper Chainmail",
+      "type": "armor",
+      "category": "chest",
+      "slot": "chest",
+      "iconPath": "/assets/icons/armor/copper_chainmail.png",
+      "acquisition": ["craft"],
+      "stats": {
+        "defense": 2,
+        "requirements": ["Copper Bar x10"]
+      },
+      "description": "Chainmail made of copper.",
+      "rarity": "white",
+      "gameStage": "pre-hardmode"
+    }
+  ],
+  "accessories": [
+    {
+      "id": "band_of_regeneration",
+      "name": "Band of Regeneration",
+      "type": "accessory",
+      "category": "necklaces",
+      "slot": "accessory",
+      "iconPath": "/assets/icons/accessories/band_of_regeneration.png",
+      "acquisition": ["drop"],
+      "stats": {
+        "effects": ["Slowly regenerates life"]
+      },
+      "description": "Slowly regenerates life over time.",
+      "rarity": "blue",
+      "gameStage": "pre-hardmode",
+      "combinable": true
+    }
+  ],
+  "npcs": [
+    {
+      "id": "guide",
+      "name": "Guide",
+      "type": "npc",
+      "category": "craftsmen",
+      "iconPath": "/assets/icons/npcs/guide.png",
+      "acquisition": ["quest"],
+      "unlockCondition": "Always available",
+      "services": ["Crafting recipes", "Help"],
+      "description": "Provides helpful tips and crafting recipes.",
+      "rarity": "white",
+      "gameStage": "pre-hardmode",
+      "happiness": {
+        "likes": ["Forest"],
+        "dislikes": ["Ocean"],
+        "preferredBiome": "Forest"
+      }
+    }
+  ],
+  "bosses": [
+    {
+      "id": "eye_of_cthulhu",
+      "name": "Eye of Cthulhu",
+      "type": "boss",
+      "category": "pre_hardmode",
+      "iconPath": "/assets/icons/bosses/eye_of_cthulhu.png",
+      "acquisition": ["event"],
+      "health": 2800,
+      "summonItem": "Suspicious Looking Eye",
+      "drops": ["Demonite Ore", "Unholy Arrow", "Binoculars"],
+      "difficulty": "easy",
+      "description": "A giant flying eyeball with a hunger for destruction.",
+      "rarity": "orange",
+      "gameStage": "pre-hardmode"
+    }
+  ]
+}

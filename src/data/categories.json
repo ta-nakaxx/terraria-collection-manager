@@ -1,0 +1,73 @@
+{
+  "weapons": {
+    "melee": {
+      "swords": {
+        "shortswords": ["Copper Shortsword", "Tin Shortsword", "Iron Shortsword", "Lead Shortsword"],
+        "broadswords": ["Copper Broadsword", "Tin Broadsword", "Iron Broadsword", "Terra Blade"]
+      },
+      "spears": ["Spear", "Trident", "Dark Lance", "Gungnir"],
+      "flails": ["Chain Knife", "Mace", "Sunfury", "Dao of Pow"],
+      "yoyos": ["Wooden Yoyo", "Rally", "Malaise", "Terrarian"],
+      "other": ["Pickaxe", "Hamaxe", "Drill"]
+    },
+    "ranged": {
+      "bows": ["Wooden Bow", "Copper Bow", "Tin Bow", "Iron Bow", "Molten Fury"],
+      "repeaters": ["Cobalt Repeater", "Mythril Repeater", "Adamantite Repeater"],
+      "guns": ["Musket", "The Undertaker", "Minishark", "Megashark", "S.D.M.G."],
+      "launchers": ["Grenade Launcher", "Rocket Launcher", "Proximity Mine Launcher"],
+      "consumable": ["Shuriken", "Throwing Knife", "Bone", "Snowball"]
+    },
+    "magic": {
+      "staves": ["Wand of Sparking", "Amethyst Staff", "Diamond Staff", "Last Prism"],
+      "tomes": ["Water Bolt", "Book of Skulls", "Spell Tome", "Razorblade Typhoon"],
+      "other": ["Magic Missile", "Flamelash", "Rainbow Rod", "Terra Blade"]
+    },
+    "summoner": {
+      "minions": ["Slime Staff", "Imp Staff", "Spider Staff", "Stardust Dragon Staff"],
+      "sentries": ["Ballista Rod", "Flameburst Rod", "Lightning Aura Rod"]
+    }
+  },
+  "armor": {
+    "head": {
+      "melee": ["Copper Helmet", "Iron Helmet", "Gold Helmet", "Molten Helmet"],
+      "ranged": ["Copper Helmet", "Iron Helmet", "Gold Helmet", "Molten Helmet"],
+      "magic": ["Copper Helmet", "Iron Helmet", "Gold Helmet", "Molten Helmet"],
+      "summoner": ["Copper Helmet", "Iron Helmet", "Gold Helmet", "Molten Helmet"]
+    },
+    "chest": ["Copper Chainmail", "Iron Chainmail", "Gold Chainmail", "Molten Breastplate"],
+    "legs": ["Copper Greaves", "Iron Greaves", "Gold Greaves", "Molten Greaves"]
+  },
+  "accessories": {
+    "movement": {
+      "wings": ["Angel Wings", "Demon Wings", "Fairy Wings", "Solar Wings"],
+      "boots": ["Hermes Boots", "Rocket Boots", "Lightning Boots", "Terraspark Boots"],
+      "hooks": ["Grappling Hook", "Ivy Whip", "Dual Hook", "Lunar Hook"]
+    },
+    "combat": {
+      "emblems": ["Warrior Emblem", "Ranger Emblem", "Sorcerer Emblem", "Summoner Emblem"],
+      "shields": ["Cobalt Shield", "Obsidian Shield", "Ankh Shield", "Hero Shield"],
+      "necklaces": ["Band of Regeneration", "Panic Necklace", "Charm of Myths"]
+    },
+    "utility": {
+      "informational": ["Compass", "Depth Meter", "GPS", "Cell Phone"],
+      "light": ["Shine Potion", "Mining Potion", "Spelunker Potion"],
+      "building": ["Toolbelt", "Architect Gizmo Pack", "Portable Cement Mixer"]
+    },
+    "special": {
+      "balloons": ["Balloon", "Shiny Red Balloon", "Balloon Pufferfish"],
+      "clouds": ["Cloud in a Bottle", "Blizzard in a Bottle", "Sandstorm in a Bottle"],
+      "counterweights": ["White Counterweight", "Black Counterweight", "Blue Counterweight"]
+    }
+  },
+  "npcs": {
+    "merchants": ["Merchant", "Traveling Merchant", "Skeleton Merchant"],
+    "craftsmen": ["Guide", "Demolitionist", "Dye Trader", "Goblin Tinkerer"],
+    "combat": ["Arms Dealer", "Nurse", "Witch Doctor"],
+    "event": ["Old Man", "Clothier", "Wizard", "Truffle"]
+  },
+  "bosses": {
+    "pre_hardmode": ["Eye of Cthulhu", "Eater of Worlds", "Brain of Cthulhu", "Queen Bee"],
+    "hardmode": ["The Twins", "The Destroyer", "Skeletron Prime", "Plantera"],
+    "event": ["King Slime", "Wall of Flesh", "Duke Fishron", "Moon Lord"]
+  }
+}
