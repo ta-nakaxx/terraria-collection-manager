@@ -20,7 +20,7 @@ export default function TerrariaDashboard() {
 
   // ローカルストレージ機能を使用
   const { 
-    collection, 
+    collection,
     toggleItemOwnership, 
     getItemOwnership, 
     isLoading, 
@@ -33,7 +33,7 @@ export default function TerrariaDashboard() {
       ...item,
       owned: getItemOwnership(item.id)
     }));
-  }, [getItemOwnership]);
+  }, [collection, getItemOwnership]);
 
   const filteredItems = useMemo(() => {
     const category = selectedCategory ? categories.find((c) => c.id === selectedCategory) : null;
