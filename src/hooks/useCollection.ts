@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import { CollectionState, CollectionSettings, StorageData } from '@/types/collection';
+import { CollectionState, CollectionSettings } from '@/types/collection';
 import { DEFAULT_SETTINGS } from '@/data';
 import { useLocalStorage } from './useLocalStorage';
 
@@ -16,7 +16,6 @@ export const useCollection = () => {
     isLoading: storageLoading,
     error: storageError,
     loadData,
-    saveData,
     updateItemStatus,
     updateMultipleItems,
     updateSettings: updateStorageSettings,

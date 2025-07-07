@@ -33,7 +33,7 @@ export default function TerrariaDashboard() {
       ...item,
       owned: getItemOwnership(item.id)
     }));
-  }, [collection, getItemOwnership]);
+  }, [getItemOwnership]);
 
   const filteredItems = useMemo(() => {
     const category = selectedCategory ? categories.find((c) => c.id === selectedCategory) : null;
