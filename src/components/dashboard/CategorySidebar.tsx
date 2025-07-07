@@ -2,14 +2,41 @@
 
 import { Category } from '@/types';
 
+/**
+ * カテゴリサイドバーのProps
+ */
 interface CategorySidebarProps {
+  /** 表示するカテゴリのリスト */
   categories: Category[];
+  /** 現在選択されているカテゴリID */
   selectedCategory: string;
+  /** 現在選択されているサブカテゴリ（任意） */
   selectedSubcategory: string | null;
+  /** カテゴリ選択時のコールバック */
   onCategorySelect: (categoryId: string) => void;
+  /** サブカテゴリ選択時のコールバック */
   onSubcategorySelect: (subcategory: string) => void;
 }
 
+/**
+ * スタイル定数
+ */
+const STYLES = {
+  SIDEBAR: "w-full h-full bg-white/80 backdrop-blur-sm border-r border-gray-200/60 p-3",
+  HEADER: "text-sm font-semibold text-gray-900 mb-3 tracking-wide uppercase",
+  NAV: "space-y-1",
+  CATEGORY_BUTTON_BASE: "w-full text-left px-3 py-2.5 rounded-lg text-sm font-medium transition-all duration-200",
+  CATEGORY_BUTTON_SELECTED: "bg-gray-900 text-white shadow-lg",
+  CATEGORY_BUTTON_UNSELECTED: "text-gray-700 hover:bg-gray-100/80 hover:text-gray-900",
+  SUBCATEGORY_CONTAINER: "ml-3 mt-1 space-y-0.5",
+  SUBCATEGORY_BUTTON_BASE: "w-full text-left px-3 py-1.5 rounded-md text-xs font-medium transition-all duration-200",
+  SUBCATEGORY_BUTTON_SELECTED: "bg-gray-100 text-gray-900 shadow-sm",
+  SUBCATEGORY_BUTTON_UNSELECTED: "text-gray-600 hover:bg-gray-50 hover:text-gray-800"
+} as const;
+
+/**
+ * カテゴリとサブカテゴリの選択を行うサイドバーコンポーネント
+ */
 export function CategorySidebar({
   categories,
   selectedCategory,
@@ -18,31 +45,31 @@ export function CategorySidebar({
   onSubcategorySelect,
 }: CategorySidebarProps) {
   return (
-    <div className="w-full h-full bg-white/80 backdrop-blur-sm border-r border-gray-200/60 p-3">
-      <h2 className="text-sm font-semibold text-gray-900 mb-3 tracking-wide uppercase">Categories</h2>
-      <nav className="space-y-1">
+    <div className={STYLES.SIDEBAR}>
+      <h2 className={STYLES.HEADER}>Categories</h2>
+      <nav className={STYLES.NAV}>
         {categories.map((category) => (
           <div key={category.id}>
             <button
               onClick={() => onCategorySelect(category.id)}
-              className={`w-full text-left px-3 py-2.5 rounded-lg text-sm font-medium transition-all duration-200 ${
+              className={`${STYLES.CATEGORY_BUTTON_BASE} ${
                 selectedCategory === category.id
-                  ? "bg-gray-900 text-white shadow-lg"
-                  : "text-gray-700 hover:bg-gray-100/80 hover:text-gray-900"
+                  ? STYLES.CATEGORY_BUTTON_SELECTED
+                  : STYLES.CATEGORY_BUTTON_UNSELECTED
               }`}
             >
               {category.name}
             </button>
             {selectedCategory === category.id && (
-              <div className="ml-3 mt-1 space-y-0.5">
+              <div className={STYLES.SUBCATEGORY_CONTAINER}>
                 {category.subcategories.map((subcategory) => (
                   <button
                     key={subcategory}
                     onClick={() => onSubcategorySelect(subcategory)}
-                    className={`w-full text-left px-3 py-1.5 rounded-md text-xs font-medium transition-all duration-200 ${
+                    className={`${STYLES.SUBCATEGORY_BUTTON_BASE} ${
                       selectedSubcategory === subcategory
-                        ? "bg-gray-100 text-gray-900 shadow-sm"
-                        : "text-gray-600 hover:bg-gray-50 hover:text-gray-800"
+                        ? STYLES.SUBCATEGORY_BUTTON_SELECTED
+                        : STYLES.SUBCATEGORY_BUTTON_UNSELECTED
                     }`}
                   >
                     {subcategory}
