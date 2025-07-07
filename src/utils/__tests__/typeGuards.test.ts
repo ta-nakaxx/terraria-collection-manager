@@ -73,15 +73,15 @@ describe('typeGuards', () => {
 
     it('should return false for object missing required properties', () => {
       const itemMissingId = { ...validItem };
-      delete (itemMissingId as any).id;
+      delete (itemMissingId as Record<string, unknown>).id;
       expect(isValidItem(itemMissingId)).toBe(false);
 
       const itemMissingName = { ...validItem };
-      delete (itemMissingName as any).name;
+      delete (itemMissingName as Record<string, unknown>).name;
       expect(isValidItem(itemMissingName)).toBe(false);
 
       const itemMissingType = { ...validItem };
-      delete (itemMissingType as any).type;
+      delete (itemMissingType as Record<string, unknown>).type;
       expect(isValidItem(itemMissingType)).toBe(false);
     });
 
@@ -108,7 +108,7 @@ describe('typeGuards', () => {
 
     it('should return true when rarity is not present', () => {
       const itemWithoutRarity = { ...validItem };
-      delete (itemWithoutRarity as any).rarity;
+      delete (itemWithoutRarity as Record<string, unknown>).rarity;
       expect(isValidItem(itemWithoutRarity)).toBe(true);
     });
   });

@@ -1,4 +1,4 @@
-import { renderHook, act } from '@testing-library/react';
+import { renderHook } from '@testing-library/react';
 import { useLocalStorage } from '../useLocalStorage';
 import { STORAGE_KEY, STORAGE_VERSION, DEFAULT_SETTINGS } from '@/data';
 

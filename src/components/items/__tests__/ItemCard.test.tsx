@@ -131,7 +131,7 @@ describe('ItemCard', () => {
 
   it('should handle missing rarity gracefully', () => {
     const itemWithoutRarity = { ...mockItem };
-    delete (itemWithoutRarity as any).rarity;
+    delete (itemWithoutRarity as unknown as { rarity?: string }).rarity;
     
     render(<ItemCard {...defaultProps} item={itemWithoutRarity} />);
     

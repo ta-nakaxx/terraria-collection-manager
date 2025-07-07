@@ -9,7 +9,7 @@ import {
   filterItems,
   sortItems
 } from '../itemUtils';
-import { Item, ItemType } from '@/types';
+import { Item } from '@/types';
 
 // Mock data for testing
 const mockItems: Item[] = [
