@@ -10,6 +10,8 @@ export type Rarity = 'white' | 'blue' | 'green' | 'orange' | 'red' | 'purple' | 
 
 export type AcquisitionMethod = 'drop' | 'craft' | 'purchase' | 'quest' | 'event';
 
+export type GameStage = 'pre-hardmode' | 'hardmode' | 'post-plantera' | 'post-golem';
+
 export interface ItemStats {
   damage?: number;
   defense?: number;
@@ -35,7 +37,7 @@ export interface Item {
   stats?: ItemStats;
   description?: string;
   rarity: Rarity;
-  gameStage: 'pre-hardmode' | 'hardmode' | 'post-plantera' | 'post-golem';
+  gameStage: GameStage;
   owned: boolean;
 }
 

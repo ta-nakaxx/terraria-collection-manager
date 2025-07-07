@@ -1,0 +1,702 @@
+[
+  {
+    "id": "1",
+    "name": "Iron Pickaxe",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/weapons/1.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "2",
+    "name": "Dirt Block",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/2.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "3",
+    "name": "Stone Block",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/3.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "4",
+    "name": "Iron Broadsword",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "sword",
+    "iconPath": "/assets/icons/weapons/4.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "5",
+    "name": "Mushroom",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/5.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "6",
+    "name": "Iron Shortsword",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "sword",
+    "iconPath": "/assets/icons/weapons/6.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "7",
+    "name": "Iron Hammer",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/weapons/7.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "8",
+    "name": "Torch",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/8.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "9",
+    "name": "Wood",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/9.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "10",
+    "name": "Iron Axe",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/weapons/10.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "11",
+    "name": "Iron Ore",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/11.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "12",
+    "name": "Copper Ore",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/12.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "13",
+    "name": "Gold Ore",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/13.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "14",
+    "name": "Silver Ore",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/14.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "15",
+    "name": "Copper Watch",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/15.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "16",
+    "name": "Silver Watch",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/16.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "17",
+    "name": "Gold Watch",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/17.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "18",
+    "name": "Depth Meter",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/18.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "19",
+    "name": "Gold Bar",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/19.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "20",
+    "name": "Copper Bar",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/20.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "21",
+    "name": "Silver Bar",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/21.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "22",
+    "name": "Iron Bar",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/22.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "23",
+    "name": "Gel",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/23.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "24",
+    "name": "Wooden Sword",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "sword",
+    "iconPath": "/assets/icons/weapons/24.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "25",
+    "name": "Wooden Door",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/25.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "26",
+    "name": "Stone Wall",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/26.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "27",
+    "name": "Acorn",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/27.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "28",
+    "name": "Lesser Healing Potion",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/28.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "29",
+    "name": "Life Crystal",
+    "type": "weapon",
+    "category": "magic",
+    "subcategory": "crystal",
+    "iconPath": "/assets/icons/weapons/29.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "30",
+    "name": "Dirt Wall",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/30.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "31",
+    "name": "Bottle",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/31.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "32",
+    "name": "Wooden Table",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/32.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "33",
+    "name": "Furnace",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/33.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "34",
+    "name": "Wooden Chair",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/34.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "35",
+    "name": "Iron Anvil",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/35.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "36",
+    "name": "Work Bench",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/36.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "37",
+    "name": "Goggles",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/37.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "38",
+    "name": "Lens",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/38.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "39",
+    "name": "Wooden Bow",
+    "type": "weapon",
+    "category": "ranged",
+    "subcategory": "bow",
+    "iconPath": "/assets/icons/weapons/39.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "40",
+    "name": "Wooden Arrow",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/40.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "41",
+    "name": "Flaming Arrow",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/41.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "42",
+    "name": "Shuriken",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/42.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "43",
+    "name": "Suspicious Looking Eye",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/43.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "44",
+    "name": "Demon Bow",
+    "type": "weapon",
+    "category": "ranged",
+    "subcategory": "bow",
+    "iconPath": "/assets/icons/weapons/44.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "45",
+    "name": "War Axe of the Night",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/weapons/45.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "46",
+    "name": "Light's Bane",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/46.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "47",
+    "name": "Unholy Arrow",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/47.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "48",
+    "name": "Chest",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/48.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "49",
+    "name": "Band of Regeneration",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "band",
+    "iconPath": "/assets/icons/accessories/49.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "50",
+    "name": "Magic Mirror",
+    "type": "accessory",
+    "category": "utility",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/50.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "green",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  }
+]

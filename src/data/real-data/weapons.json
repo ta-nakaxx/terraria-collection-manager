@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Iron Pickaxe",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/weapons/1.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "4",
+    "name": "Iron Broadsword",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "sword",
+    "iconPath": "/assets/icons/weapons/4.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "6",
+    "name": "Iron Shortsword",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "sword",
+    "iconPath": "/assets/icons/weapons/6.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "7",
+    "name": "Iron Hammer",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/weapons/7.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "10",
+    "name": "Iron Axe",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/weapons/10.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "24",
+    "name": "Wooden Sword",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "sword",
+    "iconPath": "/assets/icons/weapons/24.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "29",
+    "name": "Life Crystal",
+    "type": "weapon",
+    "category": "magic",
+    "subcategory": "crystal",
+    "iconPath": "/assets/icons/weapons/29.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "39",
+    "name": "Wooden Bow",
+    "type": "weapon",
+    "category": "ranged",
+    "subcategory": "bow",
+    "iconPath": "/assets/icons/weapons/39.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "44",
+    "name": "Demon Bow",
+    "type": "weapon",
+    "category": "ranged",
+    "subcategory": "bow",
+    "iconPath": "/assets/icons/weapons/44.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "45",
+    "name": "War Axe of the Night",
+    "type": "weapon",
+    "category": "melee",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/weapons/45.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  }
+]
