@@ -13,7 +13,7 @@ import { filterItems } from "@/utils/itemUtils";
 import { useCollection } from "@/hooks/useCollection";
 
 export default function TerrariaDashboard() {
-  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const [selectedCategory, setSelectedCategory] = useState<string | null>("weapons");
   const [selectedSubcategory, setSelectedSubcategory] = useState<string | null>(null);
   const [selectedItem, setSelectedItem] = useState<Item | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
