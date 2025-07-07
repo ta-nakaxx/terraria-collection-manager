@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useCallback } from "react";
 import { Item } from "@/types";
-import { categories, v0Items } from "@/data/v0-data";
+import { categories } from "@/data/v0-data";
 import { CategorySidebar } from "./CategorySidebar";
 import { ItemCard } from "../items/ItemCard";
 import { ItemDetailsPanel } from "../items/ItemDetailsPanel";
@@ -11,6 +11,7 @@ import { SearchBar } from "../common/SearchBar";
 import { Search } from "lucide-react";
 import { filterItems } from "@/utils/itemUtils";
 import { useCollection } from "@/hooks/useCollection";
+import { useItemData, getDataSourceDisplayInfo } from "@/hooks/useItemData";
 
 /**
  * デフォルトで選択されるカテゴリ
@@ -87,21 +88,34 @@ export default function TerrariaDashboard() {
   const [selectedItem, setSelectedItem] = useState<Item | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
 
+  // アイテムデータ読み込み
+  const { 
+    items: rawItems, 
+    isLoading: isDataLoading, 
+    error: dataError,
+    dataSource,
+    itemCount
+  } = useItemData();
+
   // ローカルストレージ機能を使用
   const { 
     toggleItemOwnership, 
     getItemOwnership, 
-    isLoading, 
-    error 
+    isLoading: isCollectionLoading, 
+    error: collectionError 
   } = useCollection();
+
+  // 総合的なローディング状態とエラー状態
+  const isLoading = isDataLoading || isCollectionLoading;
+  const error = dataError || collectionError;
 
   // アイテムデータに所持状態を統合
   const itemsWithOwnership = useMemo(() => {
-    return v0Items.map(item => ({
+    return rawItems.map(item => ({
       ...item,
       owned: getItemOwnership(item.id)
     }));
-  }, [getItemOwnership]);
+  }, [rawItems, getItemOwnership]);
 
   const filteredItems = useMemo(() => {
     const category = categories.find((c) => c.id === selectedCategory);
@@ -166,8 +180,22 @@ export default function TerrariaDashboard() {
             </div>
           </div>
 
-          {/* Right Side - Progress Overview */}
-          <div className="flex-shrink-0">
+          {/* Right Side - Progress and Data Source Info */}
+          <div className="flex-shrink-0 flex items-center space-x-4">
+            {/* Data Source Indicator */}
+            {dataSource && (
+              <div className="flex items-center space-x-2 px-3 py-1.5 bg-gray-100 rounded-lg">
+                <span className="text-sm">
+                  {getDataSourceDisplayInfo(dataSource).icon}
+                </span>
+                <span className={`text-xs font-medium ${getDataSourceDisplayInfo(dataSource).color}`}>
+                  {getDataSourceDisplayInfo(dataSource).label}
+                </span>
+                <span className="text-xs text-gray-500">
+                  ({itemCount} items)
+                </span>
+              </div>
+            )}
             <ProgressOverview items={itemsWithOwnership} />
           </div>
         </div>
