@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Iron Pickaxe",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "other",
     "iconPath": "/assets/icons/weapons/1.png",
     "acquisition": [
@@ -17,7 +17,7 @@
     "id": "4",
     "name": "Iron Broadsword",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "sword",
     "iconPath": "/assets/icons/weapons/4.png",
     "acquisition": [
@@ -31,7 +31,7 @@
     "id": "6",
     "name": "Iron Shortsword",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "sword",
     "iconPath": "/assets/icons/weapons/6.png",
     "acquisition": [
@@ -45,7 +45,7 @@
     "id": "7",
     "name": "Iron Hammer",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "other",
     "iconPath": "/assets/icons/weapons/7.png",
     "acquisition": [
@@ -59,7 +59,7 @@
     "id": "10",
     "name": "Iron Axe",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "other",
     "iconPath": "/assets/icons/weapons/10.png",
     "acquisition": [
@@ -73,7 +73,7 @@
     "id": "24",
     "name": "Wooden Sword",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "sword",
     "iconPath": "/assets/icons/weapons/24.png",
     "acquisition": [
@@ -87,7 +87,7 @@
     "id": "29",
     "name": "Life Crystal",
     "type": "weapon",
-    "category": "magic",
+    "category": "Magic",
     "subcategory": "crystal",
     "iconPath": "/assets/icons/weapons/29.png",
     "acquisition": [
@@ -101,7 +101,7 @@
     "id": "39",
     "name": "Wooden Bow",
     "type": "weapon",
-    "category": "ranged",
+    "category": "Ranged",
     "subcategory": "bow",
     "iconPath": "/assets/icons/weapons/39.png",
     "acquisition": [
@@ -115,7 +115,7 @@
     "id": "44",
     "name": "Demon Bow",
     "type": "weapon",
-    "category": "ranged",
+    "category": "Ranged",
     "subcategory": "bow",
     "iconPath": "/assets/icons/weapons/44.png",
     "acquisition": [
@@ -129,7 +129,7 @@
     "id": "45",
     "name": "War Axe of the Night",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "other",
     "iconPath": "/assets/icons/weapons/45.png",
     "acquisition": [

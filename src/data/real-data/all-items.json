@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Iron Pickaxe",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "other",
     "iconPath": "/assets/icons/weapons/1.png",
     "acquisition": [
@@ -17,7 +17,7 @@
     "id": "2",
     "name": "Dirt Block",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/2.png",
     "acquisition": [
@@ -31,7 +31,7 @@
     "id": "3",
     "name": "Stone Block",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/3.png",
     "acquisition": [
@@ -45,7 +45,7 @@
     "id": "4",
     "name": "Iron Broadsword",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "sword",
     "iconPath": "/assets/icons/weapons/4.png",
     "acquisition": [
@@ -59,7 +59,7 @@
     "id": "5",
     "name": "Mushroom",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/5.png",
     "acquisition": [
@@ -73,7 +73,7 @@
     "id": "6",
     "name": "Iron Shortsword",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "sword",
     "iconPath": "/assets/icons/weapons/6.png",
     "acquisition": [
@@ -87,7 +87,7 @@
     "id": "7",
     "name": "Iron Hammer",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "other",
     "iconPath": "/assets/icons/weapons/7.png",
     "acquisition": [
@@ -101,7 +101,7 @@
     "id": "8",
     "name": "Torch",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/8.png",
     "acquisition": [
@@ -115,7 +115,7 @@
     "id": "9",
     "name": "Wood",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/9.png",
     "acquisition": [
@@ -129,7 +129,7 @@
     "id": "10",
     "name": "Iron Axe",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "other",
     "iconPath": "/assets/icons/weapons/10.png",
     "acquisition": [
@@ -143,7 +143,7 @@
     "id": "11",
     "name": "Iron Ore",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/11.png",
     "acquisition": [
@@ -157,7 +157,7 @@
     "id": "12",
     "name": "Copper Ore",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/12.png",
     "acquisition": [
@@ -171,7 +171,7 @@
     "id": "13",
     "name": "Gold Ore",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/13.png",
     "acquisition": [
@@ -185,7 +185,7 @@
     "id": "14",
     "name": "Silver Ore",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/14.png",
     "acquisition": [
@@ -199,7 +199,7 @@
     "id": "15",
     "name": "Copper Watch",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/15.png",
     "acquisition": [
@@ -213,7 +213,7 @@
     "id": "16",
     "name": "Silver Watch",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/16.png",
     "acquisition": [
@@ -227,7 +227,7 @@
     "id": "17",
     "name": "Gold Watch",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/17.png",
     "acquisition": [
@@ -241,7 +241,7 @@
     "id": "18",
     "name": "Depth Meter",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/18.png",
     "acquisition": [
@@ -255,7 +255,7 @@
     "id": "19",
     "name": "Gold Bar",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/19.png",
     "acquisition": [
@@ -269,7 +269,7 @@
     "id": "20",
     "name": "Copper Bar",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/20.png",
     "acquisition": [
@@ -283,7 +283,7 @@
     "id": "21",
     "name": "Silver Bar",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/21.png",
     "acquisition": [
@@ -297,7 +297,7 @@
     "id": "22",
     "name": "Iron Bar",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/22.png",
     "acquisition": [
@@ -311,7 +311,7 @@
     "id": "23",
     "name": "Gel",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/23.png",
     "acquisition": [
@@ -325,7 +325,7 @@
     "id": "24",
     "name": "Wooden Sword",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "sword",
     "iconPath": "/assets/icons/weapons/24.png",
     "acquisition": [
@@ -339,7 +339,7 @@
     "id": "25",
     "name": "Wooden Door",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/25.png",
     "acquisition": [
@@ -353,7 +353,7 @@
     "id": "26",
     "name": "Stone Wall",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/26.png",
     "acquisition": [
@@ -367,7 +367,7 @@
     "id": "27",
     "name": "Acorn",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/27.png",
     "acquisition": [
@@ -381,7 +381,7 @@
     "id": "28",
     "name": "Lesser Healing Potion",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/28.png",
     "acquisition": [
@@ -395,7 +395,7 @@
     "id": "29",
     "name": "Life Crystal",
     "type": "weapon",
-    "category": "magic",
+    "category": "Magic",
     "subcategory": "crystal",
     "iconPath": "/assets/icons/weapons/29.png",
     "acquisition": [
@@ -409,7 +409,7 @@
     "id": "30",
     "name": "Dirt Wall",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/30.png",
     "acquisition": [
@@ -423,7 +423,7 @@
     "id": "31",
     "name": "Bottle",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/31.png",
     "acquisition": [
@@ -437,7 +437,7 @@
     "id": "32",
     "name": "Wooden Table",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/32.png",
     "acquisition": [
@@ -451,7 +451,7 @@
     "id": "33",
     "name": "Furnace",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/33.png",
     "acquisition": [
@@ -465,7 +465,7 @@
     "id": "34",
     "name": "Wooden Chair",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/34.png",
     "acquisition": [
@@ -479,7 +479,7 @@
     "id": "35",
     "name": "Iron Anvil",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/35.png",
     "acquisition": [
@@ -493,7 +493,7 @@
     "id": "36",
     "name": "Work Bench",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/36.png",
     "acquisition": [
@@ -507,7 +507,7 @@
     "id": "37",
     "name": "Goggles",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/37.png",
     "acquisition": [
@@ -521,7 +521,7 @@
     "id": "38",
     "name": "Lens",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/38.png",
     "acquisition": [
@@ -535,7 +535,7 @@
     "id": "39",
     "name": "Wooden Bow",
     "type": "weapon",
-    "category": "ranged",
+    "category": "Ranged",
     "subcategory": "bow",
     "iconPath": "/assets/icons/weapons/39.png",
     "acquisition": [
@@ -549,7 +549,7 @@
     "id": "40",
     "name": "Wooden Arrow",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/40.png",
     "acquisition": [
@@ -563,7 +563,7 @@
     "id": "41",
     "name": "Flaming Arrow",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/41.png",
     "acquisition": [
@@ -577,7 +577,7 @@
     "id": "42",
     "name": "Shuriken",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/42.png",
     "acquisition": [
@@ -591,7 +591,7 @@
     "id": "43",
     "name": "Suspicious Looking Eye",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/43.png",
     "acquisition": [
@@ -605,7 +605,7 @@
     "id": "44",
     "name": "Demon Bow",
     "type": "weapon",
-    "category": "ranged",
+    "category": "Ranged",
     "subcategory": "bow",
     "iconPath": "/assets/icons/weapons/44.png",
     "acquisition": [
@@ -619,7 +619,7 @@
     "id": "45",
     "name": "War Axe of the Night",
     "type": "weapon",
-    "category": "melee",
+    "category": "Melee",
     "subcategory": "other",
     "iconPath": "/assets/icons/weapons/45.png",
     "acquisition": [
@@ -633,7 +633,7 @@
     "id": "46",
     "name": "Light's Bane",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/46.png",
     "acquisition": [
@@ -647,7 +647,7 @@
     "id": "47",
     "name": "Unholy Arrow",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/47.png",
     "acquisition": [
@@ -661,7 +661,7 @@
     "id": "48",
     "name": "Chest",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/48.png",
     "acquisition": [
@@ -675,7 +675,7 @@
     "id": "49",
     "name": "Band of Regeneration",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "band",
     "iconPath": "/assets/icons/accessories/49.png",
     "acquisition": [
@@ -689,7 +689,7 @@
     "id": "50",
     "name": "Magic Mirror",
     "type": "accessory",
-    "category": "utility",
+    "category": "Utility",
     "subcategory": "other",
     "iconPath": "/assets/icons/accessories/50.png",
     "acquisition": [

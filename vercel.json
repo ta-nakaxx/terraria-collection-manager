@@ -1,0 +1,18 @@
+{
+  "buildCommand": "npm run build",
+  "framework": "nextjs",
+  "functions": {
+    "app/**/*.{js,ts,tsx}": {
+      "maxDuration": 60
+    }
+  },
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": ".next"
+      }
+    }
+  ]
+}

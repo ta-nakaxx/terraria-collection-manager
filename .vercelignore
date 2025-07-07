@@ -1,0 +1,30 @@
+# 開発関連ファイルを除外してデプロイ速度向上
+*.md
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# テストファイル
+**/*.test.ts
+**/*.test.tsx
+**/*.spec.ts
+**/*.spec.tsx
+__tests__/
+jest.config.js
+
+# 開発用スクリプト（データ変換は必要な時のみ）
+scripts/data-conversion/
+data/source/
+data/stats/
+
+# ソースマップ
+**/*.map
+
+# ログファイル
+*.log
+logs/
+
+# 一時ファイル
+tmp/
+temp/

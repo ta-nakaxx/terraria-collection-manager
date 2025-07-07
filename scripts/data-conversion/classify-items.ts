@@ -128,76 +128,123 @@ export function classifyItemType(name: string): ItemType {
 }
 
 /**
- * アイテムカテゴリを詳細に分類
+ * UIカテゴリ（サブカテゴリとして使用）を分類
+ * UIの期待値に合わせて大分類を返す
  */
 export function classifyItemCategory(name: string, type: ItemType): string {
   const lowerName = name.toLowerCase();
   
   switch (type) {
     case 'weapon':
-      // 武器の詳細分類
-      for (const [category, subcategories] of Object.entries(CLASSIFICATION_RULES.weapons)) {
+      // 武器の大分類（UIのサブカテゴリに対応）
+      for (const [weaponClass, subcategories] of Object.entries(CLASSIFICATION_RULES.weapons)) {
         for (const keywords of Object.values(subcategories)) {
           if (containsKeyword(lowerName, keywords)) {
-            return category;
+            // 大分類を適切にマッピング
+            switch (weaponClass) {
+              case 'melee':
+                return 'Melee';
+              case 'ranged':
+                return 'Ranged';
+              case 'magic':
+                return 'Magic';
+              case 'summoner':
+                return 'Summoner';
+              default:
+                return 'Melee';
+            }
           }
         }
       }
-      return 'melee'; // デフォルト
+      return 'Melee'; // デフォルト
       
     case 'armor':
-      // 防具の詳細分類
+      // 防具の大分類
       for (const [category, keywords] of Object.entries(CLASSIFICATION_RULES.armor)) {
         if (containsKeyword(lowerName, keywords)) {
-          return category;
+          switch (category) {
+            case 'head':
+              return 'Head';
+            case 'body':
+              return 'Chest';
+            case 'legs':
+              return 'Legs';
+            default:
+              return 'Head';
+          }
         }
       }
-      return 'body'; // デフォルト
+      return 'Head'; // デフォルト
       
     case 'accessory':
-      // アクセサリーの詳細分類
+      // アクセサリーの大分類
       for (const [category, keywords] of Object.entries(CLASSIFICATION_RULES.accessories)) {
         if (containsKeyword(lowerName, keywords)) {
-          return category;
+          switch (category) {
+            case 'movement':
+              return 'Movement';
+            case 'defense':
+            case 'combat':
+              return 'Combat';
+            case 'utility':
+              return 'Utility';
+            default:
+              return 'Utility';
+          }
         }
       }
-      return 'utility'; // デフォルト
+      return 'Utility'; // デフォルト
       
     case 'npc':
-      // NPCの詳細分類
+      // NPCの大分類
       for (const [category, keywords] of Object.entries(CLASSIFICATION_RULES.npcs)) {
         if (containsKeyword(lowerName, keywords)) {
-          return category;
+          switch (category) {
+            case 'town':
+              return 'Merchants';
+            case 'special':
+              return 'Craftsmen';
+            default:
+              return 'Merchants';
+          }
         }
       }
-      return 'town'; // デフォルト
+      return 'Merchants'; // デフォルト
       
     case 'boss':
-      // ボスの詳細分類
+      // ボスの大分類
       for (const [category, keywords] of Object.entries(CLASSIFICATION_RULES.bosses)) {
         if (containsKeyword(lowerName, keywords)) {
-          return category;
+          switch (category) {
+            case 'pre_hardmode':
+              return 'Pre-Hardmode';
+            case 'hardmode':
+              return 'Hardmode';
+            case 'post_golem':
+              return 'Event';
+            default:
+              return 'Pre-Hardmode';
+          }
         }
       }
-      return 'pre_hardmode'; // デフォルト
+      return 'Pre-Hardmode'; // デフォルト
       
     default:
-      return 'other';
+      return 'Other';
   }
 }
 
 /**
- * サブカテゴリを詳細に分類
+ * サブカテゴリを詳細に分類（詳細な武器タイプなど）
  */
 export function classifyItemSubcategory(name: string, type: ItemType, category: string): string {
   const lowerName = name.toLowerCase();
   
   switch (type) {
     case 'weapon':
-      // 武器のサブカテゴリ
-      const weaponRules = CLASSIFICATION_RULES.weapons[category as keyof typeof CLASSIFICATION_RULES.weapons];
-      if (weaponRules) {
-        for (const [subcategory, keywords] of Object.entries(weaponRules)) {
+      // 武器の詳細分類
+      for (const [weaponClass, subcategories] of Object.entries(CLASSIFICATION_RULES.weapons)) {
+        for (const [subcategory, keywords] of Object.entries(subcategories)) {
           if (containsKeyword(lowerName, keywords)) {
             return subcategory;
           }
@@ -206,20 +253,34 @@ export function classifyItemSubcategory(name: string, type: ItemType, category: 
       return 'other';
       
     case 'armor':
-      // 防具のサブカテゴリは基本的にカテゴリと同じ
-      return category;
-      
-    case 'accessory':
-      // アクセサリーのサブカテゴリ
-      const accessoryRules = CLASSIFICATION_RULES.accessories[category as keyof typeof CLASSIFICATION_RULES.accessories];
-      if (accessoryRules) {
-        for (const keyword of accessoryRules) {
-          if (lowerName.includes(keyword)) {
-            return keyword;
-          }
+      // 防具の詳細分類
+      for (const [armorSlot, keywords] of Object.entries(CLASSIFICATION_RULES.armor)) {
+        if (containsKeyword(lowerName, keywords)) {
+          return armorSlot;
         }
       }
       return 'other';
+      
+    case 'accessory':
+      // アクセサリーの詳細分類
+      for (const [accessoryType, keywords] of Object.entries(CLASSIFICATION_RULES.accessories)) {
+        if (containsKeyword(lowerName, keywords)) {
+          // 最初にマッチしたキーワードを返す
+          for (const keyword of keywords) {
+            if (lowerName.includes(keyword)) {
+              return keyword.replace(/\s+/g, '_');
+            }
+          }
+          return accessoryType;
+        }
+      }
+      return 'other';
+      
+    case 'npc':
+      return category.toLowerCase();
+      
+    case 'boss':
+      return category.toLowerCase();
       
     default:
       return 'other';
