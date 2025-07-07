@@ -61,28 +61,32 @@ export const useCollection = () => {
     const currentStatus = collection[itemId] || false;
     const newStatus = !currentStatus;
     
-    // UIを即座に更新
-    setCollection(prev => ({
-      ...prev,
-      [itemId]: newStatus
-    }));
-    
     // ローカルストレージに保存
-    updateItemStatus(itemId, newStatus);
+    const saveSuccess = updateItemStatus(itemId, newStatus);
+    
+    // 保存が成功した場合のみUIを更新
+    if (saveSuccess) {
+      setCollection(prev => ({
+        ...prev,
+        [itemId]: newStatus
+      }));
+    }
   }, [collection, updateItemStatus]);
 
   /**
    * 複数のアイテムの所持状態を一括更新
    */
   const updateMultipleItemsOwnership = useCallback((updates: { [itemId: string]: boolean }) => {
-    // UIを即座に更新
-    setCollection(prev => ({
-      ...prev,
-      ...updates
-    }));
-    
     // ローカルストレージに保存
-    updateMultipleItems(updates);
+    const saveSuccess = updateMultipleItems(updates);
+    
+    // 保存が成功した場合のみUIを更新
+    if (saveSuccess) {
+      setCollection(prev => ({
+        ...prev,
+        ...updates
+      }));
+    }
   }, [updateMultipleItems]);
 
   /**
@@ -96,13 +100,14 @@ export const useCollection = () => {
    * 設定を更新
    */
   const updateCollectionSettings = useCallback((newSettings: Partial<CollectionSettings>) => {
-    const updatedSettings = { ...settings, ...newSettings };
-    
-    // UIを即座に更新
-    setSettings(updatedSettings);
-    
     // ローカルストレージに保存
-    updateStorageSettings(newSettings);
+    const saveSuccess = updateStorageSettings(newSettings);
+    
+    // 保存が成功した場合のみUIを更新
+    if (saveSuccess) {
+      const updatedSettings = { ...settings, ...newSettings };
+      setSettings(updatedSettings);
+    }
   }, [settings, updateStorageSettings]);
 
   /**
@@ -144,14 +149,6 @@ export const useCollection = () => {
     }
   }, [storageLoading, isInitialized, initializeCollection]);
 
-  /**
-   * 状態変更時の自動保存
-   */
-  useEffect(() => {
-    if (isInitialized) {
-      saveData(collection, settings);
-    }
-  }, [collection, settings, isInitialized, saveData]);
 
   return {
     // 状態
