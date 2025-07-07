@@ -4,7 +4,7 @@ import { Category } from '@/types';
 
 interface CategorySidebarProps {
   categories: Category[];
-  selectedCategory: string | null;
+  selectedCategory: string;
   selectedSubcategory: string | null;
   onCategorySelect: (categoryId: string) => void;
   onSubcategorySelect: (subcategory: string) => void;

@@ -13,7 +13,7 @@ import { filterItems } from "@/utils/itemUtils";
 import { useCollection } from "@/hooks/useCollection";
 
 export default function TerrariaDashboard() {
-  const [selectedCategory, setSelectedCategory] = useState<string | null>("weapons");
+  const [selectedCategory, setSelectedCategory] = useState<string>("weapons");
   const [selectedSubcategory, setSelectedSubcategory] = useState<string | null>(null);
   const [selectedItem, setSelectedItem] = useState<Item | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
@@ -36,7 +36,7 @@ export default function TerrariaDashboard() {
   }, [collection, getItemOwnership]);
 
   const filteredItems = useMemo(() => {
-    const category = selectedCategory ? categories.find((c) => c.id === selectedCategory) : null;
+    const category = categories.find((c) => c.id === selectedCategory);
     
     return filterItems(itemsWithOwnership, {
       type: category?.type,
@@ -46,7 +46,7 @@ export default function TerrariaDashboard() {
   }, [itemsWithOwnership, selectedCategory, selectedSubcategory, searchQuery]);
 
   const handleCategorySelect = (categoryId: string) => {
-    setSelectedCategory(selectedCategory === categoryId ? null : categoryId);
+    setSelectedCategory(categoryId);
     setSelectedSubcategory(null);
   };
 
