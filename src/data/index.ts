@@ -26,7 +26,7 @@ export const getAllItems = (): AnyItem[] => {
   ];
 };
 
-export const getItemsByType = (type: string): AnyItem[] => {
+export const getItemsDataByType = (type: string): AnyItem[] => {
   switch (type) {
     case 'weapons':
       return sampleItems.weapons;

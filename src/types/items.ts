@@ -20,6 +20,10 @@ export interface ItemStats {
   critChance?: number;
 }
 
+/**
+ * Base item interface with common properties
+ * Used as foundation for all specific item types
+ */
 export interface Item {
   id: string;
   name: string;
@@ -75,4 +79,8 @@ export interface BossItem extends Item {
   difficulty: 'easy' | 'medium' | 'hard' | 'expert' | 'master';
 }
 
+/**
+ * Union type representing any specific item type
+ * Use this when you need to work with strongly-typed item variants
+ */
 export type AnyItem = WeaponItem | ArmorItem | AccessoryItem | NPCItem | BossItem;
