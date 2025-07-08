@@ -8,7 +8,13 @@ import { ItemCard } from "../items/ItemCard";
 import { ItemDetailsPanel } from "../items/ItemDetailsPanel";
 import { ProgressOverview } from "./ProgressOverview";
 import { SearchBar } from "../common/SearchBar";
-import { Search } from "lucide-react";
+// Lightweight icon replacement
+const SearchIcon = () => (
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+    <circle cx="11" cy="11" r="8"/>
+    <path d="m21 21-4.35-4.35"/>
+  </svg>
+);
 import { filterItems } from "@/utils/itemUtils";
 import { useCollection } from "@/hooks/useCollection";
 import { useItemData, getDataSourceDisplayInfo } from "@/hooks/useItemData";

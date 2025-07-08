@@ -1,6 +1,12 @@
 "use client";
 
-import { Search } from 'lucide-react';
+// Lightweight icon replacement
+const SearchIcon = () => (
+  <svg className="h-4 w-4 text-gray-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+    <circle cx="11" cy="11" r="8"/>
+    <path d="m21 21-4.35-4.35"/>
+  </svg>
+);
 
 interface SearchBarProps {
   value: string;
@@ -12,7 +18,7 @@ export function SearchBar({ value, onChange, placeholder = "Search items..." }: 
   return (
     <div className="relative">
       <div className="absolute inset-y-0 left-0 pl-2.5 flex items-center pointer-events-none">
-        <Search className="h-4 w-4 text-gray-400" />
+        <SearchIcon />
       </div>
       <input
         type="text"

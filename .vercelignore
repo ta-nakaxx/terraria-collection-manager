@@ -5,18 +5,22 @@
 .env.test.local
 .env.production.local
 
-# テストファイル
+# テストファイル - 最大の軽量化ポイント
 **/*.test.ts
 **/*.test.tsx
 **/*.spec.ts
 **/*.spec.tsx
 __tests__/
 jest.config.js
+jest.setup.js
 
-# 開発用スクリプト（データ変換は必要な時のみ）
-scripts/data-conversion/
+# 開発用スクリプト
+scripts/
 data/source/
 data/stats/
+
+# TypeScript設定（本番では不要）
+tsconfig.node.json
 
 # ソースマップ
 **/*.map
@@ -28,3 +32,7 @@ logs/
 # 一時ファイル
 tmp/
 temp/
+
+# 不要な設定ファイル
+.eslintrc*
+.prettierrc*
