@@ -96,7 +96,7 @@ function validateRequiredFields(item: Item): ValidationError[] {
  */
 function validateItemType(item: Item): ValidationError[] {
   const errors: ValidationError[] = [];
-  const validTypes: ItemType[] = ['weapon', 'armor', 'accessory', 'npc', 'boss'];
+  const validTypes: ItemType[] = ['weapon', 'armor', 'accessory', 'tool', 'npc', 'boss'];
   
   if (!validTypes.includes(item.type)) {
     errors.push({
@@ -189,11 +189,12 @@ function validateCategoryTypeConsistency(item: Item): ValidationError[] {
   const errors: ValidationError[] = [];
   
   const categoryMapping = {
-    weapon: ['melee', 'ranged', 'magic', 'summoner'],
-    armor: ['head', 'body', 'legs'],
-    accessory: ['movement', 'defense', 'utility', 'combat'],
-    npc: ['town', 'special'],
-    boss: ['pre_hardmode', 'hardmode', 'post_golem']
+    weapon: ['Melee', 'Ranged', 'Magic', 'Summoner'],
+    tool: ['Mining', 'Building', 'Utility'],
+    armor: ['Head', 'Chest', 'Legs'],
+    accessory: ['Movement', 'Combat', 'Utility'],
+    npc: ['Merchants', 'Craftsmen'],
+    boss: ['Pre-Hardmode', 'Hardmode', 'Event']
   };
   
   const validCategories = categoryMapping[item.type];

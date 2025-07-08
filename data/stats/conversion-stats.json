@@ -1,8 +1,9 @@
 {
   "totalItems": 50,
   "byType": {
-    "weapon": 10,
-    "accessory": 40
+    "tool": 4,
+    "accessory": 40,
+    "weapon": 6
   },
   "byRarity": {
     "white": 49,
@@ -15,5 +16,5 @@
     "craft": 37,
     "find": 13
   },
-  "generatedAt": "2025-07-07T17:45:18.923Z"
+  "generatedAt": "2025-07-08T00:14:12.505Z"
 }

@@ -9,6 +9,12 @@ export const categories: Category[] = [
     subcategories: ["Melee", "Ranged", "Magic", "Summoner"],
   },
   {
+    id: "tools",
+    name: "Tools",
+    type: "tool",
+    subcategories: ["Mining", "Building", "Utility"],
+  },
+  {
     id: "armor",
     name: "Armor",
     type: "armor",

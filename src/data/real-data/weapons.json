@@ -1,19 +1,5 @@
 [
   {
-    "id": "1",
-    "name": "Iron Pickaxe",
-    "type": "weapon",
-    "category": "Melee",
-    "subcategory": "other",
-    "iconPath": "/assets/icons/weapons/1.png",
-    "acquisition": [
-      "craft"
-    ],
-    "rarity": "white",
-    "gameStage": "pre-hardmode",
-    "owned": false
-  },
-  {
     "id": "4",
     "name": "Iron Broadsword",
     "type": "weapon",
@@ -34,34 +20,6 @@
     "category": "Melee",
     "subcategory": "sword",
     "iconPath": "/assets/icons/weapons/6.png",
-    "acquisition": [
-      "craft"
-    ],
-    "rarity": "white",
-    "gameStage": "pre-hardmode",
-    "owned": false
-  },
-  {
-    "id": "7",
-    "name": "Iron Hammer",
-    "type": "weapon",
-    "category": "Melee",
-    "subcategory": "other",
-    "iconPath": "/assets/icons/weapons/7.png",
-    "acquisition": [
-      "craft"
-    ],
-    "rarity": "white",
-    "gameStage": "pre-hardmode",
-    "owned": false
-  },
-  {
-    "id": "10",
-    "name": "Iron Axe",
-    "type": "weapon",
-    "category": "Melee",
-    "subcategory": "other",
-    "iconPath": "/assets/icons/weapons/10.png",
     "acquisition": [
       "craft"
     ],
@@ -118,20 +76,6 @@
     "category": "Ranged",
     "subcategory": "bow",
     "iconPath": "/assets/icons/weapons/44.png",
-    "acquisition": [
-      "craft"
-    ],
-    "rarity": "white",
-    "gameStage": "pre-hardmode",
-    "owned": false
-  },
-  {
-    "id": "45",
-    "name": "War Axe of the Night",
-    "type": "weapon",
-    "category": "Melee",
-    "subcategory": "other",
-    "iconPath": "/assets/icons/weapons/45.png",
     "acquisition": [
       "craft"
     ],

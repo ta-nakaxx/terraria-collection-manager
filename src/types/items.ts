@@ -1,6 +1,6 @@
 // Core item types for Terraria Collection Manager
 
-export type ItemType = 'weapon' | 'armor' | 'accessory' | 'npc' | 'boss';
+export type ItemType = 'weapon' | 'armor' | 'accessory' | 'tool' | 'npc' | 'boss';
 
 export type WeaponCategory = 'melee' | 'ranged' | 'magic' | 'summoner';
 
@@ -73,6 +73,13 @@ export interface NPCItem extends Item {
   };
 }
 
+export interface ToolItem extends Item {
+  type: 'tool';
+  toolType: 'mining' | 'building' | 'utility';
+  power?: number;
+  range?: number;
+}
+
 export interface BossItem extends Item {
   type: 'boss';
   health: number;
@@ -85,4 +92,4 @@ export interface BossItem extends Item {
  * Union type representing any specific item type
  * Use this when you need to work with strongly-typed item variants
  */
-export type AnyItem = WeaponItem | ArmorItem | AccessoryItem | NPCItem | BossItem;
+export type AnyItem = WeaponItem | ArmorItem | AccessoryItem | ToolItem | NPCItem | BossItem;

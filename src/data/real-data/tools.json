@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "Iron Pickaxe",
+    "type": "tool",
+    "category": "Mining",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/1.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "7",
+    "name": "Iron Hammer",
+    "type": "tool",
+    "category": "Building",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/7.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "10",
+    "name": "Iron Axe",
+    "type": "tool",
+    "category": "Building",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/10.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  },
+  {
+    "id": "45",
+    "name": "War Axe of the Night",
+    "type": "tool",
+    "category": "Building",
+    "subcategory": "other",
+    "iconPath": "/assets/icons/accessories/45.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false
+  }
+]

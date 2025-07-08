@@ -82,11 +82,11 @@ export function ItemCard({ item, onToggleOwned, onItemClick }: ItemCardProps) {
           />
         )}
 
-        {/* Subcategory Badge - Top Left */}
-        {item.subcategory && (
+        {/* Category Badge - Top Left */}
+        {item.category && (
           <div className="absolute top-0 left-0 z-10">
             <span className="inline-flex items-center px-1 py-0.5 rounded-sm text-[8px] font-medium bg-black/30 text-white backdrop-blur-sm shadow-sm">
-              {abbreviateSubcategory(item.subcategory)}
+              {abbreviateSubcategory(item.category)}
             </span>
           </div>
         )}

@@ -2,10 +2,10 @@
   {
     "id": "1",
     "name": "Iron Pickaxe",
-    "type": "weapon",
-    "category": "Melee",
+    "type": "tool",
+    "category": "Mining",
     "subcategory": "other",
-    "iconPath": "/assets/icons/weapons/1.png",
+    "iconPath": "/assets/icons/accessories/1.png",
     "acquisition": [
       "craft"
     ],
@@ -86,10 +86,10 @@
   {
     "id": "7",
     "name": "Iron Hammer",
-    "type": "weapon",
-    "category": "Melee",
+    "type": "tool",
+    "category": "Building",
     "subcategory": "other",
-    "iconPath": "/assets/icons/weapons/7.png",
+    "iconPath": "/assets/icons/accessories/7.png",
     "acquisition": [
       "craft"
     ],
@@ -128,10 +128,10 @@
   {
     "id": "10",
     "name": "Iron Axe",
-    "type": "weapon",
-    "category": "Melee",
+    "type": "tool",
+    "category": "Building",
     "subcategory": "other",
-    "iconPath": "/assets/icons/weapons/10.png",
+    "iconPath": "/assets/icons/accessories/10.png",
     "acquisition": [
       "craft"
     ],
@@ -618,10 +618,10 @@
   {
     "id": "45",
     "name": "War Axe of the Night",
-    "type": "weapon",
-    "category": "Melee",
+    "type": "tool",
+    "category": "Building",
     "subcategory": "other",
-    "iconPath": "/assets/icons/weapons/45.png",
+    "iconPath": "/assets/icons/accessories/45.png",
     "acquisition": [
       "craft"
     ],

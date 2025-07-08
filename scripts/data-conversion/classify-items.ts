@@ -15,7 +15,7 @@ export const CLASSIFICATION_RULES = {
       flail: ['flail', 'chain', 'morning star'],
       yoyo: ['yoyo'],
       boomerang: ['boomerang', 'chakram', 'bananarang'],
-      other: ['pickaxe', 'axe', 'hammer', 'drill']
+      other: ['war axe', 'battle axe', 'sword', 'mace', 'club']
     },
     ranged: {
       bow: ['bow', 'crossbow'],
@@ -44,6 +44,11 @@ export const CLASSIFICATION_RULES = {
     defense: ['shield', 'shackle', 'cross', 'star', 'charm'],
     utility: ['ring', 'band', 'necklace', 'amulet', 'emblem', 'insignia', 'medal'],
     combat: ['glove', 'scope', 'quiver', 'pouch', 'belt']
+  },
+  tools: {
+    mining: ['pickaxe', 'drill'],
+    building: ['axe', 'hammer', 'chainsaw'],
+    utility: ['fishing pole', 'fishing rod', 'bug net', 'paint brush']
   },
   npcs: {
     town: ['guide', 'merchant', 'nurse', 'demolitionist', 'dye trader', 'angler', 'zoologist', 'golfer', 'princess', 'santa claus'],
@@ -93,6 +98,13 @@ function containsKeyword(text: string, keywords: readonly string[]): boolean {
 export function classifyItemType(name: string): ItemType {
   const lowerName = name.toLowerCase();
   
+  // ツールの判定（武器より先に判定）
+  for (const keywords of Object.values(CLASSIFICATION_RULES.tools)) {
+    if (containsKeyword(lowerName, keywords)) {
+      return 'tool';
+    }
+  }
+  
   // 武器の判定
   for (const [weaponType, subcategories] of Object.entries(CLASSIFICATION_RULES.weapons)) {
     for (const keywords of Object.values(subcategories)) {
@@ -135,6 +147,24 @@ export function classifyItemCategory(name: string, type: ItemType): string {
   const lowerName = name.toLowerCase();
   
   switch (type) {
+    case 'tool':
+      // ツールの大分類
+      for (const [toolClass, keywords] of Object.entries(CLASSIFICATION_RULES.tools)) {
+        if (containsKeyword(lowerName, keywords)) {
+          switch (toolClass) {
+            case 'mining':
+              return 'Mining';
+            case 'building':
+              return 'Building';
+            case 'utility':
+              return 'Utility';
+            default:
+              return 'Mining';
+          }
+        }
+      }
+      return 'Mining'; // デフォルト
+      
     case 'weapon':
       // 武器の大分類（UIのサブカテゴリに対応）
       for (const [weaponClass, subcategories] of Object.entries(CLASSIFICATION_RULES.weapons)) {
