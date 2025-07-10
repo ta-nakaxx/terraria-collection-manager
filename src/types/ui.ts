@@ -3,6 +3,6 @@
 export interface Category {
   id: string;
   name: string;
-  type: "weapon" | "armor" | "accessory" | "npc" | "boss";
+  type: "weapon" | "armor" | "accessory" | "tool" | "npc" | "boss";
   subcategories: string[];
 }
