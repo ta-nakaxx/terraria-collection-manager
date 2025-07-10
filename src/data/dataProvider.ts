@@ -27,29 +27,30 @@ async function loadRealData(): Promise<Item[]> {
   try {
     // 実データファイルの読み込みを試行
     throw new Error('Real data temporarily disabled for deployment testing');
+    
     // const response = await import('./real-data/all-items.json');
     // const realItems = response.default || response;
-    
-    if (!Array.isArray(realItems) || realItems.length === 0) {
-      throw new Error('Real data is empty or invalid format');
-    }
-    
-    // データの基本検証
-    const validItems = realItems.filter((item: unknown) => 
-      item && 
-      typeof item === 'object' &&
-      item !== null &&
-      typeof (item as Record<string, unknown>).id === 'string' && 
-      typeof (item as Record<string, unknown>).name === 'string' &&
-      typeof (item as Record<string, unknown>).type === 'string'
-    );
-    
-    if (validItems.length === 0) {
-      throw new Error('No valid items found in real data');
-    }
-    
-    console.log(`✅ Real data loaded successfully: ${validItems.length} items`);
-    return validItems as Item[];
+    // 
+    // if (!Array.isArray(realItems) || realItems.length === 0) {
+    //   throw new Error('Real data is empty or invalid format');
+    // }
+    // 
+    // // データの基本検証
+    // const validItems = realItems.filter((item: unknown) => 
+    //   item && 
+    //   typeof item === 'object' &&
+    //   item !== null &&
+    //   typeof (item as Record<string, unknown>).id === 'string' && 
+    //   typeof (item as Record<string, unknown>).name === 'string' &&
+    //   typeof (item as Record<string, unknown>).type === 'string'
+    // );
+    // 
+    // if (validItems.length === 0) {
+    //   throw new Error('No valid items found in real data');
+    // }
+    // 
+    // console.log(`✅ Real data loaded successfully: ${validItems.length} items`);
+    // return validItems as Item[];
   } catch (error) {
     console.warn('❌ Failed to load real data:', error);
     throw error;
