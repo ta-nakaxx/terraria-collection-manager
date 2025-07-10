@@ -26,8 +26,9 @@ export interface DataLoadResult {
 async function loadRealData(): Promise<Item[]> {
   try {
     // 実データファイルの読み込みを試行
-    const response = await import('./real-data/all-items.json');
-    const realItems = response.default || response;
+    throw new Error('Real data temporarily disabled for deployment testing');
+    // const response = await import('./real-data/all-items.json');
+    // const realItems = response.default || response;
     
     if (!Array.isArray(realItems) || realItems.length === 0) {
       throw new Error('Real data is empty or invalid format');
