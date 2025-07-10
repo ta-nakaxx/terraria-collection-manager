@@ -18,6 +18,8 @@ jest.setup.js
 scripts/
 data/source/
 data/stats/
+# 一時的にreal-dataも除外
+src/data/real-data-backup/
 
 # TypeScript設定（本番では不要）
 tsconfig.node.json
