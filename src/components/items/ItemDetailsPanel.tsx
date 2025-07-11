@@ -60,6 +60,7 @@ export function ItemDetailsPanel({ item, onClose, onToggleOwned }: ItemDetailsPa
             <span className="text-xs font-semibold text-gray-500 uppercase tracking-wider">Category</span>
             <p className="text-sm text-gray-800 font-medium mt-1">
               {item.category} - {item.subcategory}
+              {item.subSubcategory && ` - ${item.subSubcategory}`}
             </p>
           </div>
 

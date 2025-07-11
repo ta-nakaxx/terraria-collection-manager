@@ -62,6 +62,7 @@ export interface Item {
   type: ItemType;
   category: string;
   subcategory: string;
+  subSubcategory?: string;  // 3階層目の詳細分類（例: sword, bow, staff等）
   iconPath: string;
   acquisition: string[];
   stats?: ItemStats;
