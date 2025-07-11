@@ -119,16 +119,26 @@ export function ItemDetailsPanel({ item, onClose, onToggleOwned }: ItemDetailsPa
           )}
         </div>
 
-        <button
-          onClick={() => onToggleOwned(item.id)}
-          className={`w-full py-2.5 px-3 rounded-xl font-semibold transition-all duration-200 text-sm border-2 ${
-            item.owned
-              ? "bg-gray-900 text-white border-gray-900 hover:bg-gray-800 hover:border-gray-800 shadow-lg hover:shadow-xl"
-              : "bg-transparent text-gray-900 border-gray-900 hover:bg-gray-50"
-          }`}
-        >
-          {item.owned ? "Owned" : "Not Owned"}
-        </button>
+        {/* Collection toggle button (コレクション対象のみ表示) */}
+        {item.collectionType === 'collectible' && (
+          <button
+            onClick={() => onToggleOwned(item.id)}
+            className={`w-full py-2.5 px-3 rounded-xl font-semibold transition-all duration-200 text-sm border-2 ${
+              item.owned
+                ? "bg-gray-900 text-white border-gray-900 hover:bg-gray-800 hover:border-gray-800 shadow-lg hover:shadow-xl"
+                : "bg-transparent text-gray-900 border-gray-900 hover:bg-gray-50"
+            }`}
+          >
+            {item.owned ? "Owned" : "Not Owned"}
+          </button>
+        )}
+
+        {/* Reference item indicator (参考アイテム用) */}
+        {item.collectionType === 'reference' && (
+          <div className="w-full py-2.5 px-3 rounded-xl font-semibold text-sm border-2 border-blue-200 bg-blue-50 text-blue-800 text-center">
+            Reference Item
+          </div>
+        )}
       </div>
     </div>
   );

@@ -68,7 +68,7 @@ export const calculateProgressByType = (items: Item[]): Record<ItemType, {
   owned: number;
   percentage: number;
 }> => {
-  const types: ItemType[] = ['weapon', 'armor', 'accessory', 'npc', 'boss'];
+  const types: ItemType[] = ['weapon', 'armor', 'accessory', 'vanity', 'npc', 'boss'];
   
   return types.reduce((acc, type) => {
     const typeItems = getItemsByType(items, type);

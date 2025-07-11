@@ -41,28 +41,34 @@ export function ItemCard({ item, onToggleOwned, onItemClick }: ItemCardProps) {
     setImageError(true);
   };
 
+  // コレクション対象アイテムは所有状況に応じて表示を変更
+  // 参考アイテムは常にカラーで表示
+  const isCollectible = item.collectionType === 'collectible';
+  const shouldShowOwned = isCollectible ? item.owned : true;
+  const opacityClass = shouldShowOwned ? "opacity-100" : "opacity-35 grayscale hover:opacity-70";
+
   return (
     <div
-      className={`group relative ${rarityStyle.background} ${rarityStyle.border} border rounded-sm p-3 cursor-pointer transition-all duration-300 hover:shadow-xl ${rarityStyle.glow} hover:-translate-y-1 hover:scale-105 ${
-        item.owned ? "opacity-100" : "opacity-35 grayscale hover:opacity-70"
-      } w-24 h-24`}
+      className={`group relative ${rarityStyle.background} ${rarityStyle.border} border rounded-sm p-3 cursor-pointer transition-all duration-300 hover:shadow-xl ${rarityStyle.glow} hover:-translate-y-1 hover:scale-105 ${opacityClass} w-24 h-24`}
       onClick={() => onItemClick(item)}
     >
-      {/* Ownership Status Indicator - Top Right */}
-      <button
-        onClick={(e) => {
-          e.stopPropagation();
-          onToggleOwned(item.id);
-        }}
-        className="absolute -top-1 -right-1 opacity-0 group-hover:opacity-100 transition-opacity duration-200 p-1 hover:bg-white/50 rounded-full z-20 bg-white/80 shadow-sm"
-        title={item.owned ? "Mark as not owned" : "Mark as owned"}
-      >
-        <div
-          className={`w-2.5 h-2.5 rounded-full border-2 transition-all duration-200 ${
-            item.owned ? "bg-green-500 border-green-500 shadow-sm" : "border-gray-400 hover:border-gray-600"
-          }`}
-        />
-      </button>
+      {/* Ownership Status Indicator - Top Right (コレクション対象のみ表示) */}
+      {isCollectible && (
+        <button
+          onClick={(e) => {
+            e.stopPropagation();
+            onToggleOwned(item.id);
+          }}
+          className="absolute -top-1 -right-1 opacity-0 group-hover:opacity-100 transition-opacity duration-200 p-1 hover:bg-white/50 rounded-full z-20 bg-white/80 shadow-sm"
+          title={item.owned ? "Mark as not owned" : "Mark as owned"}
+        >
+          <div
+            className={`w-2.5 h-2.5 rounded-full border-2 transition-all duration-200 ${
+              item.owned ? "bg-green-500 border-green-500 shadow-sm" : "border-gray-400 hover:border-gray-600"
+            }`}
+          />
+        </button>
+      )}
 
       {/* Icon with overlaid elements */}
       <div className="relative w-full h-full flex items-center justify-center">

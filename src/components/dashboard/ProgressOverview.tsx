@@ -16,45 +16,54 @@ interface CategoryProgress {
 }
 
 export function ProgressOverview({ items }: ProgressOverviewProps) {
+  // コレクション対象アイテムのみでプログレスを計算
+  const collectibleItems = useMemo(() => items.filter(item => item.collectionType === 'collectible'), [items]);
+  
   // Calculate overall progress using utility function
-  const overallProgress = useMemo(() => calculateProgress(items), [items]);
+  const overallProgress = useMemo(() => calculateProgress(collectibleItems), [collectibleItems]);
   
   // Calculate category progress using utility function
   const categoryProgress: CategoryProgress[] = useMemo(() => {
-    const progressByType = calculateProgressByType(items);
+    const progressByType = calculateProgressByType(collectibleItems);
     
     return [
       {
         name: "Weapons",
         type: "weapon",
-        current: progressByType.weapon.owned,
-        total: progressByType.weapon.total,
+        current: progressByType.weapon?.owned || 0,
+        total: progressByType.weapon?.total || 0,
       },
       {
         name: "Armor",
         type: "armor",
-        current: progressByType.armor.owned,
-        total: progressByType.armor.total,
+        current: progressByType.armor?.owned || 0,
+        total: progressByType.armor?.total || 0,
       },
       {
         name: "Accessories",
         type: "accessory",
-        current: progressByType.accessory.owned,
-        total: progressByType.accessory.total,
+        current: progressByType.accessory?.owned || 0,
+        total: progressByType.accessory?.total || 0,
+      },
+      {
+        name: "Vanity",
+        type: "vanity",
+        current: progressByType.vanity?.owned || 0,
+        total: progressByType.vanity?.total || 0,
       },
       {
         name: "NPCs",
         type: "npc",
-        current: progressByType.npc.owned,
-        total: progressByType.npc.total,
+        current: progressByType.npc?.owned || 0,
+        total: progressByType.npc?.total || 0,
       },
       {
         name: "Bosses",
         type: "boss",
-        current: progressByType.boss.owned,
-        total: progressByType.boss.total,
+        current: progressByType.boss?.owned || 0,
+        total: progressByType.boss?.total || 0,
       },
-    ];
+    ].filter(category => category.total > 0); // アイテムが存在するカテゴリのみ表示
   }, [items]);
 
   return (
