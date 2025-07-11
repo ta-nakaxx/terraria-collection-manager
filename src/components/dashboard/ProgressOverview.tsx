@@ -47,7 +47,7 @@ export function ProgressOverview({ items }: ProgressOverviewProps) {
       },
       {
         name: "Vanity",
-        type: "vanity",
+        type: "vanity" as ItemType,
         current: progressByType.vanity?.owned || 0,
         total: progressByType.vanity?.total || 0,
       },
@@ -64,7 +64,7 @@ export function ProgressOverview({ items }: ProgressOverviewProps) {
         total: progressByType.boss?.total || 0,
       },
     ].filter(category => category.total > 0); // アイテムが存在するカテゴリのみ表示
-  }, [items]);
+  }, [collectibleItems]);
 
   return (
     <div className="flex items-center space-x-8">

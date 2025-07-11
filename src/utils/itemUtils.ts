@@ -63,18 +63,20 @@ export const calculateProgress = (items: Item[]): {
 /**
  * タイプ別の進行状況を計算
  */
-export const calculateProgressByType = (items: Item[]): Record<ItemType, {
+export const calculateProgressByType = (items: Item[]): Partial<Record<ItemType, {
   total: number;
   owned: number;
   percentage: number;
-}> => {
+}>> => {
   const types: ItemType[] = ['weapon', 'armor', 'accessory', 'vanity', 'npc', 'boss'];
   
   return types.reduce((acc, type) => {
     const typeItems = getItemsByType(items, type);
-    acc[type] = calculateProgress(typeItems);
+    if (typeItems.length > 0) {
+      acc[type] = calculateProgress(typeItems);
+    }
     return acc;
-  }, {} as Record<ItemType, { total: number; owned: number; percentage: number }>);
+  }, {} as Partial<Record<ItemType, { total: number; owned: number; percentage: number }>>);
 };
 
 /**
