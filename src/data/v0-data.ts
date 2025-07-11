@@ -1,43 +1,148 @@
 // V0 data adapted to our project structure
 import { Item, Category } from '@/types';
 
+/**
+ * Extensible category configuration
+ * New categories can be added without breaking existing functionality
+ */
 export const categories: Category[] = [
+  // === COLLECTIBLE CATEGORIES (Items players actively collect) ===
   {
     id: "weapons",
     name: "Weapons",
     type: "weapon",
     subcategories: ["Melee", "Ranged", "Magic", "Summoner"],
-  },
-  {
-    id: "tools",
-    name: "Tools",
-    type: "tool",
-    subcategories: ["Mining", "Building", "Utility"],
+    collectionType: "collectible",
+    order: 1,
+    icon: "⚔️",
+    expandable: true
   },
   {
     id: "armor",
     name: "Armor",
     type: "armor",
     subcategories: ["Head", "Chest", "Legs"],
+    collectionType: "collectible",
+    order: 2,
+    icon: "🛡️",
+    expandable: true
   },
   {
     id: "accessories",
     name: "Accessories",
     type: "accessory",
-    subcategories: ["Movement", "Combat", "Utility"],
+    subcategories: ["Combat", "Movement", "Information", "Health", "Utility", "Vanity"],
+    collectionType: "collectible",
+    order: 3,
+    icon: "💍",
+    expandable: true
   },
+  {
+    id: "vanity",
+    name: "Vanity",
+    type: "vanity",
+    subcategories: ["Head", "Body", "Legs", "Dyes", "Costumes"],
+    collectionType: "collectible",
+    order: 4,
+    icon: "👕",
+    expandable: true
+  },
+  
+  // === REFERENCE CATEGORIES (Items for information/crafting reference) ===
+  {
+    id: "tools",
+    name: "Tools",
+    type: "tool",
+    subcategories: ["Mining", "Building", "Utility"],
+    collectionType: "reference",
+    order: 5,
+    icon: "🔨"
+  },
+  {
+    id: "materials",
+    name: "Materials",
+    type: "material",
+    subcategories: ["Ores", "Bars", "Wood", "Natural", "Monster Drops", "Seeds", "Crafting"],
+    collectionType: "reference",
+    order: 6,
+    icon: "📦"
+  },
+  {
+    id: "consumables",
+    name: "Consumables",
+    type: "consumable",
+    subcategories: ["Potions", "Upgrades", "Summoning"],
+    collectionType: "reference",
+    order: 7,
+    icon: "🧪"
+  },
+  {
+    id: "building",
+    name: "Building",
+    type: "building",
+    subcategories: ["Blocks", "Walls"],
+    collectionType: "reference",
+    order: 8,
+    icon: "🧱"
+  },
+  {
+    id: "furniture",
+    name: "Furniture",
+    type: "furniture",
+    subcategories: ["Seating", "Surface", "Crafting Stations", "Storage", "Doors"],
+    collectionType: "reference",
+    order: 9,
+    icon: "🪑"
+  },
+  {
+    id: "lighting",
+    name: "Lighting",
+    type: "lighting",
+    subcategories: ["Torches", "Lanterns", "Candles"],
+    collectionType: "reference",
+    order: 10,
+    icon: "💡"
+  },
+  {
+    id: "storage",
+    name: "Storage",
+    type: "storage",
+    subcategories: ["Chests", "Containers"],
+    collectionType: "reference",
+    order: 11,
+    icon: "📦"
+  },
+  {
+    id: "ammunition",
+    name: "Ammunition",
+    type: "ammunition",
+    subcategories: ["Arrows", "Bullets", "Rockets"],
+    collectionType: "reference",
+    order: 12,
+    icon: "🏹"
+  },
+  
+  // === ENTITY CATEGORIES (Future expansion ready) ===
   {
     id: "npcs",
     name: "NPCs",
     type: "npc",
     subcategories: ["Merchants", "Craftsmen", "Combat"],
+    collectionType: "reference",
+    order: 13,
+    icon: "👤",
+    hidden: true // Hidden until NPC data is added
   },
   {
     id: "bosses",
     name: "Bosses",
     type: "boss",
     subcategories: ["Pre-Hardmode", "Hardmode", "Event"],
-  },
+    collectionType: "reference",
+    order: 14,
+    icon: "👹",
+    hidden: true // Hidden until boss data is added
+  }
 ];
 
 export const v0Items: Item[] = [
@@ -55,6 +160,7 @@ export const v0Items: Item[] = [
     description: "A basic copper sword.",
     gameStage: "pre-hardmode",
     owned: true,
+    collectionType: "collectible"
   },
   {
     id: "enchanted-sword",
@@ -69,6 +175,7 @@ export const v0Items: Item[] = [
     description: "A magical sword that shoots projectiles.",
     gameStage: "pre-hardmode",
     owned: true,
+    collectionType: "collectible"
   },
   {
     id: "terra-blade",
@@ -83,6 +190,7 @@ export const v0Items: Item[] = [
     description: "A powerful endgame sword.",
     gameStage: "hardmode",
     owned: false,
+    collectionType: "collectible"
   },
   {
     id: "meowmere",
@@ -97,6 +205,7 @@ export const v0Items: Item[] = [
     description: "The ultimate cat sword.",
     gameStage: "hardmode",
     owned: false,
+    collectionType: "collectible"
   },
   // Weapons - Ranged
   {
@@ -112,6 +221,7 @@ export const v0Items: Item[] = [
     description: "A simple wooden bow.",
     gameStage: "pre-hardmode",
     owned: false,
+    collectionType: "collectible"
   },
   {
     id: "demon-bow",
@@ -126,6 +236,7 @@ export const v0Items: Item[] = [
     description: "A bow infused with demonic power.",
     gameStage: "pre-hardmode",
     owned: true,
+    collectionType: "collectible"
   },
   // Weapons - Magic
   {
@@ -141,6 +252,7 @@ export const v0Items: Item[] = [
     description: "A magical wand that shoots sparks.",
     gameStage: "pre-hardmode",
     owned: true,
+    collectionType: "collectible"
   },
   {
     id: "diamond-staff",
@@ -155,6 +267,7 @@ export const v0Items: Item[] = [
     description: "A staff made from diamond gems.",
     gameStage: "pre-hardmode",
     owned: true,
+    collectionType: "collectible"
   },
   // Armor
   {
@@ -170,6 +283,7 @@ export const v0Items: Item[] = [
     description: "Basic copper head protection.",
     gameStage: "pre-hardmode",
     owned: true,
+    collectionType: "collectible"
   },
   {
     id: "iron-chainmail",
@@ -184,6 +298,7 @@ export const v0Items: Item[] = [
     description: "Sturdy iron chest protection.",
     gameStage: "pre-hardmode",
     owned: true,
+    collectionType: "collectible"
   },
   // Accessories
   {
@@ -199,6 +314,7 @@ export const v0Items: Item[] = [
     description: "Slowly regenerates the player's health.",
     gameStage: "pre-hardmode",
     owned: true,
+    collectionType: "collectible"
   },
   {
     id: "hermes-boots",
@@ -213,6 +329,7 @@ export const v0Items: Item[] = [
     description: "Allows the player to run super fast.",
     gameStage: "pre-hardmode",
     owned: false,
+    collectionType: "collectible"
   },
   // NPCs
   {
@@ -227,6 +344,7 @@ export const v0Items: Item[] = [
     description: "Provides helpful tips and crafting recipes.",
     gameStage: "pre-hardmode",
     owned: true,
+    collectionType: "reference"
   },
   {
     id: "merchant",
@@ -240,6 +358,7 @@ export const v0Items: Item[] = [
     description: "Sells basic items and tools.",
     gameStage: "pre-hardmode",
     owned: false,
+    collectionType: "reference"
   },
   // Bosses
   {
@@ -255,6 +374,7 @@ export const v0Items: Item[] = [
     description: "A giant eyeball that serves as one of the first bosses.",
     gameStage: "pre-hardmode",
     owned: false,
+    collectionType: "reference"
   },
   {
     id: "wall-of-flesh",
@@ -269,5 +389,6 @@ export const v0Items: Item[] = [
     description: "The final pre-hardmode boss.",
     gameStage: "pre-hardmode",
     owned: false,
+    collectionType: "reference"
   },
 ];

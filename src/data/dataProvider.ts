@@ -25,8 +25,8 @@ export interface DataLoadResult {
  */
 async function loadRealData(): Promise<Item[]> {
   try {
-    // 実データファイルの読み込みを試行
-    const response = await import('./real-data/all-items.json');
+    // 拡張可能なサンプルデータの読み込みを試行
+    const response = await import('./sample-extended.json');
     const realItems = response.default || response;
     
     if (!Array.isArray(realItems) || realItems.length === 0) {
