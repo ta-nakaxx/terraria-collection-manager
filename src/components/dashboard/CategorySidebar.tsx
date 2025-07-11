@@ -22,8 +22,9 @@ interface CategorySidebarProps {
  * スタイル定数
  */
 const STYLES = {
-  SIDEBAR: "w-full h-full bg-white/80 backdrop-blur-sm border-r border-gray-200/60 p-3",
-  HEADER: "text-sm font-semibold text-gray-900 mb-3 tracking-wide uppercase",
+  SIDEBAR: "w-full h-full bg-white/80 backdrop-blur-sm border-r border-gray-200/60 flex flex-col",
+  HEADER: "text-sm font-semibold text-gray-900 mb-3 tracking-wide uppercase px-3 pt-3 flex-shrink-0",
+  NAV_CONTAINER: "flex-1 overflow-y-auto px-3 pb-3 category-scrollbar",
   NAV: "space-y-1",
   CATEGORY_BUTTON_BASE: "w-full text-left px-3 py-2.5 rounded-lg text-sm font-medium transition-all duration-200",
   CATEGORY_BUTTON_SELECTED: "bg-gray-900 text-white shadow-lg",
@@ -47,8 +48,9 @@ export function CategorySidebar({
   return (
     <div className={STYLES.SIDEBAR}>
       <h2 className={STYLES.HEADER}>Categories</h2>
-      <nav className={STYLES.NAV}>
-        {categories.map((category) => (
+      <div className={STYLES.NAV_CONTAINER}>
+        <nav className={STYLES.NAV}>
+          {categories.map((category) => (
           <div key={category.id}>
             <button
               onClick={() => onCategorySelect(category.id)}
@@ -83,8 +85,9 @@ export function CategorySidebar({
               </div>
             )}
           </div>
-        ))}
-      </nav>
+          ))}
+        </nav>
+      </div>
     </div>
   );
 }

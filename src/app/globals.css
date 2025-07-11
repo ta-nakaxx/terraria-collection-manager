@@ -120,3 +120,27 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Custom scrollbar styles for category sidebar */
+.category-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #d1d5db transparent;
+}
+
+.category-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.category-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.category-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #d1d5db;
+  border-radius: 3px;
+  transition: background-color 0.2s ease;
+}
+
+.category-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: #9ca3af;
+}
