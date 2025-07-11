@@ -38,8 +38,6 @@ export type Rarity = 'white' | 'blue' | 'green' | 'orange' | 'red' | 'purple' | 
 
 export type AcquisitionMethod = 'drop' | 'craft' | 'purchase' | 'quest' | 'event';
 
-export type GameStage = 'pre-hardmode' | 'hardmode' | 'post-plantera' | 'post-golem';
-
 export interface ItemStats {
   damage?: number;
   defense?: number;
