@@ -170,6 +170,9 @@ async function main(): Promise<void> {
       displayProgress(i + 1, rawData.length, 'Converting');
       
       const classification = classifyItem(rawItem.name);
+      const collectibleTypes = ['weapon', 'armor', 'accessory', 'vanity', 'npc', 'boss'];
+      const collectionType = collectibleTypes.includes(classification.type) ? 'collectible' : 'reference';
+      
       const convertedItem: Item = {
         id: rawItem.id,
         name: rawItem.name,
@@ -183,7 +186,8 @@ async function main(): Promise<void> {
         acquisition: rawItem.recipe1 ? ['craft'] : ['find'],
         rarity: classification.rarity,
         gameStage: classification.gameStage,
-        owned: false
+        owned: false,
+        collectionType
       };
       
       convertedItems.push(convertedItem);

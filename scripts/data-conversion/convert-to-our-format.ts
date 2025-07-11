@@ -2,7 +2,8 @@
  * cr0wst/terraria-info データを我々の形式に変換するスクリプト
  */
 
-import { Item, ItemType, Rarity, GameStage } from '@/types';
+import { Item, ItemType, Rarity, GameStage, CollectionType } from '@/types';
+import { classifyItemType, classifyItemCategory, classifyItemSubcategory, classifyItemSubSubcategory } from './classify-items';
 
 interface RawTerrariaItem {
   id: string;
@@ -261,9 +262,26 @@ function generateIconPath(id: string, type: ItemType): string {
   const category = type === 'npc' ? 'npcs' : 
                    type === 'boss' ? 'bosses' :
                    type === 'weapon' ? 'weapons' :
-                   type === 'armor' ? 'armor' : 'accessories';
+                   type === 'armor' ? 'armor' :
+                   type === 'tool' ? 'tools' :
+                   type === 'material' ? 'materials' :
+                   type === 'consumable' ? 'consumables' :
+                   type === 'building' ? 'building' :
+                   type === 'furniture' ? 'furniture' :
+                   type === 'lighting' ? 'lighting' :
+                   type === 'storage' ? 'storage' :
+                   type === 'ammunition' ? 'ammunition' :
+                   type === 'vanity' ? 'vanity' : 'accessories';
   
-  return `/assets/icons/${category}/${id.toLowerCase().replace(/\s+/g, '-')}.png`;
+  return `/assets/icons/${category}/${id}.png`;
+}
+
+/**
+ * コレクションタイプを決定
+ */
+function determineCollectionType(type: ItemType): CollectionType {
+  const collectibleTypes: ItemType[] = ['weapon', 'armor', 'accessory', 'vanity', 'npc', 'boss'];
+  return collectibleTypes.includes(type) ? 'collectible' : 'reference';
 }
 
 /**
@@ -274,12 +292,14 @@ export function convertRawData(rawData: RawTerrariaItem[]): Item[] {
   
   const convertedItems: Item[] = rawData.map(item => {
     const type = classifyItemType(item.name);
-    const category = deriveCategory(item.name, type);
-    const subcategory = deriveSubcategory(item.name, type);
+    const category = classifyItemCategory(item.name, type);
+    const subcategory = classifyItemSubcategory(item.name, type);
+    const subSubcategory = classifyItemSubSubcategory(item.name, type);
     const rarity = deriveRarity(item.name);
     const gameStage = deriveGameStage(item.name);
     const acquisition = deriveAcquisition(item);
     const iconPath = generateIconPath(item.id, type);
+    const collectionType = determineCollectionType(type);
     
     return {
       id: item.id,
@@ -287,11 +307,13 @@ export function convertRawData(rawData: RawTerrariaItem[]): Item[] {
       type,
       category,
       subcategory,
+      subSubcategory,
       iconPath,
       acquisition,
       rarity,
       gameStage,
-      owned: false
+      owned: false,
+      collectionType
     };
   });
   

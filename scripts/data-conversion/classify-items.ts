@@ -140,37 +140,57 @@ export function classifyItemType(name: string): ItemType {
 }
 
 /**
- * UIカテゴリ（サブカテゴリとして使用）を分類
- * UIの期待値に合わせて大分類を返す
+ * UIカテゴリ（UIシステムの親カテゴリ）を分類
+ * UIの期待値に合わせて親カテゴリを返す
  */
 export function classifyItemCategory(name: string, type: ItemType): string {
+  switch (type) {
+    case 'weapon':
+      return 'Weapons';
+    case 'armor':
+      return 'Armor';
+    case 'accessory':
+      return 'Accessories';
+    case 'vanity':
+      return 'Vanity';
+    case 'tool':
+      return 'Tools';
+    case 'material':
+      return 'Materials';
+    case 'consumable':
+      return 'Consumables';
+    case 'building':
+      return 'Building';
+    case 'furniture':
+      return 'Furniture';
+    case 'lighting':
+      return 'Lighting';
+    case 'storage':
+      return 'Storage';
+    case 'ammunition':
+      return 'Ammunition';
+    case 'npc':
+      return 'NPCs';
+    case 'boss':
+      return 'Bosses';
+    default:
+      return 'Tools'; // デフォルト
+  }
+}
+
+/**
+ * UIサブカテゴリを分類
+ * アイテム名とタイプに基づいてサブカテゴリを返す
+ */
+export function classifyItemSubcategory(name: string, type: ItemType): string {
   const lowerName = name.toLowerCase();
   
   switch (type) {
-    case 'tool':
-      // ツールの大分類
-      for (const [toolClass, keywords] of Object.entries(CLASSIFICATION_RULES.tools)) {
-        if (containsKeyword(lowerName, keywords)) {
-          switch (toolClass) {
-            case 'mining':
-              return 'Mining';
-            case 'building':
-              return 'Building';
-            case 'utility':
-              return 'Utility';
-            default:
-              return 'Mining';
-          }
-        }
-      }
-      return 'Mining'; // デフォルト
-      
     case 'weapon':
-      // 武器の大分類（UIのサブカテゴリに対応）
+      // 武器のサブカテゴリ
       for (const [weaponClass, subcategories] of Object.entries(CLASSIFICATION_RULES.weapons)) {
         for (const keywords of Object.values(subcategories)) {
           if (containsKeyword(lowerName, keywords)) {
-            // 大分類を適切にマッピング
             switch (weaponClass) {
               case 'melee':
                 return 'Melee';
@@ -188,8 +208,26 @@ export function classifyItemCategory(name: string, type: ItemType): string {
       }
       return 'Melee'; // デフォルト
       
+    case 'tool':
+      // ツールのサブカテゴリ
+      for (const [toolClass, keywords] of Object.entries(CLASSIFICATION_RULES.tools)) {
+        if (containsKeyword(lowerName, keywords)) {
+          switch (toolClass) {
+            case 'mining':
+              return 'Mining';
+            case 'building':
+              return 'Building';
+            case 'utility':
+              return 'Utility';
+            default:
+              return 'Mining';
+          }
+        }
+      }
+      return 'Mining'; // デフォルト
+      
     case 'armor':
-      // 防具の大分類
+      // 防具のサブカテゴリ
       for (const [category, keywords] of Object.entries(CLASSIFICATION_RULES.armor)) {
         if (containsKeyword(lowerName, keywords)) {
           switch (category) {
@@ -207,7 +245,7 @@ export function classifyItemCategory(name: string, type: ItemType): string {
       return 'Head'; // デフォルト
       
     case 'accessory':
-      // アクセサリーの大分類
+      // アクセサリーのサブカテゴリ
       for (const [category, keywords] of Object.entries(CLASSIFICATION_RULES.accessories)) {
         if (containsKeyword(lowerName, keywords)) {
           switch (category) {
@@ -225,39 +263,69 @@ export function classifyItemCategory(name: string, type: ItemType): string {
       }
       return 'Utility'; // デフォルト
       
+    case 'material':
+      // マテリアルのサブカテゴリ
+      if (containsKeyword(lowerName, ['ore'])) return 'Ores';
+      if (containsKeyword(lowerName, ['bar', 'ingot'])) return 'Bars';
+      if (containsKeyword(lowerName, ['wood', 'log'])) return 'Wood';
+      if (containsKeyword(lowerName, ['seed'])) return 'Seeds';
+      return 'Natural'; // デフォルト
+      
+    case 'consumable':
+      // 消費アイテムのサブカテゴリ
+      if (containsKeyword(lowerName, ['potion', 'elixir', 'flask'])) return 'Potions';
+      if (containsKeyword(lowerName, ['upgrade', 'enhancement'])) return 'Upgrades';
+      if (containsKeyword(lowerName, ['summon', 'boss'])) return 'Summoning';
+      return 'Potions'; // デフォルト
+      
+    case 'building':
+      // 建築のサブカテゴリ
+      if (containsKeyword(lowerName, ['wall'])) return 'Walls';
+      return 'Blocks'; // デフォルト
+      
+    case 'furniture':
+      // 家具のサブカテゴリ
+      if (containsKeyword(lowerName, ['chair', 'seat', 'throne'])) return 'Seating';
+      if (containsKeyword(lowerName, ['table', 'desk', 'workbench'])) return 'Surface';
+      if (containsKeyword(lowerName, ['station', 'anvil', 'furnace'])) return 'Crafting Stations';
+      if (containsKeyword(lowerName, ['chest', 'safe', 'storage'])) return 'Storage';
+      if (containsKeyword(lowerName, ['door', 'gate'])) return 'Doors';
+      return 'Surface'; // デフォルト
+      
+    case 'lighting':
+      // 照明のサブカテゴリ
+      if (containsKeyword(lowerName, ['torch'])) return 'Torches';
+      if (containsKeyword(lowerName, ['lantern'])) return 'Lanterns';
+      if (containsKeyword(lowerName, ['candle'])) return 'Candles';
+      return 'Torches'; // デフォルト
+      
+    case 'storage':
+      // ストレージのサブカテゴリ
+      if (containsKeyword(lowerName, ['chest'])) return 'Chests';
+      return 'Containers'; // デフォルト
+      
+    case 'ammunition':
+      // 弾薬のサブカテゴリ
+      if (containsKeyword(lowerName, ['arrow'])) return 'Arrows';
+      if (containsKeyword(lowerName, ['bullet'])) return 'Bullets';
+      if (containsKeyword(lowerName, ['rocket'])) return 'Rockets';
+      return 'Arrows'; // デフォルト
+      
     case 'npc':
-      // NPCの大分類
-      for (const [category, keywords] of Object.entries(CLASSIFICATION_RULES.npcs)) {
-        if (containsKeyword(lowerName, keywords)) {
-          switch (category) {
-            case 'town':
-              return 'Merchants';
-            case 'special':
-              return 'Craftsmen';
-            default:
-              return 'Merchants';
-          }
-        }
-      }
+      // NPCのサブカテゴリ
       return 'Merchants'; // デフォルト
       
     case 'boss':
-      // ボスの大分類
-      for (const [category, keywords] of Object.entries(CLASSIFICATION_RULES.bosses)) {
-        if (containsKeyword(lowerName, keywords)) {
-          switch (category) {
-            case 'pre_hardmode':
-              return 'Pre-Hardmode';
-            case 'hardmode':
-              return 'Hardmode';
-            case 'post_golem':
-              return 'Event';
-            default:
-              return 'Pre-Hardmode';
-          }
-        }
-      }
+      // ボスのサブカテゴリ
       return 'Pre-Hardmode'; // デフォルト
+      
+    case 'vanity':
+      // バニティのサブカテゴリ
+      if (containsKeyword(lowerName, ['hat', 'helmet', 'mask', 'cap'])) return 'Head';
+      if (containsKeyword(lowerName, ['shirt', 'robe', 'vest'])) return 'Body';
+      if (containsKeyword(lowerName, ['pants', 'legs', 'skirt'])) return 'Legs';
+      if (containsKeyword(lowerName, ['dye'])) return 'Dyes';
+      return 'Head'; // デフォルト
       
     default:
       return 'Other';
@@ -265,9 +333,9 @@ export function classifyItemCategory(name: string, type: ItemType): string {
 }
 
 /**
- * サブカテゴリを詳細に分類（詳細な武器タイプなど）
+ * サブサブカテゴリを詳細に分類（詳細な武器タイプなど）
  */
-export function classifyItemSubcategory(name: string, type: ItemType, category: string): string {
+export function classifyItemSubSubcategory(name: string, type: ItemType): string {
   const lowerName = name.toLowerCase();
   
   switch (type) {
