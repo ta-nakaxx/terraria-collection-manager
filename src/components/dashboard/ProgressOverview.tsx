@@ -29,19 +29,19 @@ export function ProgressOverview({ items }: ProgressOverviewProps) {
     return [
       {
         name: "Weapons",
-        type: "weapon",
+        type: "weapon" as ItemType,
         current: progressByType.weapon?.owned || 0,
         total: progressByType.weapon?.total || 0,
       },
       {
         name: "Armor",
-        type: "armor",
+        type: "armor" as ItemType,
         current: progressByType.armor?.owned || 0,
         total: progressByType.armor?.total || 0,
       },
       {
         name: "Accessories",
-        type: "accessory",
+        type: "accessory" as ItemType,
         current: progressByType.accessory?.owned || 0,
         total: progressByType.accessory?.total || 0,
       },
@@ -53,13 +53,13 @@ export function ProgressOverview({ items }: ProgressOverviewProps) {
       },
       {
         name: "NPCs",
-        type: "npc",
+        type: "npc" as ItemType,
         current: progressByType.npc?.owned || 0,
         total: progressByType.npc?.total || 0,
       },
       {
         name: "Bosses",
-        type: "boss",
+        type: "boss" as ItemType,
         current: progressByType.boss?.owned || 0,
         total: progressByType.boss?.total || 0,
       },
