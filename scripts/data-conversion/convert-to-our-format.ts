@@ -26,143 +26,7 @@ interface RawTerrariaItem {
   [key: string]: any;
 }
 
-/**
- * アイテム名からタイプを推定
- */
-function classifyItemType(name: string): ItemType {
-  const lowerName = name.toLowerCase();
-  
-  // 武器の判定
-  const weaponKeywords = [
-    'sword', 'blade', 'saber', 'katana', 'claymore',
-    'bow', 'gun', 'rifle', 'pistol', 'revolver', 'shotgun',
-    'staff', 'wand', 'tome', 'book',
-    'spear', 'lance', 'trident', 'halberd',
-    'whip', 'flail', 'chain',
-    'yoyo', 'boomerang', 'chakram',
-    'drill', 'pickaxe', 'hammer', 'axe',
-    'magic', 'spell', 'crystal'
-  ];
-  
-  // 防具の判定
-  const armorKeywords = [
-    'helmet', 'hat', 'cap', 'mask', 'hood', 'crown',
-    'breastplate', 'chestplate', 'shirt', 'robe', 'tunic',
-    'greaves', 'leggings', 'pants', 'boots', 'shoes'
-  ];
-  
-  // アクセサリーの判定
-  const accessoryKeywords = [
-    'ring', 'necklace', 'amulet', 'charm', 'emblem',
-    'wings', 'balloon', 'cloud', 'bottle', 'horseshoe',
-    'band', 'cross', 'star', 'moon', 'sun',
-    'shield', 'anklet', 'charm', 'token'
-  ];
-  
-  // NPCの判定
-  const npcKeywords = [
-    'guide', 'merchant', 'nurse', 'demolitionist', 'dye trader',
-    'angler', 'zoologist', 'golfer', 'princess', 'santa'
-  ];
-  
-  // ボスの判定
-  const bossKeywords = [
-    'eye of cthulhu', 'brain of cthulhu', 'eater of worlds',
-    'skeleton', 'wall of flesh', 'destroyer', 'twins',
-    'prime', 'plantera', 'golem', 'duke fishron', 'moon lord'
-  ];
-  
-  if (weaponKeywords.some(keyword => lowerName.includes(keyword))) {
-    return 'weapon';
-  }
-  
-  if (armorKeywords.some(keyword => lowerName.includes(keyword))) {
-    return 'armor';
-  }
-  
-  if (accessoryKeywords.some(keyword => lowerName.includes(keyword))) {
-    return 'accessory';
-  }
-  
-  if (npcKeywords.some(keyword => lowerName.includes(keyword))) {
-    return 'npc';
-  }
-  
-  if (bossKeywords.some(keyword => lowerName.includes(keyword))) {
-    return 'boss';
-  }
-  
-  // デフォルトはアクセサリー
-  return 'accessory';
-}
 
-/**
- * アイテム名からカテゴリを推定
- */
-function deriveCategory(name: string, type: ItemType): string {
-  const lowerName = name.toLowerCase();
-  
-  switch (type) {
-    case 'weapon':
-      if (lowerName.includes('sword') || lowerName.includes('blade')) return 'melee';
-      if (lowerName.includes('bow') || lowerName.includes('gun')) return 'ranged';
-      if (lowerName.includes('staff') || lowerName.includes('wand')) return 'magic';
-      if (lowerName.includes('whip') || lowerName.includes('flail')) return 'summoner';
-      return 'melee';
-    
-    case 'armor':
-      if (lowerName.includes('helmet') || lowerName.includes('hat')) return 'head';
-      if (lowerName.includes('breastplate') || lowerName.includes('shirt')) return 'body';
-      if (lowerName.includes('greaves') || lowerName.includes('boots')) return 'legs';
-      return 'head';
-    
-    case 'accessory':
-      if (lowerName.includes('ring') || lowerName.includes('band')) return 'utility';
-      if (lowerName.includes('wings')) return 'movement';
-      if (lowerName.includes('shield')) return 'defense';
-      return 'utility';
-    
-    case 'npc':
-      return 'town';
-    
-    case 'boss':
-      return 'hostile';
-    
-    default:
-      return 'misc';
-  }
-}
-
-/**
- * サブカテゴリを推定
- */
-function deriveSubcategory(name: string, type: ItemType): string {
-  const lowerName = name.toLowerCase();
-  
-  switch (type) {
-    case 'weapon':
-      if (lowerName.includes('sword')) return 'sword';
-      if (lowerName.includes('bow')) return 'bow';
-      if (lowerName.includes('gun')) return 'gun';
-      if (lowerName.includes('staff')) return 'staff';
-      return 'other';
-    
-    case 'armor':
-      if (lowerName.includes('helmet')) return 'helmet';
-      if (lowerName.includes('breastplate')) return 'breastplate';
-      if (lowerName.includes('greaves')) return 'greaves';
-      return 'other';
-    
-    case 'accessory':
-      if (lowerName.includes('ring')) return 'ring';
-      if (lowerName.includes('wings')) return 'wings';
-      if (lowerName.includes('necklace')) return 'necklace';
-      return 'other';
-    
-    default:
-      return 'other';
-  }
-}
 
 /**
  * レアリティを推定（基本的にはwhiteから開始）
@@ -271,6 +135,9 @@ function generateIconPath(id: string, type: ItemType): string {
                    type === 'lighting' ? 'lighting' :
                    type === 'storage' ? 'storage' :
                    type === 'ammunition' ? 'ammunition' :
+                   type === 'mechanism' ? 'mechanisms' :
+                   type === 'novelty' ? 'novelty' :
+                   type === 'key' ? 'keys' :
                    type === 'vanity' ? 'vanity' : 'accessories';
   
   return `/assets/icons/${category}/${id}.png`;
@@ -280,8 +147,16 @@ function generateIconPath(id: string, type: ItemType): string {
  * コレクションタイプを決定
  */
 function determineCollectionType(type: ItemType): CollectionType {
-  const collectibleTypes: ItemType[] = ['weapon', 'armor', 'accessory', 'vanity', 'npc', 'boss'];
-  return collectibleTypes.includes(type) ? 'collectible' : 'reference';
+  const collectibleTypes: ItemType[] = ['weapon', 'armor', 'accessory', 'vanity'];
+  const referenceTypes: ItemType[] = ['tool', 'material', 'consumable', 'building', 'furniture', 'lighting', 'storage', 'ammunition', 'mechanism', 'novelty', 'key', 'npc', 'boss'];
+  
+  if (collectibleTypes.includes(type)) {
+    return 'collectible';
+  } else if (referenceTypes.includes(type)) {
+    return 'reference';
+  } else {
+    return 'reference'; // デフォルト
+  }
 }
 
 /**

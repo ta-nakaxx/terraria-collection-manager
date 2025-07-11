@@ -96,7 +96,11 @@ function validateRequiredFields(item: Item): ValidationError[] {
  */
 function validateItemType(item: Item): ValidationError[] {
   const errors: ValidationError[] = [];
-  const validTypes: ItemType[] = ['weapon', 'armor', 'accessory', 'tool', 'npc', 'boss'];
+  const validTypes: ItemType[] = [
+    'weapon', 'armor', 'accessory', 'vanity', 'tool', 'material', 
+    'consumable', 'building', 'furniture', 'lighting', 'storage', 
+    'ammunition', 'mechanism', 'novelty', 'key', 'npc', 'boss'
+  ];
   
   if (!validTypes.includes(item.type)) {
     errors.push({
@@ -188,13 +192,24 @@ function validateAcquisition(item: Item): ValidationError[] {
 function validateCategoryTypeConsistency(item: Item): ValidationError[] {
   const errors: ValidationError[] = [];
   
-  const categoryMapping = {
-    weapon: ['Melee', 'Ranged', 'Magic', 'Summoner'],
-    tool: ['Mining', 'Building', 'Utility'],
-    armor: ['Head', 'Chest', 'Legs'],
-    accessory: ['Movement', 'Combat', 'Utility'],
-    npc: ['Merchants', 'Craftsmen'],
-    boss: ['Pre-Hardmode', 'Hardmode', 'Event']
+  const categoryMapping: Record<ItemType, string[]> = {
+    weapon: ['Weapons'],
+    armor: ['Armor'],
+    accessory: ['Accessories'],
+    vanity: ['Vanity'],
+    tool: ['Tools'],
+    material: ['Materials'],
+    consumable: ['Consumables'],
+    building: ['Building'],
+    furniture: ['Furniture'],
+    lighting: ['Lighting'],
+    storage: ['Storage'],
+    ammunition: ['Ammunition'],
+    mechanism: ['Mechanisms'],
+    novelty: ['Novelty'],
+    key: ['Keys'],
+    npc: ['NPCs'],
+    boss: ['Bosses']
   };
   
   const validCategories = categoryMapping[item.type];

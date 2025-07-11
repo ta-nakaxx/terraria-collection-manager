@@ -25,8 +25,8 @@ export interface DataLoadResult {
  */
 async function loadRealData(): Promise<Item[]> {
   try {
-    // 拡張可能なサンプルデータの読み込みを試行
-    const response = await import('./sample-extended.json');
+    // 変換済み実データの読み込みを試行
+    const response = await import('./real-data/all-items.json');
     const realItems = response.default || response;
     
     if (!Array.isArray(realItems) || realItems.length === 0) {
@@ -40,7 +40,8 @@ async function loadRealData(): Promise<Item[]> {
       item !== null &&
       typeof (item as Record<string, unknown>).id === 'string' && 
       typeof (item as Record<string, unknown>).name === 'string' &&
-      typeof (item as Record<string, unknown>).type === 'string'
+      typeof (item as Record<string, unknown>).type === 'string' &&
+      typeof (item as Record<string, unknown>).collectionType === 'string'
     );
     
     if (validItems.length === 0) {

@@ -169,6 +169,12 @@ export function classifyItemCategory(name: string, type: ItemType): string {
       return 'Storage';
     case 'ammunition':
       return 'Ammunition';
+    case 'mechanism':
+      return 'Mechanisms';
+    case 'novelty':
+      return 'Novelty';
+    case 'key':
+      return 'Keys';
     case 'npc':
       return 'NPCs';
     case 'boss':
@@ -327,6 +333,22 @@ export function classifyItemSubcategory(name: string, type: ItemType): string {
       if (containsKeyword(lowerName, ['dye'])) return 'Dyes';
       return 'Head'; // デフォルト
       
+    case 'mechanism':
+      // メカニズムのサブカテゴリ
+      if (containsKeyword(lowerName, ['wire'])) return 'Wires';
+      if (containsKeyword(lowerName, ['switch', 'lever', 'trigger'])) return 'Switches';
+      return 'Other'; // デフォルト
+      
+    case 'novelty':
+      // ノベルティのサブカテゴリ
+      return 'Misc'; // デフォルト
+      
+    case 'key':
+      // キーのサブカテゴリ
+      if (containsKeyword(lowerName, ['temple', 'dungeon'])) return 'Dungeon Keys';
+      if (containsKeyword(lowerName, ['boss', 'summon'])) return 'Boss Keys';
+      return 'Quest Keys'; // デフォルト
+      
     default:
       return 'Other';
   }
@@ -375,10 +397,10 @@ export function classifyItemSubSubcategory(name: string, type: ItemType): string
       return 'other';
       
     case 'npc':
-      return category.toLowerCase();
+      return 'merchant';
       
     case 'boss':
-      return category.toLowerCase();
+      return 'boss';
       
     default:
       return 'other';
@@ -431,7 +453,7 @@ export function classifyItem(name: string): {
 } {
   const type = classifyItemType(name);
   const category = classifyItemCategory(name, type);
-  const subcategory = classifyItemSubcategory(name, type, category);
+  const subcategory = classifyItemSubcategory(name, type);
   const rarity = classifyRarity(name);
   const gameStage = classifyGameStage(name);
   

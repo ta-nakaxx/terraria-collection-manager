@@ -1,0 +1,6392 @@
+[
+  {
+    "id": "54",
+    "name": "Hermes Boots",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/54.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "76",
+    "name": "Copper Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/76.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "77",
+    "name": "Iron Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/77.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "78",
+    "name": "Silver Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/78.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "79",
+    "name": "Gold Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/79.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "88",
+    "name": "Mining Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/88.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "89",
+    "name": "Copper Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/89.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "90",
+    "name": "Iron Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/90.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "91",
+    "name": "Silver Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/91.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "92",
+    "name": "Gold Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/92.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "100",
+    "name": "Shadow Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/100.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "101",
+    "name": "Shadow Scalemail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/101.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "102",
+    "name": "Shadow Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/102.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "123",
+    "name": "Meteor Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/123.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "125",
+    "name": "Meteor Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/125.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "151",
+    "name": "Necro Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/151.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "152",
+    "name": "Necro Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/152.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "153",
+    "name": "Necro Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/153.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "228",
+    "name": "Jungle Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/228.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "229",
+    "name": "Jungle Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/229.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "230",
+    "name": "Jungle Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/230.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "231",
+    "name": "Molten Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/231.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "232",
+    "name": "Molten Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/232.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "233",
+    "name": "Molten Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/233.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "238",
+    "name": "Wizard Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/238.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "239",
+    "name": "Top Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/239.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "240",
+    "name": "Tuxedo Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/240.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "241",
+    "name": "Tuxedo Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/241.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "242",
+    "name": "Summer Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/242.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "243",
+    "name": "Bunny Hood",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/243.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "244",
+    "name": "Plumber's Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/244.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "245",
+    "name": "Plumber's Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/245.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "246",
+    "name": "Plumber's Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/246.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "247",
+    "name": "Hero's Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/247.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "248",
+    "name": "Hero's Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/248.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "249",
+    "name": "Hero's Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/249.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "251",
+    "name": "Archaeologist's Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/251.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "253",
+    "name": "Archaeologist's Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/253.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "256",
+    "name": "Ninja Hood",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/256.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "257",
+    "name": "Ninja Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/257.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "258",
+    "name": "Ninja Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/258.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "260",
+    "name": "Red Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/260.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "262",
+    "name": "Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/262.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "263",
+    "name": "Robot Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/263.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "264",
+    "name": "Gold Crown",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/264.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "268",
+    "name": "Diving Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/268.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "269",
+    "name": "Familiar Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/269.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "270",
+    "name": "Familiar Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/270.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "322",
+    "name": "Mime Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/322.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "325",
+    "name": "The Doctor's Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/325.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "326",
+    "name": "The Doctor's Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/326.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "371",
+    "name": "Cobalt Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/371.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "372",
+    "name": "Cobalt Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/372.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "373",
+    "name": "Cobalt Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/373.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "374",
+    "name": "Cobalt Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/374.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "375",
+    "name": "Cobalt Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/375.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "376",
+    "name": "Mythril Hood",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/376.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "377",
+    "name": "Mythril Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/377.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "378",
+    "name": "Mythril Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/378.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "380",
+    "name": "Mythril Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/380.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "401",
+    "name": "Adamantite Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/401.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "402",
+    "name": "Adamantite Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/402.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "403",
+    "name": "Adamantite Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/403.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "404",
+    "name": "Adamantite Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/404.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "405",
+    "name": "Spectre Boots",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/405.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "410",
+    "name": "Mining Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/410.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "411",
+    "name": "Mining Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/411.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "503",
+    "name": "Clown Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/503.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "504",
+    "name": "Clown Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/504.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "505",
+    "name": "Clown Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/505.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "529",
+    "name": "Red Pressure Plate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/529.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "541",
+    "name": "Green Pressure Plate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/541.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "542",
+    "name": "Gray Pressure Plate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/542.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "543",
+    "name": "Brown Pressure Plate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/543.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "551",
+    "name": "Hallowed Plate Mail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/551.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "552",
+    "name": "Hallowed Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/552.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "553",
+    "name": "Hallowed Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/553.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "559",
+    "name": "Hallowed Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/559.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "560",
+    "name": "Slime Crown",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/560.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "588",
+    "name": "Santa Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/588.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "589",
+    "name": "Santa Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/589.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "590",
+    "name": "Santa Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/590.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "666",
+    "name": "Red's Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/666.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "667",
+    "name": "Red's Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/667.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "668",
+    "name": "Red's Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/668.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "684",
+    "name": "Frost Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/684.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "685",
+    "name": "Frost Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/685.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "686",
+    "name": "Frost Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/686.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "687",
+    "name": "Tin Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/687.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "689",
+    "name": "Tin Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/689.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "690",
+    "name": "Lead Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/690.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "692",
+    "name": "Lead Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/692.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "693",
+    "name": "Tungsten Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/693.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "695",
+    "name": "Tungsten Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/695.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "696",
+    "name": "Platinum Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/696.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "698",
+    "name": "Platinum Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/698.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "715",
+    "name": "Platinum Crown",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/715.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "727",
+    "name": "Wood Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/727.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "728",
+    "name": "Wood Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/728.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "729",
+    "name": "Wood Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/729.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "730",
+    "name": "Ebonwood Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/730.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "731",
+    "name": "Ebonwood Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/731.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "732",
+    "name": "Ebonwood Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/732.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "733",
+    "name": "Rich Mahogany Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/733.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "734",
+    "name": "Rich Mahogany Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/734.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "735",
+    "name": "Rich Mahogany Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/735.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "736",
+    "name": "Pearlwood Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/736.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "737",
+    "name": "Pearlwood Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/737.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "738",
+    "name": "Pearlwood Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/738.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "754",
+    "name": "Rune Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/754.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "755",
+    "name": "Rune Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/755.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "792",
+    "name": "Crimson Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/792.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "793",
+    "name": "Crimson Scalemail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/793.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "794",
+    "name": "Crimson Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/794.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "803",
+    "name": "Eskimo Hood",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/803.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "805",
+    "name": "Eskimo Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/805.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "824",
+    "name": "Sunplate Block",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/824.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "839",
+    "name": "Steampunk Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/839.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "840",
+    "name": "Steampunk Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/840.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "841",
+    "name": "Steampunk Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/841.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "842",
+    "name": "Bee Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/842.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "843",
+    "name": "Bee Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/843.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "844",
+    "name": "Bee Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/844.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "848",
+    "name": "Pharaoh's Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/848.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "852",
+    "name": "Blue Pressure Plate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/852.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "853",
+    "name": "Yellow Pressure Plate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/853.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "863",
+    "name": "Water Walking Boots",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/863.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "866",
+    "name": "Pharaoh's Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/866.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "867",
+    "name": "Green Cap",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/867.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "868",
+    "name": "Mushroom Cap",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/868.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "870",
+    "name": "Mummy Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/870.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "871",
+    "name": "Mummy Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/871.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "872",
+    "name": "Mummy Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/872.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "873",
+    "name": "Cowboy Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/873.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "875",
+    "name": "Cowboy Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/875.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "876",
+    "name": "Pirate Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/876.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "877",
+    "name": "Pirate Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/877.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "878",
+    "name": "Pirate Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/878.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "879",
+    "name": "Viking Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/879.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "894",
+    "name": "Cactus Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/894.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "895",
+    "name": "Cactus Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/895.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "896",
+    "name": "Cactus Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/896.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "898",
+    "name": "Lightning Boots",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/898.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "907",
+    "name": "Obsidian Water Walking Boots",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/907.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "924",
+    "name": "Shadewood Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/924.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "925",
+    "name": "Shadewood Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/925.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "926",
+    "name": "Shadewood Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/926.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "954",
+    "name": "Ancient Iron Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/954.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "955",
+    "name": "Ancient Gold Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/955.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "956",
+    "name": "Ancient Shadow Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/956.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "957",
+    "name": "Ancient Shadow Scalemail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/957.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "958",
+    "name": "Ancient Shadow Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/958.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "959",
+    "name": "Ancient Necro Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/959.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "960",
+    "name": "Ancient Cobalt Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/960.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "961",
+    "name": "Ancient Cobalt Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/961.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "962",
+    "name": "Ancient Cobalt Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/962.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "978",
+    "name": "Pink Eskimo Hood",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/978.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "980",
+    "name": "Pink Eskimo Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/980.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1001",
+    "name": "Chlorophyte Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1001.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1002",
+    "name": "Chlorophyte Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1002.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1004",
+    "name": "Chlorophyte Plate Mail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1004.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1005",
+    "name": "Chlorophyte Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1005.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1122",
+    "name": "Possessed Hatchet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1122.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1135",
+    "name": "Rain Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1135.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1151",
+    "name": "Lihzahrd Pressure Plate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1151.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1159",
+    "name": "Tiki Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1159.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1160",
+    "name": "Tiki Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1160.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1161",
+    "name": "Tiki Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1161.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1176",
+    "name": "Gravestone",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1176.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1205",
+    "name": "Palladium Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1205.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1206",
+    "name": "Palladium Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1206.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1208",
+    "name": "Palladium Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1208.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1209",
+    "name": "Palladium Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1209.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1210",
+    "name": "Orichalcum Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1210.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1211",
+    "name": "Orichalcum Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1211.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1213",
+    "name": "Orichalcum Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1213.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1214",
+    "name": "Orichalcum Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1214.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1215",
+    "name": "Titanium Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1215.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1216",
+    "name": "Titanium Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1216.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1218",
+    "name": "Titanium Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1218.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1219",
+    "name": "Titanium Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1219.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1243",
+    "name": "Umbrella Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1243.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1275",
+    "name": "Balla Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1275.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1276",
+    "name": "Gangsta Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1276.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1277",
+    "name": "Sailor Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1277.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1279",
+    "name": "Sailor Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1279.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1280",
+    "name": "Sailor Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1280.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1281",
+    "name": "Skeletron Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1281.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1282",
+    "name": "Amethyst Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1282.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1283",
+    "name": "Topaz Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1283.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1284",
+    "name": "Sapphire Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1284.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1285",
+    "name": "Emerald Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1285.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1286",
+    "name": "Ruby Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1286.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1287",
+    "name": "Diamond Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1287.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1288",
+    "name": "White Tuxedo Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1288.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1289",
+    "name": "White Tuxedo Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1289.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1316",
+    "name": "Turtle Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1316.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1317",
+    "name": "Turtle Scale Mail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1317.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1318",
+    "name": "Turtle Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1318.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1454",
+    "name": "Ragged Brotherhood Sigil",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1454.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1503",
+    "name": "Spectre Hood",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1503.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1504",
+    "name": "Spectre Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1504.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1505",
+    "name": "Spectre Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1505.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1514",
+    "name": "SWAT Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1514.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1547",
+    "name": "Shroomite Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1547.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1548",
+    "name": "Shroomite Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1548.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1549",
+    "name": "Shroomite Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1549.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1550",
+    "name": "Shroomite Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1550.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1555",
+    "name": "Cenx's Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1555.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1556",
+    "name": "Cenx's Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1556.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1557",
+    "name": "Crowno's Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1557.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1558",
+    "name": "Crowno's Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1558.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1559",
+    "name": "Crowno's Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1559.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1560",
+    "name": "Will's Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1560.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1561",
+    "name": "Will's Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1561.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1562",
+    "name": "Will's Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1562.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1563",
+    "name": "Jim's Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1563.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1564",
+    "name": "Jim's Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1564.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1565",
+    "name": "Jim's Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1565.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1566",
+    "name": "Aaron's Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1566.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1567",
+    "name": "Aaron's Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1567.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1568",
+    "name": "Aaron's Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1568.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1575",
+    "name": "Crowno Devours His Lunch",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1575.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1579",
+    "name": "Flurry Boots",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1579.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1580",
+    "name": "D-Town's Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1580.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1581",
+    "name": "D-Town's Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1581.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1582",
+    "name": "D-Town's Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1582.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1585",
+    "name": "Crowno's Wings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1585.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1588",
+    "name": "Cenx's Dress Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1588.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1731",
+    "name": "Pumpkin Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1731.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1732",
+    "name": "Pumpkin Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1732.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1733",
+    "name": "Pumpkin Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1733.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1736",
+    "name": "Nurse Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1736.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1737",
+    "name": "Nurse Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1737.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1738",
+    "name": "Nurse Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1738.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1739",
+    "name": "Wizard's Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1739.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1740",
+    "name": "Guy Fawkes Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1740.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1741",
+    "name": "Dye Trader Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1741.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1743",
+    "name": "Cyborg Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1743.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1744",
+    "name": "Cyborg Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1744.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1745",
+    "name": "Cyborg Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1745.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1746",
+    "name": "Creeper Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1746.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1747",
+    "name": "Creeper Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1747.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1748",
+    "name": "Creeper Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1748.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1749",
+    "name": "Cat Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1749.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1750",
+    "name": "Cat Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1750.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1751",
+    "name": "Cat Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1751.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1752",
+    "name": "Ghost Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1752.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1753",
+    "name": "Ghost Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1753.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1754",
+    "name": "Pumpkin Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1754.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1755",
+    "name": "Pumpkin Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1755.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1756",
+    "name": "Pumpkin Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1756.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1757",
+    "name": "Robot Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1757.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1758",
+    "name": "Robot Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1758.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1759",
+    "name": "Robot Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1759.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1760",
+    "name": "Unicorn Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1760.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1761",
+    "name": "Unicorn Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1761.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1762",
+    "name": "Unicorn Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1762.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1763",
+    "name": "Vampire Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1763.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1764",
+    "name": "Vampire Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1764.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1765",
+    "name": "Vampire Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1765.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1766",
+    "name": "Witch Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1766.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1767",
+    "name": "Leprechaun Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1767.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1768",
+    "name": "Leprechaun Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1768.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1769",
+    "name": "Leprechaun Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1769.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1770",
+    "name": "Pixie Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1770.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1771",
+    "name": "Pixie Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1771.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1772",
+    "name": "Princess Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1772.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1776",
+    "name": "Witch Boots",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1776.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1777",
+    "name": "Bride of Frankenstein Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1777.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1779",
+    "name": "Karate Tortoise Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1779.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1780",
+    "name": "Karate Tortoise Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1780.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1781",
+    "name": "Karate Tortoise Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1781.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1788",
+    "name": "Scarecrow Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1788.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1789",
+    "name": "Scarecrow Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1789.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1790",
+    "name": "Scarecrow Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1790.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1819",
+    "name": "Reaper Hood",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1819.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1820",
+    "name": "Reaper Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1820.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1821",
+    "name": "Fox Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1821.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1822",
+    "name": "Fox Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1822.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1823",
+    "name": "Fox Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1823.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1832",
+    "name": "Spooky Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1832.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1833",
+    "name": "Spooky Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1833.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1834",
+    "name": "Spooky Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1834.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1838",
+    "name": "Space Creature Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1838.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1839",
+    "name": "Space Creature Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1839.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1840",
+    "name": "Space Creature Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1840.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1841",
+    "name": "Wolf Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1841.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1842",
+    "name": "Wolf Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1842.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1843",
+    "name": "Wolf Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1843.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1847",
+    "name": "Bitter Harvest",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1847.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1851",
+    "name": "Treasure Hunter Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1851.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1852",
+    "name": "Treasure Hunter Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1852.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1857",
+    "name": "Jack 'O Lantern Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1857.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1862",
+    "name": "Frostspark Boots",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1862.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1932",
+    "name": "Mrs. Claus Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1932.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1933",
+    "name": "Mrs. Claus Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1933.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1935",
+    "name": "Parka Hood",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1935.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1937",
+    "name": "Parka Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1937.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1938",
+    "name": "Snow Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1938.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1940",
+    "name": "Tree Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1940.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1941",
+    "name": "Tree Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1941.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1943",
+    "name": "Elf Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/1943.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1944",
+    "name": "Elf Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/1944.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "1945",
+    "name": "Elf Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/1945.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2104",
+    "name": "Brain of Cthulhu Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2104.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2105",
+    "name": "Wall of Flesh Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2105.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2106",
+    "name": "Twin Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2106.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2107",
+    "name": "Skeletron Prime Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2107.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2109",
+    "name": "Plantera Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2109.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2110",
+    "name": "Golem Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2110.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "post-plantera",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2111",
+    "name": "Eater of Worlds Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2111.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2112",
+    "name": "Eye of Cthulhu Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2112.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2113",
+    "name": "Destroyer Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2113.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2116",
+    "name": "Helmet Rack",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2116.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2189",
+    "name": "Spectre Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2189.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2199",
+    "name": "Beetle Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2199.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2200",
+    "name": "Beetle Scale Mail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2200.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2202",
+    "name": "Beetle Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/2202.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2222",
+    "name": "Peddler's Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2222.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2275",
+    "name": "Magic Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2275.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "green",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2279",
+    "name": "Gypsy Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2279.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2285",
+    "name": "Mysterious Cape",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2285.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2286",
+    "name": "Red Cape",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2286.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2287",
+    "name": "Winter Cape",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2287.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2362",
+    "name": "Bee Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2362.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2363",
+    "name": "Bee Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/2363.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2367",
+    "name": "Angler Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2367.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2368",
+    "name": "Angler Vest",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2368.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2369",
+    "name": "Angler Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/2369.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2370",
+    "name": "Spider Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2370.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2371",
+    "name": "Spider Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2371.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2372",
+    "name": "Spider Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/2372.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2480",
+    "name": "Cap'n Tunabeard",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2480.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2492",
+    "name": "Pressure Plate Track",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2492.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2493",
+    "name": "King Slime Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2493.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2498",
+    "name": "Fish Costume Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2498.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2499",
+    "name": "Fish Costume Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2499.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2509",
+    "name": "Boreal Wood Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2509.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2510",
+    "name": "Boreal Wood Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2510.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2511",
+    "name": "Boreal Wood Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/2511.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2512",
+    "name": "Palm Wood Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2512.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2513",
+    "name": "Palm Wood Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2513.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2514",
+    "name": "Palm Wood Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/2514.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2588",
+    "name": "Duke Fishron Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2588.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "post-plantera",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2757",
+    "name": "Vortex Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2757.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2758",
+    "name": "Vortex Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2758.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2759",
+    "name": "Vortex Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/2759.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2760",
+    "name": "Nebula Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2760.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2761",
+    "name": "Nebula Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2761.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2762",
+    "name": "Nebula Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/2762.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2763",
+    "name": "Solar Flare Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2763.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2764",
+    "name": "Solar Flare Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2764.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2765",
+    "name": "Solar Flare Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/2765.png",
+    "acquisition": [
+      "craft"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2801",
+    "name": "Moon Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2801.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2802",
+    "name": "Sun Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2802.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2803",
+    "name": "Martian Costume Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2803.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2804",
+    "name": "Martian Costume Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2804.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2805",
+    "name": "Martian Costume Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/2805.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2806",
+    "name": "Martian Uniform Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2806.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2808",
+    "name": "Martian Uniform Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/2808.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2856",
+    "name": "Solar Cultist Hood",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2856.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2857",
+    "name": "Lunar Cultist Hood",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/2857.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "post-golem",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2858",
+    "name": "Solar Cultist Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2858.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "2859",
+    "name": "Lunar Cultist Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/2859.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "post-golem",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3017",
+    "name": "Flower Boots",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3017.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3109",
+    "name": "Night Vision Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3109.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3187",
+    "name": "Gladiator Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3187.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3188",
+    "name": "Gladiator Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3188.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3189",
+    "name": "Gladiator Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3189.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3200",
+    "name": "Sailfish Boots",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3200.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3232",
+    "name": "Golden Gravestone",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3232.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3242",
+    "name": "Tax Collector's Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3242.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3244",
+    "name": "Tax Collector's Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3244.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3247",
+    "name": "Clothier's Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3247.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3264",
+    "name": "Buccaneer Tunic",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3264.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3266",
+    "name": "Obsidian Outlaw Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3266.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3268",
+    "name": "Obsidian Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3268.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3362",
+    "name": "Fallen Tuxedo Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3362.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3363",
+    "name": "Fallen Tuxedo Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3363.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3372",
+    "name": "Ancient Cultist Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3372.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3373",
+    "name": "Moon Lord Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3373.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "post-golem",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3374",
+    "name": "Fossil Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3374.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3375",
+    "name": "Fossil Plate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3375.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3376",
+    "name": "Fossil Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3376.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3441",
+    "name": "Pirate Captain Banner",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3441.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3585",
+    "name": "Skiphs's Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3585.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3589",
+    "name": "Loki's Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3589.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3590",
+    "name": "Loki's Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3590.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3591",
+    "name": "Loki's Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3591.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3626",
+    "name": "Pink Weighted Pressure Plate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3626.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3627",
+    "name": "Engineering Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3627.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3630",
+    "name": "Orange Weighted Pressure Plate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3630.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3631",
+    "name": "Purple Weighted Pressure Plate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3631.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3632",
+    "name": "Cyan Weighted Pressure Plate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3632.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3732",
+    "name": "Party Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3732.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3786",
+    "name": "Lamia Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3786.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3797",
+    "name": "Apprentice's Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3797.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3798",
+    "name": "Apprentice's Robe",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3798.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3802",
+    "name": "Squire's Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3802.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3805",
+    "name": "Huntress's Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3805.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3806",
+    "name": "Monk's Bushy Brow Bald Cap",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3806.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3807",
+    "name": "Monk's Shirt",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3807.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3808",
+    "name": "Monk's Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3808.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3863",
+    "name": "Betsy Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3863.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3864",
+    "name": "Dark Mage Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3864.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3865",
+    "name": "Ogre Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3865.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3872",
+    "name": "Valhalla Knight's Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3872.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3873",
+    "name": "Valhalla Knight's Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3873.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3874",
+    "name": "Dark Artist's Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3874.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3875",
+    "name": "Dark Artist's Robes",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/3875.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3876",
+    "name": "Dark Artist's Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3876.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3877",
+    "name": "Red Riding Hood",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3877.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3879",
+    "name": "Red Riding Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3879.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3880",
+    "name": "Shinobi Infiltrator's Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/3880.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "3882",
+    "name": "Shinobi Infiltrator's Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/3882.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "5001",
+    "name": "Dragon Mask",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/5001.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "5002",
+    "name": "Titan Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/5002.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "5004",
+    "name": "Dragon Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/5004.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "5005",
+    "name": "Titan Mail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "iconPath": "/assets/icons/armor/5005.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "5007",
+    "name": "Dragon Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/5007.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "5008",
+    "name": "Titan Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/5008.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "5030",
+    "name": "George's Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/5030.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "5034",
+    "name": "George's Pants",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "iconPath": "/assets/icons/armor/5034.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "5067",
+    "name": "Festive Top Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/5067.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "5068",
+    "name": "Alpine Hat",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "iconPath": "/assets/icons/armor/5068.png",
+    "acquisition": [
+      "find"
+    ],
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  }
+]
