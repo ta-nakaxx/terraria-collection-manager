@@ -22,7 +22,13 @@ export const getItemsByCategory = (items: Item[], category: string): Item[] => {
  * 指定したサブカテゴリのアイテムをフィルタリング
  */
 export const getItemsBySubcategory = (items: Item[], subcategory: string): Item[] => {
-  return items.filter(item => item.subcategory === subcategory);
+  const result = items.filter(item => item.subcategory === subcategory);
+  console.log(`🏷️ Filtering by subcategory "${subcategory}":`, {
+    input: items.length,
+    output: result.length,
+    sampleItems: result.slice(0, 3).map(item => ({ name: item.name, subcategory: item.subcategory }))
+  });
+  return result;
 };
 
 /**

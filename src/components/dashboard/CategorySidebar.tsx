@@ -30,8 +30,8 @@ const STYLES = {
   CATEGORY_BUTTON_UNSELECTED: "text-gray-700 hover:bg-gray-100/80 hover:text-gray-900",
   SUBCATEGORY_CONTAINER: "ml-3 mt-1 space-y-0.5",
   SUBCATEGORY_BUTTON_BASE: "w-full text-left px-3 py-1.5 rounded-md text-xs font-medium transition-all duration-200",
-  SUBCATEGORY_BUTTON_SELECTED: "bg-gray-100 text-gray-900 shadow-sm",
-  SUBCATEGORY_BUTTON_UNSELECTED: "text-gray-600 hover:bg-gray-50 hover:text-gray-800"
+  SUBCATEGORY_BUTTON_SELECTED: "bg-blue-100 text-blue-900 shadow-sm border-l-2 border-blue-500",
+  SUBCATEGORY_BUTTON_UNSELECTED: "text-gray-600 hover:bg-gray-50 hover:text-gray-800 border-l-2 border-transparent"
 } as const;
 
 /**
@@ -72,7 +72,12 @@ export function CategorySidebar({
                         : STYLES.SUBCATEGORY_BUTTON_UNSELECTED
                     }`}
                   >
-                    {subcategory}
+                    <div className="flex items-center justify-between">
+                      <span>{subcategory}</span>
+                      {selectedSubcategory === subcategory && (
+                        <span className="text-blue-600 text-xs">✓</span>
+                      )}
+                    </div>
                   </button>
                 ))}
               </div>

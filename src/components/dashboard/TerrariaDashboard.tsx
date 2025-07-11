@@ -126,11 +126,25 @@ export default function TerrariaDashboard() {
   const filteredItems = useMemo(() => {
     const category = categories.find((c) => c.id === selectedCategory);
     
-    return filterItems(itemsWithOwnership, {
+    const filters = {
       type: category?.type,
       subcategory: selectedSubcategory || undefined,
       search: searchQuery || undefined,
+    };
+    
+    const result = filterItems(itemsWithOwnership, filters);
+    
+    // Debug: フィルタリング結果をコンソールに出力
+    console.log('🔍 Filtering items:', {
+      selectedCategory,
+      selectedSubcategory,
+      categoryType: category?.type,
+      totalItems: itemsWithOwnership.length,
+      filteredItems: result.length,
+      filters
     });
+    
+    return result;
   }, [itemsWithOwnership, selectedCategory, selectedSubcategory, searchQuery]);
 
   // イベントハンドラー（useCallbackで最適化）
