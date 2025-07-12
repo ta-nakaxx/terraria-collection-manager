@@ -5,6 +5,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1248.png",
     "acquisition": [
       "find"
@@ -20,6 +21,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1273.png",
     "acquisition": [
       "find"
@@ -35,6 +37,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1297.png",
     "acquisition": [
       "find"
@@ -50,6 +53,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1301.png",
     "acquisition": [
       "craft"
@@ -65,6 +69,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1360.png",
     "acquisition": [
       "find"
@@ -80,6 +85,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1361.png",
     "acquisition": [
       "find"
@@ -95,6 +101,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1362.png",
     "acquisition": [
       "find"
@@ -110,6 +117,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1363.png",
     "acquisition": [
       "find"
@@ -125,6 +133,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1364.png",
     "acquisition": [
       "find"
@@ -140,6 +149,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1365.png",
     "acquisition": [
       "find"
@@ -155,6 +165,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1366.png",
     "acquisition": [
       "find"
@@ -170,6 +181,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1367.png",
     "acquisition": [
       "find"
@@ -185,6 +197,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1370.png",
     "acquisition": [
       "find"
@@ -200,6 +213,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1371.png",
     "acquisition": [
       "find"
@@ -215,6 +229,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1423.png",
     "acquisition": [
       "find"
@@ -230,6 +245,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1606.png",
     "acquisition": [
       "find"
@@ -245,6 +261,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/1846.png",
     "acquisition": [
       "find"
@@ -260,6 +277,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/2589.png",
     "acquisition": [
       "find"
@@ -275,6 +293,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/2934.png",
     "acquisition": [
       "find"
@@ -290,6 +309,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/3292.png",
     "acquisition": [
       "find"
@@ -305,6 +325,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/3595.png",
     "acquisition": [
       "find"
@@ -320,6 +341,7 @@
     "type": "boss",
     "category": "Bosses",
     "subcategory": "Pre-Hardmode",
+    "subSubcategory": "boss",
     "iconPath": "/assets/icons/bosses/3718.png",
     "acquisition": [
       "find"

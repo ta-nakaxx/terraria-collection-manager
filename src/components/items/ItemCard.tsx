@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { Item } from '@/types';
 import { getRarityStyle } from '@/constants/rarityStyles';
+import ItemIcon from '@/components/ui/ItemIcon';
 
 interface ItemCardProps {
   item: Item;
@@ -34,12 +35,7 @@ const abbreviateSubcategory = (subcategory: string): string => {
 };
 
 export function ItemCard({ item, onToggleOwned, onItemClick }: ItemCardProps) {
-  const [imageError, setImageError] = useState(false);
   const rarityStyle = getRarityStyle(item.rarity);
-
-  const handleImageError = () => {
-    setImageError(true);
-  };
 
   // コレクション対象アイテムは所有状況に応じて表示を変更
   // 参考アイテムは常にカラーで表示
@@ -72,11 +68,10 @@ export function ItemCard({ item, onToggleOwned, onItemClick }: ItemCardProps) {
 
       {/* Icon with overlaid elements */}
       <div className="relative w-full h-full flex items-center justify-center">
-        <img
-          src={imageError ? "/placeholder.svg" : item.iconPath || "/placeholder.svg"}
-          alt={item.name}
-          className="w-16 h-16 object-contain transition-all duration-300 group-hover:scale-110 drop-shadow-sm"
-          onError={handleImageError}
+        <ItemIcon 
+          item={item}
+          size={64}
+          showHoverEffect={true}
         />
 
         {/* Subtle glow effect for higher rarities */}

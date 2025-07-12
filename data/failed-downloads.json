@@ -1,0 +1,2190 @@
+[
+  {
+    "name": "Iron Shortsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Wooden Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Wooden Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Iron Broadsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Life Crystal",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Demon Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Starfury",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Fallen Star",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Enchanted Boomerang",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Copper Chainmail",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Flintlock Pistol",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chain",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Silver Chainmail",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Iron Chainmail",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Gold Chainmail",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Iron Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Musket",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Band of Starpower",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Musket Ball",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Mana Crystal",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Fiery Greatsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rocket Boots",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Space Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Book",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chain Lantern",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Grenade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Blade of Grass",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ivy Whip",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Star",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Handgun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Star Cannon",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Thorn Chakram",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Blue Phaseblade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Green Phaseblade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Red Phaseblade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Purple Phaseblade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Staff of Regrowth",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "White Phaseblade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Flamelash",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Yellow Phaseblade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Throwing Knife",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Sandgun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Fish Bowl",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Trident",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Dark Lance",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Wooden Boomerang",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Spear",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Illegal Gun Parts",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Poisoned Knife",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bowl of Soup",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bowl",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Mythril Halberd",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Breaker Blade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Mythril Chainmail",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Star Statue",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bow Statue",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Sword Statue",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Spear Statue",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Clockwork Assault Rifle",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Boomerang Statue",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Crystal Ball",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Adamantite Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Cobalt Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Mythril Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rainbow Rod",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Laser Rifle",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Crystal Shard",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Crystal Storm",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Crystal Bullet",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Star Cloak",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Spell Tome",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Dart Trap",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Shotgun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Gungnir",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Pearlwood Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ebonwood Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rich Mahogany Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rich Mahogany Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ebonwood Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Cutlass",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ice Boomerang",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rainbow Brick",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rainbow Brick Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Pearlwood Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Lead Chainmail",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tactical Shotgun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tungsten Chainmail",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tin Chainmail",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Unholy Trident",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Platinum Chainmail",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ice Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Frost Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ice Blade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Beam Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ruby Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Topaz Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Amethyst Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Sapphire Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Emerald Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Mushroom Spear",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Grenade Launcher",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rocket Launcher",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Diamond Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Terra Blade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rocket I",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rocket III",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Proximity Mine Launcher",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rocket II",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rocket IV",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Living Wood Wand",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tendon Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Cactus Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Coin Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Star Veil",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Shadewood Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Flare Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Shadewood Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Leaf Wand",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bone Wand",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Red Rocket",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Snowball Launcher",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Yellow Rocket",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Green Rocket",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Blue Rocket",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Blowgun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rainbow Dye",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Confetti Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bee Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Intense Rainbow Dye",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Spear Trap",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Piranha Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Hive Wand",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Super Dart Trap",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Wasp Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bone Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Orichalcum Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Orichalcum Halberd",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Palladium Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Pygmy Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Titanium Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Titanium Trident",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chlorophyte Partisan",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chlorophyte Saber",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chlorophyte Claymore",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Staff of Earth",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Sniper Rifle",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rainbow Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chlorophyte Shotbow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rifle Scope",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Slime Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Poison Dart",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bananarang",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Poison Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Book of Skulls",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Star in a Bottle",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Pink Dungeon Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chain Knife",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Blue Dungeon Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Green Dungeon Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Starry Night",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Shadowbeam Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bubble Wand",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Spectre Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Obsidian Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Broken Hero Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Gothic Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Candy Corn Rifle",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Staff of the Frost Hydra",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Enchanted Sword Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "The Horseman's Blade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stake Launcher",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Raven Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Jack 'O Lantern Launcher",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bladed Glove",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Star Topper 1",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Sniper Scope",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Morbid Curiosity",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Star Topper 2",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Star Topper 3",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bow Topper",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Giant Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Candy Cane Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Star Anise",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Fruitcake Chakram",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Christmas Tree Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Amethyst Gemspark Block",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chain Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Blizzard Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stars Wallpaper",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ruby Gemspark Block",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Sapphire Gemspark Block",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Emerald Gemspark Block",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Diamond Gemspark Block",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Topaz Gemspark Block",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Starlit Heaven Wallpaper",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rainbow Wallpaper",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Cactus Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Amber Gemspark Block",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rainbow Hair Dye",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Steampunk Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Glass Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ebonwood Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Honey Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Flesh Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Skyware Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Lihzahrd Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rich Mahogany Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Pearlwood Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Spooky Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Shadewood Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Sword Rack",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Living Wood Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Frozen Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Spear Rack",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Golden Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Dynasty Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Pulse Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Venom Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bone Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Glass Bowl",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Revolver",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Dynasty Bowl",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Katana",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Water Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Purple Clubberfish",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Swordfish",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Hornet Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Imp Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Obsidian Swordfish",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Palm Wood Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Fallen Starfish",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Swordfish Trophy",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Queen Spider Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Palm Wood Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Optic Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Spider Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Boreal Wood Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Mushroom Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Palm Wood Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Slime Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Pirate Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Sticky Grenade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Falcon Blade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Slime Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Pumpkin Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Razorblade Typhoon",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bubble Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Starfish",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tempest Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Amber Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Offline Amber Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Diamond Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Offline Amethyst Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Amethyst Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Emerald Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Offline Emerald Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Offline Diamond Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Offline Ruby Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ruby Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Offline Topaz Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Boreal Wood Sword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Sapphire Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Topaz Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Offline Sapphire Gemspark Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Xeno Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Meteor Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Electrosphere Launcher",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Boreal Wood Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Laser Machinegun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Martian Scutlix Gunner Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Martian Raygunner Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Martian Holobookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Living Rainbow Dye",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rainbow Slime Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Summoner Emblem",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Dart Rifle",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Skeleton Sniper Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Dart Pistol",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Crystal Dart",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ichor Dart",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chain Guillotines",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Cursed Dart",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Clinger Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Hellwing Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Flying Knife",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Super Absorbant Sponge",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Daedalus Stormbow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rainbow Campfire",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rainbow Torch",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Crystal Vile Shard",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Shadowflame Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Shadowflame Knife",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Star Wrath",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Wand of Sparking",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Endless Musket Pouch",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Psycho Knife",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Javelin",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Nail Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bouncy Grenade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Marble Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Crystal Serpent",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Granite Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bladetongue",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Meteorite Bookcase",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Deadly Sphere Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Crystal Block Wall",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Crystal Block",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Wooden Yoyo",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Valkyrie Yoyo",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Exotic Scimitar",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Living Mahogany Wand",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Yoyo Glove",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rainbow String",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Paintball Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Yoyo Bag",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rich Mahogany Leaf Wand",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Amber Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bone Throwing Knife",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bone Javelin",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Plate",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Helmet",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Leggings",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Portal Gun",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Goblin Summoner Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Small Star Cell Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Star Cell Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stargazer Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Pirate Crossbower Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Fragment",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Wings",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Platinum Shortsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Platinum Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Cell Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Platinum Broadsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tungsten Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Lead Shortsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Lead Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tungsten Shortsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tungsten Broadsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tin Shortsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Copper Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tin Broadsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tin Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Lead Broadsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Copper Shortsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Silver Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Silver Broadsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Copper Broadsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Silver Shortsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Dye",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Gold Bow",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Gold Shortsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Gold Broadsword",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Dragon Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Midnight Rainbow Dye",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Monolith",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Happy Grenade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rainbow Crystal Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Lunar Portal Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Sapphire Gem Lock",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ruby Gem Lock",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Yoraiz0r's Spell",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Fragment Block",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Emerald Gem Lock",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Amethyst Gem Lock",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Diamond Gem Lock",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Topaz Gem Lock",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Amber Gem Lock",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Portal Gun Station",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Red Phasesaber",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Purple Phasesaber",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Green Phasesaber",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Blue Phasesaber",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "White Phasesaber",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Yellow Phasesaber",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Forbidden Mask",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Mandible Blade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Forbidden Robes",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Forbidden Treads",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Flameburst Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Forbidden Fragment",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ballista Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Crystal Thresher Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Eternia Crystal Stand",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Eternia Crystal",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Explosive Trap Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Etherian Javelin Thrower Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tome of Infinite Wisdom",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Lightning Aura Staff",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Boots of Ostara",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Holy Hand Grenade",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rainbow Piece",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Broken Heart Crystal",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Iron Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "War Axe of the Night",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Iron Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Iron Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Molten Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Nightmare Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Pwnhammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Meteor Hamaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Molten Hamaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Wooden Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Cobalt Chainsaw",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Adamantite Chainsaw",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Mythril Drill",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Cobalt Drill",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Mythril Chainsaw",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Adamantite Drill",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Axe Statue",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Pickaxe Statue",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Rich Mahogany Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ebonwood Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Hammer Statue",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Deathbringer Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Cobalt Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Pearlwood Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Adamantite Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Mythril Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Cactus Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Pickaxe Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Cobalt Waraxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Shadewood Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Mythril Waraxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Palladium Drill",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Orichalcum Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Palladium Chainsaw",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Palladium Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Adamantite Waraxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Orichalcum Drill",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Titanium Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Orichalcum Chainsaw",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Titanium Drill",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Titanium Chainsaw",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Palladium Waraxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chlorophyte Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chlorophyte Drill",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Orichalcum Waraxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Titanium Waraxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chlorophyte Chainsaw",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chlorophyte Warhammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "The Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chlorophyte Greataxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Chlorophyte Jackhammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bone Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Spectre Hamaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Paladin's Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Hell Hammer Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Spectre Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Cursed Hammer Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Crimson Axe Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Autohammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Candy Cane Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Bug Net",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Golden Fishing Rod",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Wood Fishing Pole",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Fiberglass Fishing Pole",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Reinforced Fishing Pole",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Sitting Duck's Fishing Pole",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Boreal Wood Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Drill Containment Unit",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Vortex Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Vortex Chainsaw",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Palm Wood Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Nebula Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Nebula Chainsaw",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Vortex Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Vortex Drill",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Vortex Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Nebula Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Solar Flare Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Nebula Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Nebula Drill",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Solar Flare Chainsaw",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Solar Flare Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Laser Drill",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Solar Flare Drill",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Butcher's Chainsaw",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Solar Flare Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Drill",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Chainsaw",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Golden Bug Net",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Platinum Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tungsten Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Platinum Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Platinum Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Lead Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tungsten Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Lead Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tungsten Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Lead Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tin Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Copper Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tin Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Copper Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Tin Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Silver Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Gold Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Copper Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Silver Hammer",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Silver Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Solar Flare Hamaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Gold Pickaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Gold Axe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Nebula Hamaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Vortex Hamaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Guide Picasso",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Nurse Lisa",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Guide Voodoo Doll",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Shadow Hammer Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Stardust Hamaxe",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Angler Earring",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "The Merchant",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "The Creation of the Guide",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Angler Fish Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Princess Fish",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Guide Voodoo Fish",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Dye Trader's Turban",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Angler Tackle Bag",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Guide to Plant Fiber Cordage",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Fisherman's Pocket Guide",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Golem Fist",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Eye of the Golem",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Destroyer Emblem",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Eye of Cthulhu Trophy",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Skeletron Hand",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Eater of Worlds Trophy",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Queen Bee Trophy",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Brain of Cthulhu Trophy",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Wall of Flesh Trophy",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Skeletron Trophy",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Destroyer Trophy",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Plantera Trophy",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Golem Trophy",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Skeletron Prime Trophy",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "The Twins Have Awoken",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Ice Golem Banner",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "The Eye of Cthulhu",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Jacking Skeletron",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Music Box (Plantera)",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Duke Fishron Trophy",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Granite Golem Statue",
+    "error": "HTTP 404"
+  },
+  {
+    "name": "Moon Lord Trophy",
+    "error": "HTTP 404"
+  }
+]

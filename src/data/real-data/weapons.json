@@ -5,6 +5,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/4.png",
     "acquisition": [
       "craft"
@@ -20,6 +21,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/6.png",
     "acquisition": [
       "craft"
@@ -35,6 +37,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/24.png",
     "acquisition": [
       "craft"
@@ -50,6 +53,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/29.png",
     "acquisition": [
       "find"
@@ -65,6 +69,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/39.png",
     "acquisition": [
       "craft"
@@ -80,6 +85,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/44.png",
     "acquisition": [
       "craft"
@@ -95,6 +101,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "boomerang",
     "iconPath": "/assets/icons/weapons/55.png",
     "acquisition": [
       "find"
@@ -110,6 +117,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/65.png",
     "acquisition": [
       "find"
@@ -125,6 +133,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/75.png",
     "acquisition": [
       "find"
@@ -140,6 +149,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/80.png",
     "acquisition": [
       "craft"
@@ -155,6 +165,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/81.png",
     "acquisition": [
       "craft"
@@ -170,6 +181,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/82.png",
     "acquisition": [
       "craft"
@@ -185,6 +197,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/83.png",
     "acquisition": [
       "craft"
@@ -200,6 +213,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/85.png",
     "acquisition": [
       "craft"
@@ -215,6 +229,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/95.png",
     "acquisition": [
       "find"
@@ -230,6 +245,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/96.png",
     "acquisition": [
       "find"
@@ -245,6 +261,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/97.png",
     "acquisition": [
       "find"
@@ -260,6 +277,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/99.png",
     "acquisition": [
       "craft"
@@ -275,6 +293,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/109.png",
     "acquisition": [
       "craft"
@@ -290,6 +309,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/111.png",
     "acquisition": [
       "find"
@@ -305,6 +325,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/121.png",
     "acquisition": [
       "craft"
@@ -320,6 +341,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/127.png",
     "acquisition": [
       "craft"
@@ -335,6 +357,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/128.png",
     "acquisition": [
       "find"
@@ -350,6 +373,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/136.png",
     "acquisition": [
       "find"
@@ -365,6 +389,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/149.png",
     "acquisition": [
       "find"
@@ -380,6 +405,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/164.png",
     "acquisition": [
       "find"
@@ -395,6 +421,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/168.png",
     "acquisition": [
       "find"
@@ -410,6 +437,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/184.png",
     "acquisition": [
       "find"
@@ -425,6 +453,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Summoner",
+    "subSubcategory": "whip",
     "iconPath": "/assets/icons/weapons/185.png",
     "acquisition": [
       "craft"
@@ -440,6 +469,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/190.png",
     "acquisition": [
       "craft"
@@ -455,6 +485,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "boomerang",
     "iconPath": "/assets/icons/weapons/191.png",
     "acquisition": [
       "craft"
@@ -470,6 +501,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/197.png",
     "acquisition": [
       "craft"
@@ -485,6 +517,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/198.png",
     "acquisition": [
       "craft"
@@ -500,6 +533,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/199.png",
     "acquisition": [
       "craft"
@@ -515,6 +549,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/200.png",
     "acquisition": [
       "craft"
@@ -530,6 +565,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/201.png",
     "acquisition": [
       "craft"
@@ -545,6 +581,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/202.png",
     "acquisition": [
       "craft"
@@ -560,6 +597,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/203.png",
     "acquisition": [
       "craft"
@@ -575,6 +613,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/213.png",
     "acquisition": [
       "find"
@@ -590,6 +629,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Summoner",
+    "subSubcategory": "whip",
     "iconPath": "/assets/icons/weapons/218.png",
     "acquisition": [
       "find"
@@ -605,6 +645,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/250.png",
     "acquisition": [
       "craft"
@@ -620,6 +661,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/266.png",
     "acquisition": [
       "craft"
@@ -635,6 +677,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "spear",
     "iconPath": "/assets/icons/weapons/274.png",
     "acquisition": [
       "find"
@@ -650,6 +693,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "spear",
     "iconPath": "/assets/icons/weapons/277.png",
     "acquisition": [
       "find"
@@ -665,6 +709,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/279.png",
     "acquisition": [
       "find"
@@ -680,6 +725,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "spear",
     "iconPath": "/assets/icons/weapons/280.png",
     "acquisition": [
       "find"
@@ -695,6 +741,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "boomerang",
     "iconPath": "/assets/icons/weapons/284.png",
     "acquisition": [
       "find"
@@ -710,6 +757,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/287.png",
     "acquisition": [
       "craft"
@@ -725,6 +773,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/324.png",
     "acquisition": [
       "find"
@@ -740,6 +789,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/354.png",
     "acquisition": [
       "craft"
@@ -755,6 +805,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/356.png",
     "acquisition": [
       "craft"
@@ -770,6 +821,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/357.png",
     "acquisition": [
       "craft"
@@ -785,6 +837,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/379.png",
     "acquisition": [
       "craft"
@@ -800,6 +853,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "spear",
     "iconPath": "/assets/icons/weapons/390.png",
     "acquisition": [
       "craft"
@@ -815,6 +869,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/426.png",
     "acquisition": [
       "find"
@@ -830,6 +885,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/434.png",
     "acquisition": [
       "find"
@@ -845,6 +901,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/438.png",
     "acquisition": [
       "find"
@@ -860,6 +917,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/439.png",
     "acquisition": [
       "find"
@@ -875,6 +933,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "spear",
     "iconPath": "/assets/icons/weapons/457.png",
     "acquisition": [
       "find"
@@ -890,6 +949,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/460.png",
     "acquisition": [
       "find"
@@ -905,6 +965,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "boomerang",
     "iconPath": "/assets/icons/weapons/461.png",
     "acquisition": [
       "find"
@@ -920,6 +981,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/482.png",
     "acquisition": [
       "craft"
@@ -935,6 +997,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/483.png",
     "acquisition": [
       "craft"
@@ -950,6 +1013,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/484.png",
     "acquisition": [
       "craft"
@@ -965,6 +1029,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/487.png",
     "acquisition": [
       "find"
@@ -980,6 +1045,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/495.png",
     "acquisition": [
       "craft"
@@ -995,6 +1061,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/502.png",
     "acquisition": [
       "find"
@@ -1010,6 +1077,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/514.png",
     "acquisition": [
       "find"
@@ -1025,6 +1093,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/515.png",
     "acquisition": [
       "craft"
@@ -1040,6 +1109,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/518.png",
     "acquisition": [
       "craft"
@@ -1055,6 +1125,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/531.png",
     "acquisition": [
       "find"
@@ -1070,6 +1141,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/532.png",
     "acquisition": [
       "find"
@@ -1085,6 +1157,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/534.png",
     "acquisition": [
       "find"
@@ -1100,6 +1173,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/539.png",
     "acquisition": [
       "find"
@@ -1115,6 +1189,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/550.png",
     "acquisition": [
       "craft"
@@ -1130,6 +1205,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/653.png",
     "acquisition": [
       "craft"
@@ -1145,6 +1221,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/655.png",
     "acquisition": [
       "craft"
@@ -1160,6 +1237,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/656.png",
     "acquisition": [
       "craft"
@@ -1175,6 +1253,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/658.png",
     "acquisition": [
       "craft"
@@ -1190,6 +1269,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/659.png",
     "acquisition": [
       "craft"
@@ -1205,6 +1285,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/661.png",
     "acquisition": [
       "craft"
@@ -1220,6 +1301,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/662.png",
     "acquisition": [
       "craft"
@@ -1235,6 +1317,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/663.png",
     "acquisition": [
       "craft"
@@ -1250,6 +1333,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "boomerang",
     "iconPath": "/assets/icons/weapons/670.png",
     "acquisition": [
       "find"
@@ -1265,6 +1349,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/672.png",
     "acquisition": [
       "find"
@@ -1280,6 +1365,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/679.png",
     "acquisition": [
       "find"
@@ -1295,6 +1381,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "spear",
     "iconPath": "/assets/icons/weapons/683.png",
     "acquisition": [
       "find"
@@ -1310,6 +1397,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/688.png",
     "acquisition": [
       "craft"
@@ -1325,6 +1413,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/691.png",
     "acquisition": [
       "craft"
@@ -1340,6 +1429,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/694.png",
     "acquisition": [
       "craft"
@@ -1355,6 +1445,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/697.png",
     "acquisition": [
       "craft"
@@ -1370,6 +1461,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/723.png",
     "acquisition": [
       "find"
@@ -1385,6 +1477,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/724.png",
     "acquisition": [
       "find"
@@ -1400,6 +1493,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/725.png",
     "acquisition": [
       "find"
@@ -1415,6 +1509,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/726.png",
     "acquisition": [
       "find"
@@ -1430,6 +1525,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/739.png",
     "acquisition": [
       "craft"
@@ -1445,6 +1541,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/740.png",
     "acquisition": [
       "craft"
@@ -1460,6 +1557,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/741.png",
     "acquisition": [
       "craft"
@@ -1475,6 +1573,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/742.png",
     "acquisition": [
       "craft"
@@ -1490,6 +1589,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/743.png",
     "acquisition": [
       "craft"
@@ -1505,6 +1605,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/744.png",
     "acquisition": [
       "craft"
@@ -1520,6 +1621,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "spear",
     "iconPath": "/assets/icons/weapons/756.png",
     "acquisition": [
       "find"
@@ -1535,6 +1637,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/757.png",
     "acquisition": [
       "craft"
@@ -1550,6 +1653,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/758.png",
     "acquisition": [
       "find"
@@ -1565,6 +1669,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/759.png",
     "acquisition": [
       "find"
@@ -1580,6 +1685,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/760.png",
     "acquisition": [
       "find"
@@ -1595,6 +1701,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/771.png",
     "acquisition": [
       "find"
@@ -1610,6 +1717,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/772.png",
     "acquisition": [
       "find"
@@ -1625,6 +1733,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/773.png",
     "acquisition": [
       "find"
@@ -1640,6 +1749,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/774.png",
     "acquisition": [
       "find"
@@ -1655,6 +1765,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/796.png",
     "acquisition": [
       "craft"
@@ -1670,6 +1781,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/832.png",
     "acquisition": [
       "find"
@@ -1685,6 +1797,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/862.png",
     "acquisition": [
       "craft"
@@ -1700,6 +1813,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/881.png",
     "acquisition": [
       "craft"
@@ -1715,6 +1829,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/905.png",
     "acquisition": [
       "find"
@@ -1730,6 +1845,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/921.png",
     "acquisition": [
       "craft"
@@ -1745,6 +1861,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/923.png",
     "acquisition": [
       "craft"
@@ -1760,6 +1877,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/930.png",
     "acquisition": [
       "find"
@@ -1775,6 +1893,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/932.png",
     "acquisition": [
       "find"
@@ -1790,6 +1909,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/933.png",
     "acquisition": [
       "find"
@@ -1805,6 +1925,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/951.png",
     "acquisition": [
       "find"
@@ -1820,6 +1941,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/970.png",
     "acquisition": [
       "find"
@@ -1835,6 +1957,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/971.png",
     "acquisition": [
       "find"
@@ -1850,6 +1973,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/972.png",
     "acquisition": [
       "find"
@@ -1865,6 +1989,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/973.png",
     "acquisition": [
       "find"
@@ -1880,6 +2005,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/986.png",
     "acquisition": [
       "find"
@@ -1895,6 +2021,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/1000.png",
     "acquisition": [
       "find"
@@ -1910,6 +2037,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/1066.png",
     "acquisition": [
       "craft"
@@ -1925,6 +2053,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/1067.png",
     "acquisition": [
       "craft"
@@ -1940,6 +2069,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/1121.png",
     "acquisition": [
       "find"
@@ -1955,6 +2085,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/1129.png",
     "acquisition": [
       "find"
@@ -1970,6 +2101,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/1146.png",
     "acquisition": [
       "find"
@@ -1985,6 +2117,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "spear",
     "iconPath": "/assets/icons/weapons/1149.png",
     "acquisition": [
       "find"
@@ -2000,6 +2133,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/1155.png",
     "acquisition": [
       "find"
@@ -2015,6 +2149,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/1156.png",
     "acquisition": [
       "find"
@@ -2030,6 +2165,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/1157.png",
     "acquisition": [
       "find"
@@ -2045,6 +2181,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/1166.png",
     "acquisition": [
       "find"
@@ -2060,6 +2197,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/1185.png",
     "acquisition": [
       "craft"
@@ -2075,6 +2213,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/1192.png",
     "acquisition": [
       "craft"
@@ -2090,6 +2229,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "spear",
     "iconPath": "/assets/icons/weapons/1193.png",
     "acquisition": [
       "craft"
@@ -2105,6 +2245,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/1199.png",
     "acquisition": [
       "craft"
@@ -2120,6 +2261,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "spear",
     "iconPath": "/assets/icons/weapons/1200.png",
     "acquisition": [
       "craft"
@@ -2135,6 +2277,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/1226.png",
     "acquisition": [
       "craft"
@@ -2150,6 +2293,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/1227.png",
     "acquisition": [
       "craft"
@@ -2165,6 +2309,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "spear",
     "iconPath": "/assets/icons/weapons/1228.png",
     "acquisition": [
       "craft"
@@ -2180,6 +2325,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/1229.png",
     "acquisition": [
       "craft"
@@ -2195,6 +2341,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/1254.png",
     "acquisition": [
       "find"
@@ -2210,6 +2357,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/1260.png",
     "acquisition": [
       "find"
@@ -2225,6 +2373,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/1296.png",
     "acquisition": [
       "find"
@@ -2240,6 +2389,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/1300.png",
     "acquisition": [
       "find"
@@ -2255,6 +2405,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/1308.png",
     "acquisition": [
       "find"
@@ -2270,6 +2421,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/1309.png",
     "acquisition": [
       "find"
@@ -2285,6 +2437,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/1310.png",
     "acquisition": [
       "craft"
@@ -2300,6 +2453,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/1313.png",
     "acquisition": [
       "find"
@@ -2315,6 +2469,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "boomerang",
     "iconPath": "/assets/icons/weapons/1324.png",
     "acquisition": [
       "find"
@@ -2330,6 +2485,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/1325.png",
     "acquisition": [
       "find"
@@ -2345,6 +2501,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/1414.png",
     "acquisition": [
       "find"
@@ -2360,6 +2517,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/1415.png",
     "acquisition": [
       "find"
@@ -2375,6 +2533,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/1416.png",
     "acquisition": [
       "find"
@@ -2390,6 +2549,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/1431.png",
     "acquisition": [
       "craft"
@@ -2405,6 +2565,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/1439.png",
     "acquisition": [
       "find"
@@ -2420,6 +2581,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/1444.png",
     "acquisition": [
       "find"
@@ -2435,6 +2597,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/1446.png",
     "acquisition": [
       "find"
@@ -2450,6 +2613,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/1450.png",
     "acquisition": [
       "find"
@@ -2465,6 +2629,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/1463.png",
     "acquisition": [
       "find"
@@ -2480,6 +2645,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/1512.png",
     "acquisition": [
       "find"
@@ -2495,6 +2661,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/1570.png",
     "acquisition": [
       "find"
@@ -2510,6 +2677,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/1572.png",
     "acquisition": [
       "find"
@@ -2525,6 +2693,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/1642.png",
     "acquisition": [
       "find"
@@ -2540,6 +2709,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/1782.png",
     "acquisition": [
       "find"
@@ -2555,6 +2725,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/1784.png",
     "acquisition": [
       "find"
@@ -2570,6 +2741,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/1802.png",
     "acquisition": [
       "find"
@@ -2585,6 +2757,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/1826.png",
     "acquisition": [
       "find"
@@ -2600,6 +2773,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/1827.png",
     "acquisition": [
       "find"
@@ -2615,6 +2789,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/1835.png",
     "acquisition": [
       "find"
@@ -2630,6 +2805,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/1850.png",
     "acquisition": [
       "find"
@@ -2645,6 +2821,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/1858.png",
     "acquisition": [
       "craft"
@@ -2660,6 +2837,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/1874.png",
     "acquisition": [
       "find"
@@ -2675,6 +2853,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/1875.png",
     "acquisition": [
       "find"
@@ -2690,6 +2869,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/1876.png",
     "acquisition": [
       "find"
@@ -2705,6 +2885,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/1877.png",
     "acquisition": [
       "find"
@@ -2720,6 +2901,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/1906.png",
     "acquisition": [
       "find"
@@ -2735,6 +2917,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/1909.png",
     "acquisition": [
       "find"
@@ -2750,6 +2933,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/1913.png",
     "acquisition": [
       "find"
@@ -2765,6 +2949,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "boomerang",
     "iconPath": "/assets/icons/weapons/1918.png",
     "acquisition": [
       "find"
@@ -2780,6 +2965,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/1928.png",
     "acquisition": [
       "find"
@@ -2795,6 +2981,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/1929.png",
     "acquisition": [
       "find"
@@ -2810,6 +2997,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/1931.png",
     "acquisition": [
       "find"
@@ -2825,6 +3013,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/1952.png",
     "acquisition": [
       "find"
@@ -2840,6 +3029,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/1970.png",
     "acquisition": [
       "craft"
@@ -2855,6 +3045,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/1971.png",
     "acquisition": [
       "craft"
@@ -2870,6 +3061,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/1972.png",
     "acquisition": [
       "craft"
@@ -2885,6 +3077,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/1973.png",
     "acquisition": [
       "craft"
@@ -2900,6 +3093,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/1974.png",
     "acquisition": [
       "craft"
@@ -2915,6 +3109,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/1975.png",
     "acquisition": [
       "craft"
@@ -2930,6 +3125,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/1976.png",
     "acquisition": [
       "craft"
@@ -2945,6 +3141,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/1985.png",
     "acquisition": [
       "find"
@@ -2960,6 +3157,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/2012.png",
     "acquisition": [
       "find"
@@ -2975,6 +3173,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/2014.png",
     "acquisition": [
       "find"
@@ -2990,6 +3189,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2020.png",
     "acquisition": [
       "craft"
@@ -3005,6 +3205,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2021.png",
     "acquisition": [
       "craft"
@@ -3020,6 +3221,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2022.png",
     "acquisition": [
       "craft"
@@ -3035,6 +3237,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2023.png",
     "acquisition": [
       "craft"
@@ -3050,6 +3253,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2024.png",
     "acquisition": [
       "craft"
@@ -3065,6 +3269,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2025.png",
     "acquisition": [
       "craft"
@@ -3080,6 +3285,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2026.png",
     "acquisition": [
       "craft"
@@ -3095,6 +3301,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2027.png",
     "acquisition": [
       "craft"
@@ -3110,6 +3317,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2028.png",
     "acquisition": [
       "craft"
@@ -3125,6 +3333,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2029.png",
     "acquisition": [
       "craft"
@@ -3140,6 +3349,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2030.png",
     "acquisition": [
       "craft"
@@ -3155,6 +3365,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2031.png",
     "acquisition": [
       "craft"
@@ -3170,6 +3381,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "spear",
     "iconPath": "/assets/icons/weapons/2117.png",
     "acquisition": [
       "craft"
@@ -3185,6 +3397,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/2118.png",
     "acquisition": [
       "craft"
@@ -3200,6 +3413,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2135.png",
     "acquisition": [
       "craft"
@@ -3215,6 +3429,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2136.png",
     "acquisition": [
       "craft"
@@ -3230,6 +3445,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2137.png",
     "acquisition": [
       "find"
@@ -3245,6 +3461,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2138.png",
     "acquisition": [
       "craft"
@@ -3260,6 +3477,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/2188.png",
     "acquisition": [
       "craft"
@@ -3275,6 +3493,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/2223.png",
     "acquisition": [
       "find"
@@ -3290,6 +3509,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2233.png",
     "acquisition": [
       "craft"
@@ -3305,6 +3525,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/2235.png",
     "acquisition": [
       "craft"
@@ -3320,6 +3541,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/2243.png",
     "acquisition": [
       "craft"
@@ -3335,6 +3557,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/2269.png",
     "acquisition": [
       "find"
@@ -3350,6 +3573,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/2272.png",
     "acquisition": [
       "find"
@@ -3365,6 +3589,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/2273.png",
     "acquisition": [
       "find"
@@ -3380,6 +3605,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/weapons/2330.png",
     "acquisition": [
       "find"
@@ -3395,6 +3621,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/2331.png",
     "acquisition": [
       "find"
@@ -3410,6 +3637,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/2332.png",
     "acquisition": [
       "find"
@@ -3425,6 +3653,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/2364.png",
     "acquisition": [
       "craft"
@@ -3440,6 +3669,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/2365.png",
     "acquisition": [
       "craft"
@@ -3455,6 +3685,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/2366.png",
     "acquisition": [
       "craft"
@@ -3470,6 +3701,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/2448.png",
     "acquisition": [
       "find"
@@ -3485,6 +3717,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/2458.png",
     "acquisition": [
       "find"
@@ -3500,6 +3733,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/2515.png",
     "acquisition": [
       "craft"
@@ -3515,6 +3749,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/2517.png",
     "acquisition": [
       "craft"
@@ -3530,6 +3765,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/2535.png",
     "acquisition": [
       "find"
@@ -3545,6 +3781,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2536.png",
     "acquisition": [
       "craft"
@@ -3560,6 +3797,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2540.png",
     "acquisition": [
       "craft"
@@ -3575,6 +3813,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/2551.png",
     "acquisition": [
       "craft"
@@ -3590,6 +3829,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2554.png",
     "acquisition": [
       "craft"
@@ -3605,6 +3845,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2569.png",
     "acquisition": [
       "craft"
@@ -3620,6 +3861,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/2584.png",
     "acquisition": [
       "find"
@@ -3635,6 +3877,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/2586.png",
     "acquisition": [
       "craft"
@@ -3650,6 +3893,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/2608.png",
     "acquisition": [
       "find"
@@ -3665,6 +3909,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/2610.png",
     "acquisition": [
       "find"
@@ -3680,6 +3925,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/2621.png",
     "acquisition": [
       "find"
@@ -3695,6 +3941,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/2622.png",
     "acquisition": [
       "find"
@@ -3710,6 +3957,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/2623.png",
     "acquisition": [
       "find"
@@ -3725,6 +3973,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/2626.png",
     "acquisition": [
       "find"
@@ -3740,6 +3989,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2670.png",
     "acquisition": [
       "craft"
@@ -3755,6 +4005,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2677.png",
     "acquisition": [
       "craft"
@@ -3770,6 +4021,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2678.png",
     "acquisition": [
       "craft"
@@ -3785,6 +4037,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2679.png",
     "acquisition": [
       "craft"
@@ -3800,6 +4053,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2680.png",
     "acquisition": [
       "craft"
@@ -3815,6 +4069,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2681.png",
     "acquisition": [
       "craft"
@@ -3830,6 +4085,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2682.png",
     "acquisition": [
       "craft"
@@ -3845,6 +4101,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2683.png",
     "acquisition": [
       "craft"
@@ -3860,6 +4117,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2684.png",
     "acquisition": [
       "craft"
@@ -3875,6 +4133,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2685.png",
     "acquisition": [
       "craft"
@@ -3890,6 +4149,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2686.png",
     "acquisition": [
       "craft"
@@ -3905,6 +4165,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2687.png",
     "acquisition": [
       "craft"
@@ -3920,6 +4181,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2688.png",
     "acquisition": [
       "craft"
@@ -3935,6 +4197,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2689.png",
     "acquisition": [
       "craft"
@@ -3950,6 +4213,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/2690.png",
     "acquisition": [
       "craft"
@@ -3965,6 +4229,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/2745.png",
     "acquisition": [
       "craft"
@@ -3980,6 +4245,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/2747.png",
     "acquisition": [
       "craft"
@@ -3995,6 +4261,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/2749.png",
     "acquisition": [
       "find"
@@ -4010,6 +4277,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/2750.png",
     "acquisition": [
       "find"
@@ -4025,6 +4293,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/2795.png",
     "acquisition": [
       "find"
@@ -4040,6 +4309,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/2796.png",
     "acquisition": [
       "find"
@@ -4055,6 +4325,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/2817.png",
     "acquisition": [
       "find"
@@ -4070,6 +4341,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/2870.png",
     "acquisition": [
       "find"
@@ -4085,6 +4357,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/2951.png",
     "acquisition": [
       "find"
@@ -4100,6 +4373,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/2952.png",
     "acquisition": [
       "find"
@@ -4115,6 +4389,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/2966.png",
     "acquisition": [
       "find"
@@ -4130,6 +4405,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/2975.png",
     "acquisition": [
       "find"
@@ -4145,6 +4421,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Summoner",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/weapons/2998.png",
     "acquisition": [
       "find"
@@ -4160,6 +4437,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/3007.png",
     "acquisition": [
       "find"
@@ -4175,6 +4453,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/3008.png",
     "acquisition": [
       "find"
@@ -4190,6 +4469,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3009.png",
     "acquisition": [
       "find"
@@ -4205,6 +4485,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3010.png",
     "acquisition": [
       "find"
@@ -4220,6 +4501,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3011.png",
     "acquisition": [
       "find"
@@ -4235,6 +4517,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "flail",
     "iconPath": "/assets/icons/weapons/3012.png",
     "acquisition": [
       "find"
@@ -4250,6 +4533,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/3014.png",
     "acquisition": [
       "find"
@@ -4265,6 +4549,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3019.png",
     "acquisition": [
       "find"
@@ -4280,6 +4565,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3029.png",
     "acquisition": [
       "find"
@@ -4295,6 +4581,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3030.png",
     "acquisition": [
       "find"
@@ -4310,6 +4597,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3032.png",
     "acquisition": [
       "find"
@@ -4325,6 +4613,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3045.png",
     "acquisition": [
       "find"
@@ -4340,6 +4629,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3050.png",
     "acquisition": [
       "find"
@@ -4355,6 +4645,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3051.png",
     "acquisition": [
       "find"
@@ -4370,6 +4661,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3052.png",
     "acquisition": [
       "find"
@@ -4385,6 +4677,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3054.png",
     "acquisition": [
       "find"
@@ -4400,6 +4693,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3065.png",
     "acquisition": [
       "find"
@@ -4415,6 +4709,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/3069.png",
     "acquisition": [
       "find"
@@ -4430,6 +4725,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3094.png",
     "acquisition": [
       "find"
@@ -4445,6 +4741,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/3104.png",
     "acquisition": [
       "craft"
@@ -4460,6 +4757,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3106.png",
     "acquisition": [
       "find"
@@ -4475,6 +4773,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/3107.png",
     "acquisition": [
       "find"
@@ -4490,6 +4789,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/3116.png",
     "acquisition": [
       "craft"
@@ -4505,6 +4805,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/3165.png",
     "acquisition": [
       "find"
@@ -4520,6 +4821,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/3166.png",
     "acquisition": [
       "find"
@@ -4535,6 +4837,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/3167.png",
     "acquisition": [
       "find"
@@ -4550,6 +4853,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3209.png",
     "acquisition": [
       "find"
@@ -4565,6 +4869,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3211.png",
     "acquisition": [
       "find"
@@ -4580,6 +4885,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3234.png",
     "acquisition": [
       "find"
@@ -4595,6 +4901,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3238.png",
     "acquisition": [
       "find"
@@ -4610,6 +4917,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/3249.png",
     "acquisition": [
       "find"
@@ -4625,6 +4933,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "yoyo",
     "iconPath": "/assets/icons/weapons/3278.png",
     "acquisition": [
       "find"
@@ -4640,6 +4949,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "yoyo",
     "iconPath": "/assets/icons/weapons/3288.png",
     "acquisition": [
       "find"
@@ -4655,6 +4965,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3307.png",
     "acquisition": [
       "find"
@@ -4670,6 +4981,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "yoyo",
     "iconPath": "/assets/icons/weapons/3334.png",
     "acquisition": [
       "find"
@@ -4685,6 +4997,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3349.png",
     "acquisition": [
       "find"
@@ -4700,6 +5013,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/3350.png",
     "acquisition": [
       "find"
@@ -4715,6 +5029,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/3360.png",
     "acquisition": [
       "find"
@@ -4730,6 +5045,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/3361.png",
     "acquisition": [
       "find"
@@ -4745,6 +5061,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "yoyo",
     "iconPath": "/assets/icons/weapons/3366.png",
     "acquisition": [
       "craft"
@@ -4760,6 +5077,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/3377.png",
     "acquisition": [
       "find"
@@ -4775,6 +5093,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3378.png",
     "acquisition": [
       "find"
@@ -4790,6 +5109,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3379.png",
     "acquisition": [
       "find"
@@ -4805,6 +5125,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3381.png",
     "acquisition": [
       "craft"
@@ -4820,6 +5141,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3382.png",
     "acquisition": [
       "craft"
@@ -4835,6 +5157,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3383.png",
     "acquisition": [
       "craft"
@@ -4850,6 +5173,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/3384.png",
     "acquisition": [
       "find"
@@ -4865,6 +5189,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Summoner",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/weapons/3390.png",
     "acquisition": [
       "find"
@@ -4880,6 +5205,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3420.png",
     "acquisition": [
       "find"
@@ -4895,6 +5221,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3424.png",
     "acquisition": [
       "find"
@@ -4910,6 +5237,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3425.png",
     "acquisition": [
       "find"
@@ -4925,6 +5253,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3444.png",
     "acquisition": [
       "find"
@@ -4940,6 +5269,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3459.png",
     "acquisition": [
       "craft"
@@ -4955,6 +5285,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3471.png",
     "acquisition": [
       "craft"
@@ -4970,6 +5301,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3474.png",
     "acquisition": [
       "craft"
@@ -4985,6 +5317,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3480.png",
     "acquisition": [
       "craft"
@@ -5000,6 +5333,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3483.png",
     "acquisition": [
       "craft"
@@ -5015,6 +5349,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3484.png",
     "acquisition": [
       "craft"
@@ -5030,6 +5365,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3486.png",
     "acquisition": [
       "craft"
@@ -5045,6 +5381,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3489.png",
     "acquisition": [
       "craft"
@@ -5060,6 +5397,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3490.png",
     "acquisition": [
       "craft"
@@ -5075,6 +5413,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3492.png",
     "acquisition": [
       "craft"
@@ -5090,6 +5429,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3495.png",
     "acquisition": [
       "craft"
@@ -5105,6 +5445,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3496.png",
     "acquisition": [
       "craft"
@@ -5120,6 +5461,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3498.png",
     "acquisition": [
       "craft"
@@ -5135,6 +5477,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3501.png",
     "acquisition": [
       "craft"
@@ -5150,6 +5493,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3502.png",
     "acquisition": [
       "craft"
@@ -5165,6 +5509,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3504.png",
     "acquisition": [
       "craft"
@@ -5180,6 +5525,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3507.png",
     "acquisition": [
       "craft"
@@ -5195,6 +5541,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3508.png",
     "acquisition": [
       "craft"
@@ -5210,6 +5557,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3510.png",
     "acquisition": [
       "craft"
@@ -5225,6 +5573,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3513.png",
     "acquisition": [
       "craft"
@@ -5240,6 +5589,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3514.png",
     "acquisition": [
       "craft"
@@ -5255,6 +5605,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3516.png",
     "acquisition": [
       "craft"
@@ -5270,6 +5621,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3519.png",
     "acquisition": [
       "craft"
@@ -5285,6 +5637,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3520.png",
     "acquisition": [
       "craft"
@@ -5300,6 +5653,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3529.png",
     "acquisition": [
       "find"
@@ -5315,6 +5669,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3531.png",
     "acquisition": [
       "craft"
@@ -5330,6 +5685,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3538.png",
     "acquisition": [
       "craft"
@@ -5345,6 +5701,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/3548.png",
     "acquisition": [
       "find"
@@ -5360,6 +5717,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3556.png",
     "acquisition": [
       "find"
@@ -5375,6 +5733,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/3569.png",
     "acquisition": [
       "find"
@@ -5390,6 +5749,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/3571.png",
     "acquisition": [
       "find"
@@ -5405,6 +5765,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3576.png",
     "acquisition": [
       "craft"
@@ -5420,6 +5781,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/3580.png",
     "acquisition": [
       "find"
@@ -5435,6 +5797,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3644.png",
     "acquisition": [
       "find"
@@ -5450,6 +5813,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3645.png",
     "acquisition": [
       "find"
@@ -5465,6 +5829,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3646.png",
     "acquisition": [
       "find"
@@ -5480,6 +5845,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3647.png",
     "acquisition": [
       "find"
@@ -5495,6 +5861,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3648.png",
     "acquisition": [
       "find"
@@ -5510,6 +5877,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3649.png",
     "acquisition": [
       "find"
@@ -5525,6 +5893,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3650.png",
     "acquisition": [
       "find"
@@ -5540,6 +5909,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "gun",
     "iconPath": "/assets/icons/weapons/3664.png",
     "acquisition": [
       "find"
@@ -5555,6 +5925,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3764.png",
     "acquisition": [
       "craft"
@@ -5570,6 +5941,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3765.png",
     "acquisition": [
       "craft"
@@ -5585,6 +5957,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3766.png",
     "acquisition": [
       "craft"
@@ -5600,6 +5973,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3767.png",
     "acquisition": [
       "craft"
@@ -5615,6 +5989,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3768.png",
     "acquisition": [
       "craft"
@@ -5630,6 +6005,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3769.png",
     "acquisition": [
       "craft"
@@ -5645,6 +6021,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
+    "subSubcategory": "sword",
     "iconPath": "/assets/icons/weapons/3772.png",
     "acquisition": [
       "find"
@@ -5660,6 +6037,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3776.png",
     "acquisition": [
       "find"
@@ -5675,6 +6053,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3777.png",
     "acquisition": [
       "find"
@@ -5690,6 +6069,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3778.png",
     "acquisition": [
       "find"
@@ -5705,6 +6085,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3783.png",
     "acquisition": [
       "find"
@@ -5720,6 +6101,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3792.png",
     "acquisition": [
       "find"
@@ -5735,6 +6117,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3816.png",
     "acquisition": [
       "find"
@@ -5750,6 +6133,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/3820.png",
     "acquisition": [
       "find"
@@ -5765,6 +6149,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/3826.png",
     "acquisition": [
       "find"
@@ -5780,6 +6165,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/3828.png",
     "acquisition": [
       "find"
@@ -5795,6 +6181,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/3831.png",
     "acquisition": [
       "find"
@@ -5810,6 +6197,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "staff",
     "iconPath": "/assets/icons/weapons/3834.png",
     "acquisition": [
       "find"
@@ -5825,6 +6213,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/3845.png",
     "acquisition": [
       "find"
@@ -5840,6 +6229,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "tome",
     "iconPath": "/assets/icons/weapons/3852.png",
     "acquisition": [
       "find"
@@ -5855,6 +6245,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Magic",
+    "subSubcategory": "crystal",
     "iconPath": "/assets/icons/weapons/5050.png",
     "acquisition": [
       "find"
@@ -5870,6 +6261,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "bow",
     "iconPath": "/assets/icons/weapons/5052.png",
     "acquisition": [
       "find"
@@ -5885,6 +6277,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "thrown",
     "iconPath": "/assets/icons/weapons/5057.png",
     "acquisition": [
       "find"
@@ -5900,6 +6293,7 @@
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Ranged",
+    "subSubcategory": "launcher",
     "iconPath": "/assets/icons/weapons/5061.png",
     "acquisition": [
       "find"

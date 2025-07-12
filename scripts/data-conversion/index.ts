@@ -8,7 +8,7 @@ import path from 'path';
 import { Item } from '@/types';
 import { fetchTerrariaData, saveTerrariaData, loadLocalTerrariaData, analyzeData } from './fetch-terraria-data';
 import { convertRawData, analyzeConvertedData } from './convert-to-our-format';
-import { classifyItem } from './classify-items';
+import { classifyItem, classifyItemSubSubcategory } from './classify-items';
 import { validateItems, displayValidationResult, getValidItems, calculateDataQualityScore } from './validate-data';
 
 /**
@@ -179,6 +179,7 @@ async function main(): Promise<void> {
         type: classification.type,
         category: classification.category,
         subcategory: classification.subcategory,
+        subSubcategory: classifyItemSubSubcategory(rawItem.name, classification.type),
         iconPath: `/assets/icons/${classification.type === 'npc' ? 'npcs' : 
                     classification.type === 'boss' ? 'bosses' :
                     classification.type === 'weapon' ? 'weapons' :

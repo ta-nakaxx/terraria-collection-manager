@@ -5,6 +5,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1.png",
     "acquisition": [
       "craft"
@@ -20,6 +21,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/7.png",
     "acquisition": [
       "craft"
@@ -35,6 +37,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/10.png",
     "acquisition": [
       "craft"
@@ -50,6 +53,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/45.png",
     "acquisition": [
       "craft"
@@ -65,6 +69,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/103.png",
     "acquisition": [
       "craft"
@@ -80,6 +85,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/122.png",
     "acquisition": [
       "craft"
@@ -95,6 +101,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/196.png",
     "acquisition": [
       "craft"
@@ -110,6 +117,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/204.png",
     "acquisition": [
       "craft"
@@ -125,6 +133,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/217.png",
     "acquisition": [
       "craft"
@@ -140,6 +149,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/367.png",
     "acquisition": [
       "find"
@@ -155,6 +165,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/383.png",
     "acquisition": [
       "craft"
@@ -170,6 +181,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/384.png",
     "acquisition": [
       "craft"
@@ -185,6 +197,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/385.png",
     "acquisition": [
       "craft"
@@ -200,6 +213,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/386.png",
     "acquisition": [
       "craft"
@@ -215,6 +229,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/387.png",
     "acquisition": [
       "craft"
@@ -230,6 +245,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/388.png",
     "acquisition": [
       "craft"
@@ -245,6 +261,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/455.png",
     "acquisition": [
       "find"
@@ -260,6 +277,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/465.png",
     "acquisition": [
       "find"
@@ -275,6 +293,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/469.png",
     "acquisition": [
       "find"
@@ -290,6 +309,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/654.png",
     "acquisition": [
       "craft"
@@ -305,6 +325,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/657.png",
     "acquisition": [
       "craft"
@@ -320,6 +341,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/660.png",
     "acquisition": [
       "craft"
@@ -335,6 +357,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/776.png",
     "acquisition": [
       "craft"
@@ -350,6 +373,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/777.png",
     "acquisition": [
       "craft"
@@ -365,6 +389,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/778.png",
     "acquisition": [
       "craft"
@@ -380,6 +405,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/798.png",
     "acquisition": [
       "craft"
@@ -395,6 +421,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/882.png",
     "acquisition": [
       "craft"
@@ -410,6 +437,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/922.png",
     "acquisition": [
       "craft"
@@ -425,6 +453,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/990.png",
     "acquisition": [
       "craft"
@@ -440,6 +469,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/991.png",
     "acquisition": [
       "craft"
@@ -455,6 +485,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/992.png",
     "acquisition": [
       "craft"
@@ -470,6 +501,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/993.png",
     "acquisition": [
       "craft"
@@ -485,6 +517,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1188.png",
     "acquisition": [
       "craft"
@@ -500,6 +533,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1189.png",
     "acquisition": [
       "craft"
@@ -515,6 +549,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1190.png",
     "acquisition": [
       "craft"
@@ -530,6 +565,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1195.png",
     "acquisition": [
       "craft"
@@ -545,6 +581,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1196.png",
     "acquisition": [
       "craft"
@@ -560,6 +597,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1197.png",
     "acquisition": [
       "craft"
@@ -575,6 +613,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1202.png",
     "acquisition": [
       "craft"
@@ -590,6 +629,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1203.png",
     "acquisition": [
       "craft"
@@ -605,6 +645,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1204.png",
     "acquisition": [
       "craft"
@@ -620,6 +661,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1222.png",
     "acquisition": [
       "craft"
@@ -635,6 +677,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1223.png",
     "acquisition": [
       "craft"
@@ -650,6 +693,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1224.png",
     "acquisition": [
       "craft"
@@ -665,6 +709,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1230.png",
     "acquisition": [
       "craft"
@@ -680,6 +725,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1231.png",
     "acquisition": [
       "craft"
@@ -695,6 +741,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1232.png",
     "acquisition": [
       "craft"
@@ -710,6 +757,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1233.png",
     "acquisition": [
       "craft"
@@ -725,6 +773,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1234.png",
     "acquisition": [
       "craft"
@@ -740,6 +789,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1262.png",
     "acquisition": [
       "craft"
@@ -755,6 +805,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1305.png",
     "acquisition": [
       "find"
@@ -770,6 +821,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1320.png",
     "acquisition": [
       "find"
@@ -785,6 +837,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1465.png",
     "acquisition": [
       "find"
@@ -800,6 +853,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1506.png",
     "acquisition": [
       "craft"
@@ -815,6 +869,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1507.png",
     "acquisition": [
       "craft"
@@ -830,6 +885,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1513.png",
     "acquisition": [
       "find"
@@ -845,6 +901,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1551.png",
     "acquisition": [
       "find"
@@ -860,6 +917,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1636.png",
     "acquisition": [
       "find"
@@ -875,6 +933,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1637.png",
     "acquisition": [
       "find"
@@ -890,6 +949,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1917.png",
     "acquisition": [
       "find"
@@ -905,6 +965,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Utility",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/1991.png",
     "acquisition": [
       "find"
@@ -920,6 +981,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Utility",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2289.png",
     "acquisition": [
       "craft"
@@ -935,6 +997,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Utility",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2291.png",
     "acquisition": [
       "craft"
@@ -950,6 +1013,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Utility",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2292.png",
     "acquisition": [
       "find"
@@ -965,6 +1029,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Utility",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2294.png",
     "acquisition": [
       "find"
@@ -980,6 +1045,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Utility",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2296.png",
     "acquisition": [
       "find"
@@ -995,6 +1061,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2516.png",
     "acquisition": [
       "craft"
@@ -1010,6 +1077,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2746.png",
     "acquisition": [
       "craft"
@@ -1025,6 +1093,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2768.png",
     "acquisition": [
       "find"
@@ -1040,6 +1109,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2772.png",
     "acquisition": [
       "find"
@@ -1055,6 +1125,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2773.png",
     "acquisition": [
       "find"
@@ -1070,6 +1141,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2774.png",
     "acquisition": [
       "find"
@@ -1085,6 +1157,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2775.png",
     "acquisition": [
       "find"
@@ -1100,6 +1173,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2776.png",
     "acquisition": [
       "craft"
@@ -1115,6 +1189,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2777.png",
     "acquisition": [
       "find"
@@ -1130,6 +1205,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2778.png",
     "acquisition": [
       "find"
@@ -1145,6 +1221,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2779.png",
     "acquisition": [
       "find"
@@ -1160,6 +1237,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2780.png",
     "acquisition": [
       "find"
@@ -1175,6 +1253,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2781.png",
     "acquisition": [
       "craft"
@@ -1190,6 +1269,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2782.png",
     "acquisition": [
       "find"
@@ -1205,6 +1285,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2783.png",
     "acquisition": [
       "find"
@@ -1220,6 +1301,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2784.png",
     "acquisition": [
       "find"
@@ -1235,6 +1317,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2785.png",
     "acquisition": [
       "find"
@@ -1250,6 +1333,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2786.png",
     "acquisition": [
       "craft"
@@ -1265,6 +1349,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/2798.png",
     "acquisition": [
       "find"
@@ -1280,6 +1365,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3098.png",
     "acquisition": [
       "find"
@@ -1295,6 +1381,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Utility",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3183.png",
     "acquisition": [
       "find"
@@ -1310,6 +1397,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3462.png",
     "acquisition": [
       "find"
@@ -1325,6 +1413,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3463.png",
     "acquisition": [
       "find"
@@ -1340,6 +1429,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3464.png",
     "acquisition": [
       "find"
@@ -1355,6 +1445,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3465.png",
     "acquisition": [
       "find"
@@ -1370,6 +1461,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3466.png",
     "acquisition": [
       "craft"
@@ -1385,6 +1477,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3481.png",
     "acquisition": [
       "craft"
@@ -1400,6 +1493,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3482.png",
     "acquisition": [
       "craft"
@@ -1415,6 +1509,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3485.png",
     "acquisition": [
       "craft"
@@ -1430,6 +1525,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3487.png",
     "acquisition": [
       "craft"
@@ -1445,6 +1541,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3488.png",
     "acquisition": [
       "craft"
@@ -1460,6 +1557,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3491.png",
     "acquisition": [
       "craft"
@@ -1475,6 +1573,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3493.png",
     "acquisition": [
       "craft"
@@ -1490,6 +1589,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3494.png",
     "acquisition": [
       "craft"
@@ -1505,6 +1605,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3497.png",
     "acquisition": [
       "craft"
@@ -1520,6 +1621,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3499.png",
     "acquisition": [
       "craft"
@@ -1535,6 +1637,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3500.png",
     "acquisition": [
       "craft"
@@ -1550,6 +1653,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3503.png",
     "acquisition": [
       "craft"
@@ -1565,6 +1669,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3505.png",
     "acquisition": [
       "craft"
@@ -1580,6 +1685,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3506.png",
     "acquisition": [
       "craft"
@@ -1595,6 +1701,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3509.png",
     "acquisition": [
       "craft"
@@ -1610,6 +1717,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3511.png",
     "acquisition": [
       "craft"
@@ -1625,6 +1733,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3512.png",
     "acquisition": [
       "craft"
@@ -1640,6 +1749,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3515.png",
     "acquisition": [
       "craft"
@@ -1655,6 +1765,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3517.png",
     "acquisition": [
       "craft"
@@ -1670,6 +1781,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3518.png",
     "acquisition": [
       "craft"
@@ -1685,6 +1797,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Mining",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3521.png",
     "acquisition": [
       "craft"
@@ -1700,6 +1813,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3522.png",
     "acquisition": [
       "craft"
@@ -1715,6 +1829,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3523.png",
     "acquisition": [
       "craft"
@@ -1730,6 +1845,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3524.png",
     "acquisition": [
       "craft"
@@ -1745,6 +1861,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/3525.png",
     "acquisition": [
       "craft"
@@ -1760,6 +1877,7 @@
     "type": "tool",
     "category": "Tools",
     "subcategory": "Building",
+    "subSubcategory": "other",
     "iconPath": "/assets/icons/accessories/5040.png",
     "acquisition": [
       "find"

@@ -5,6 +5,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/54.png",
     "acquisition": [
       "find"
@@ -20,6 +21,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/76.png",
     "acquisition": [
       "craft"
@@ -35,6 +37,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/77.png",
     "acquisition": [
       "craft"
@@ -50,6 +53,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/78.png",
     "acquisition": [
       "craft"
@@ -65,6 +69,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/79.png",
     "acquisition": [
       "craft"
@@ -80,6 +85,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/88.png",
     "acquisition": [
       "find"
@@ -95,6 +101,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/89.png",
     "acquisition": [
       "craft"
@@ -110,6 +117,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/90.png",
     "acquisition": [
       "craft"
@@ -125,6 +133,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/91.png",
     "acquisition": [
       "craft"
@@ -140,6 +149,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/92.png",
     "acquisition": [
       "craft"
@@ -155,6 +165,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/100.png",
     "acquisition": [
       "craft"
@@ -170,6 +181,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/101.png",
     "acquisition": [
       "craft"
@@ -185,6 +197,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/102.png",
     "acquisition": [
       "craft"
@@ -200,6 +213,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/123.png",
     "acquisition": [
       "craft"
@@ -215,6 +229,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/125.png",
     "acquisition": [
       "craft"
@@ -230,6 +245,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/151.png",
     "acquisition": [
       "craft"
@@ -245,6 +261,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/152.png",
     "acquisition": [
       "craft"
@@ -260,6 +277,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/153.png",
     "acquisition": [
       "craft"
@@ -275,6 +293,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/228.png",
     "acquisition": [
       "craft"
@@ -290,6 +309,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/229.png",
     "acquisition": [
       "craft"
@@ -305,6 +325,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/230.png",
     "acquisition": [
       "craft"
@@ -320,6 +341,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/231.png",
     "acquisition": [
       "craft"
@@ -335,6 +357,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/232.png",
     "acquisition": [
       "craft"
@@ -350,6 +373,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/233.png",
     "acquisition": [
       "craft"
@@ -365,6 +389,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/238.png",
     "acquisition": [
       "find"
@@ -380,6 +405,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/239.png",
     "acquisition": [
       "find"
@@ -395,6 +421,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/240.png",
     "acquisition": [
       "craft"
@@ -410,6 +437,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/241.png",
     "acquisition": [
       "craft"
@@ -425,6 +453,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/242.png",
     "acquisition": [
       "find"
@@ -440,6 +469,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/243.png",
     "acquisition": [
       "find"
@@ -455,6 +485,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/244.png",
     "acquisition": [
       "find"
@@ -470,6 +501,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/245.png",
     "acquisition": [
       "find"
@@ -485,6 +517,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/246.png",
     "acquisition": [
       "find"
@@ -500,6 +533,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/247.png",
     "acquisition": [
       "craft"
@@ -515,6 +549,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/248.png",
     "acquisition": [
       "craft"
@@ -530,6 +565,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/249.png",
     "acquisition": [
       "craft"
@@ -545,6 +581,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/251.png",
     "acquisition": [
       "find"
@@ -560,6 +597,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/253.png",
     "acquisition": [
       "craft"
@@ -575,6 +613,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/256.png",
     "acquisition": [
       "find"
@@ -590,6 +629,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/257.png",
     "acquisition": [
       "find"
@@ -605,6 +645,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/258.png",
     "acquisition": [
       "find"
@@ -620,6 +661,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/260.png",
     "acquisition": [
       "find"
@@ -635,6 +677,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/262.png",
     "acquisition": [
       "craft"
@@ -650,6 +693,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/263.png",
     "acquisition": [
       "find"
@@ -665,6 +709,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/264.png",
     "acquisition": [
       "craft"
@@ -680,6 +725,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/268.png",
     "acquisition": [
       "find"
@@ -695,6 +741,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/269.png",
     "acquisition": [
       "find"
@@ -710,6 +757,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/270.png",
     "acquisition": [
       "find"
@@ -725,6 +773,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/322.png",
     "acquisition": [
       "find"
@@ -740,6 +789,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/325.png",
     "acquisition": [
       "find"
@@ -755,6 +805,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/326.png",
     "acquisition": [
       "find"
@@ -770,6 +821,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/371.png",
     "acquisition": [
       "craft"
@@ -785,6 +837,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/372.png",
     "acquisition": [
       "craft"
@@ -800,6 +853,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/373.png",
     "acquisition": [
       "craft"
@@ -815,6 +869,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/374.png",
     "acquisition": [
       "craft"
@@ -830,6 +885,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/375.png",
     "acquisition": [
       "craft"
@@ -845,6 +901,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/376.png",
     "acquisition": [
       "craft"
@@ -860,6 +917,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/377.png",
     "acquisition": [
       "craft"
@@ -875,6 +933,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/378.png",
     "acquisition": [
       "craft"
@@ -890,6 +949,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/380.png",
     "acquisition": [
       "craft"
@@ -905,6 +965,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/401.png",
     "acquisition": [
       "craft"
@@ -920,6 +981,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/402.png",
     "acquisition": [
       "craft"
@@ -935,6 +997,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/403.png",
     "acquisition": [
       "craft"
@@ -950,6 +1013,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/404.png",
     "acquisition": [
       "craft"
@@ -965,6 +1029,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/405.png",
     "acquisition": [
       "craft"
@@ -980,6 +1045,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/410.png",
     "acquisition": [
       "find"
@@ -995,6 +1061,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/411.png",
     "acquisition": [
       "find"
@@ -1010,6 +1077,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/503.png",
     "acquisition": [
       "find"
@@ -1025,6 +1093,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/504.png",
     "acquisition": [
       "find"
@@ -1040,6 +1109,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/505.png",
     "acquisition": [
       "find"
@@ -1055,6 +1125,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/529.png",
     "acquisition": [
       "find"
@@ -1070,6 +1141,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/541.png",
     "acquisition": [
       "find"
@@ -1085,6 +1157,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/542.png",
     "acquisition": [
       "find"
@@ -1100,6 +1173,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/543.png",
     "acquisition": [
       "find"
@@ -1115,6 +1189,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/551.png",
     "acquisition": [
       "craft"
@@ -1130,6 +1205,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/552.png",
     "acquisition": [
       "craft"
@@ -1145,6 +1221,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/553.png",
     "acquisition": [
       "craft"
@@ -1160,6 +1237,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/559.png",
     "acquisition": [
       "craft"
@@ -1175,6 +1253,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/560.png",
     "acquisition": [
       "craft"
@@ -1190,6 +1269,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/588.png",
     "acquisition": [
       "find"
@@ -1205,6 +1285,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/589.png",
     "acquisition": [
       "find"
@@ -1220,6 +1301,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/590.png",
     "acquisition": [
       "find"
@@ -1235,6 +1317,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/666.png",
     "acquisition": [
       "find"
@@ -1250,6 +1333,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/667.png",
     "acquisition": [
       "find"
@@ -1265,6 +1349,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/668.png",
     "acquisition": [
       "find"
@@ -1280,6 +1365,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/684.png",
     "acquisition": [
       "craft"
@@ -1295,6 +1381,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/685.png",
     "acquisition": [
       "craft"
@@ -1310,6 +1397,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/686.png",
     "acquisition": [
       "craft"
@@ -1325,6 +1413,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/687.png",
     "acquisition": [
       "craft"
@@ -1340,6 +1429,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/689.png",
     "acquisition": [
       "craft"
@@ -1355,6 +1445,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/690.png",
     "acquisition": [
       "craft"
@@ -1370,6 +1461,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/692.png",
     "acquisition": [
       "craft"
@@ -1385,6 +1477,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/693.png",
     "acquisition": [
       "craft"
@@ -1400,6 +1493,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/695.png",
     "acquisition": [
       "craft"
@@ -1415,6 +1509,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/696.png",
     "acquisition": [
       "craft"
@@ -1430,6 +1525,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/698.png",
     "acquisition": [
       "craft"
@@ -1445,6 +1541,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/715.png",
     "acquisition": [
       "craft"
@@ -1460,6 +1557,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/727.png",
     "acquisition": [
       "craft"
@@ -1475,6 +1573,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/728.png",
     "acquisition": [
       "craft"
@@ -1490,6 +1589,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/729.png",
     "acquisition": [
       "craft"
@@ -1505,6 +1605,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/730.png",
     "acquisition": [
       "craft"
@@ -1520,6 +1621,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/731.png",
     "acquisition": [
       "craft"
@@ -1535,6 +1637,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/732.png",
     "acquisition": [
       "craft"
@@ -1550,6 +1653,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/733.png",
     "acquisition": [
       "craft"
@@ -1565,6 +1669,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/734.png",
     "acquisition": [
       "craft"
@@ -1580,6 +1685,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/735.png",
     "acquisition": [
       "craft"
@@ -1595,6 +1701,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/736.png",
     "acquisition": [
       "craft"
@@ -1610,6 +1717,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/737.png",
     "acquisition": [
       "craft"
@@ -1625,6 +1733,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/738.png",
     "acquisition": [
       "craft"
@@ -1640,6 +1749,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/754.png",
     "acquisition": [
       "find"
@@ -1655,6 +1765,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/755.png",
     "acquisition": [
       "find"
@@ -1670,6 +1781,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/792.png",
     "acquisition": [
       "craft"
@@ -1685,6 +1797,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/793.png",
     "acquisition": [
       "craft"
@@ -1700,6 +1813,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/794.png",
     "acquisition": [
       "craft"
@@ -1715,6 +1829,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/803.png",
     "acquisition": [
       "find"
@@ -1730,6 +1845,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/805.png",
     "acquisition": [
       "find"
@@ -1745,6 +1861,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/824.png",
     "acquisition": [
       "find"
@@ -1760,6 +1877,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/839.png",
     "acquisition": [
       "find"
@@ -1775,6 +1893,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/840.png",
     "acquisition": [
       "find"
@@ -1790,6 +1909,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/841.png",
     "acquisition": [
       "find"
@@ -1805,6 +1925,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/842.png",
     "acquisition": [
       "find"
@@ -1820,6 +1941,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/843.png",
     "acquisition": [
       "find"
@@ -1835,6 +1957,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/844.png",
     "acquisition": [
       "find"
@@ -1850,6 +1973,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/848.png",
     "acquisition": [
       "find"
@@ -1865,6 +1989,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/852.png",
     "acquisition": [
       "find"
@@ -1880,6 +2005,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/853.png",
     "acquisition": [
       "find"
@@ -1895,6 +2021,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/863.png",
     "acquisition": [
       "find"
@@ -1910,6 +2037,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/866.png",
     "acquisition": [
       "find"
@@ -1925,6 +2053,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/867.png",
     "acquisition": [
       "find"
@@ -1940,6 +2069,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/868.png",
     "acquisition": [
       "find"
@@ -1955,6 +2085,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/870.png",
     "acquisition": [
       "find"
@@ -1970,6 +2101,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/871.png",
     "acquisition": [
       "find"
@@ -1985,6 +2117,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/872.png",
     "acquisition": [
       "find"
@@ -2000,6 +2133,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/873.png",
     "acquisition": [
       "find"
@@ -2015,6 +2149,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/875.png",
     "acquisition": [
       "find"
@@ -2030,6 +2165,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/876.png",
     "acquisition": [
       "find"
@@ -2045,6 +2181,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/877.png",
     "acquisition": [
       "find"
@@ -2060,6 +2197,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/878.png",
     "acquisition": [
       "find"
@@ -2075,6 +2213,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/879.png",
     "acquisition": [
       "find"
@@ -2090,6 +2229,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/894.png",
     "acquisition": [
       "craft"
@@ -2105,6 +2245,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/895.png",
     "acquisition": [
       "craft"
@@ -2120,6 +2261,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/896.png",
     "acquisition": [
       "craft"
@@ -2135,6 +2277,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/898.png",
     "acquisition": [
       "craft"
@@ -2150,6 +2293,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/907.png",
     "acquisition": [
       "craft"
@@ -2165,6 +2309,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/924.png",
     "acquisition": [
       "craft"
@@ -2180,6 +2325,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/925.png",
     "acquisition": [
       "craft"
@@ -2195,6 +2341,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/926.png",
     "acquisition": [
       "craft"
@@ -2210,6 +2357,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/954.png",
     "acquisition": [
       "find"
@@ -2225,6 +2373,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/955.png",
     "acquisition": [
       "find"
@@ -2240,6 +2389,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/956.png",
     "acquisition": [
       "find"
@@ -2255,6 +2405,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/957.png",
     "acquisition": [
       "find"
@@ -2270,6 +2421,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/958.png",
     "acquisition": [
       "find"
@@ -2285,6 +2437,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/959.png",
     "acquisition": [
       "find"
@@ -2300,6 +2453,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/960.png",
     "acquisition": [
       "find"
@@ -2315,6 +2469,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/961.png",
     "acquisition": [
       "find"
@@ -2330,6 +2485,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/962.png",
     "acquisition": [
       "find"
@@ -2345,6 +2501,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/978.png",
     "acquisition": [
       "craft"
@@ -2360,6 +2517,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/980.png",
     "acquisition": [
       "craft"
@@ -2375,6 +2533,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1001.png",
     "acquisition": [
       "craft"
@@ -2390,6 +2549,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1002.png",
     "acquisition": [
       "craft"
@@ -2405,6 +2565,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1004.png",
     "acquisition": [
       "craft"
@@ -2420,6 +2581,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1005.png",
     "acquisition": [
       "craft"
@@ -2435,6 +2597,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1122.png",
     "acquisition": [
       "find"
@@ -2450,6 +2613,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1135.png",
     "acquisition": [
       "find"
@@ -2465,6 +2629,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1151.png",
     "acquisition": [
       "find"
@@ -2480,6 +2645,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1159.png",
     "acquisition": [
       "find"
@@ -2495,6 +2661,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1160.png",
     "acquisition": [
       "find"
@@ -2510,6 +2677,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1161.png",
     "acquisition": [
       "find"
@@ -2525,6 +2693,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1176.png",
     "acquisition": [
       "find"
@@ -2540,6 +2709,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1205.png",
     "acquisition": [
       "craft"
@@ -2555,6 +2725,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1206.png",
     "acquisition": [
       "craft"
@@ -2570,6 +2741,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1208.png",
     "acquisition": [
       "craft"
@@ -2585,6 +2757,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1209.png",
     "acquisition": [
       "craft"
@@ -2600,6 +2773,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1210.png",
     "acquisition": [
       "craft"
@@ -2615,6 +2789,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1211.png",
     "acquisition": [
       "craft"
@@ -2630,6 +2805,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1213.png",
     "acquisition": [
       "craft"
@@ -2645,6 +2821,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1214.png",
     "acquisition": [
       "craft"
@@ -2660,6 +2837,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1215.png",
     "acquisition": [
       "craft"
@@ -2675,6 +2853,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1216.png",
     "acquisition": [
       "craft"
@@ -2690,6 +2869,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1218.png",
     "acquisition": [
       "craft"
@@ -2705,6 +2885,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1219.png",
     "acquisition": [
       "craft"
@@ -2720,6 +2901,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1243.png",
     "acquisition": [
       "find"
@@ -2735,6 +2917,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1275.png",
     "acquisition": [
       "find"
@@ -2750,6 +2933,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1276.png",
     "acquisition": [
       "find"
@@ -2765,6 +2949,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1277.png",
     "acquisition": [
       "find"
@@ -2780,6 +2965,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1279.png",
     "acquisition": [
       "find"
@@ -2795,6 +2981,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1280.png",
     "acquisition": [
       "find"
@@ -2810,6 +2997,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1281.png",
     "acquisition": [
       "find"
@@ -2825,6 +3013,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1282.png",
     "acquisition": [
       "craft"
@@ -2840,6 +3029,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1283.png",
     "acquisition": [
       "craft"
@@ -2855,6 +3045,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1284.png",
     "acquisition": [
       "craft"
@@ -2870,6 +3061,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1285.png",
     "acquisition": [
       "craft"
@@ -2885,6 +3077,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1286.png",
     "acquisition": [
       "craft"
@@ -2900,6 +3093,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1287.png",
     "acquisition": [
       "craft"
@@ -2915,6 +3109,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1288.png",
     "acquisition": [
       "find"
@@ -2930,6 +3125,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1289.png",
     "acquisition": [
       "find"
@@ -2945,6 +3141,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1316.png",
     "acquisition": [
       "craft"
@@ -2960,6 +3157,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1317.png",
     "acquisition": [
       "craft"
@@ -2975,6 +3173,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1318.png",
     "acquisition": [
       "craft"
@@ -2990,6 +3189,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1454.png",
     "acquisition": [
       "find"
@@ -3005,6 +3205,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1503.png",
     "acquisition": [
       "craft"
@@ -3020,6 +3221,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1504.png",
     "acquisition": [
       "craft"
@@ -3035,6 +3237,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1505.png",
     "acquisition": [
       "craft"
@@ -3050,6 +3253,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1514.png",
     "acquisition": [
       "find"
@@ -3065,6 +3269,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1547.png",
     "acquisition": [
       "craft"
@@ -3080,6 +3285,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1548.png",
     "acquisition": [
       "craft"
@@ -3095,6 +3301,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1549.png",
     "acquisition": [
       "craft"
@@ -3110,6 +3317,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1550.png",
     "acquisition": [
       "craft"
@@ -3125,6 +3333,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1555.png",
     "acquisition": [
       "find"
@@ -3140,6 +3349,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1556.png",
     "acquisition": [
       "find"
@@ -3155,6 +3365,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1557.png",
     "acquisition": [
       "find"
@@ -3170,6 +3381,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1558.png",
     "acquisition": [
       "find"
@@ -3185,6 +3397,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1559.png",
     "acquisition": [
       "find"
@@ -3200,6 +3413,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1560.png",
     "acquisition": [
       "find"
@@ -3215,6 +3429,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1561.png",
     "acquisition": [
       "find"
@@ -3230,6 +3445,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1562.png",
     "acquisition": [
       "find"
@@ -3245,6 +3461,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1563.png",
     "acquisition": [
       "find"
@@ -3260,6 +3477,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1564.png",
     "acquisition": [
       "find"
@@ -3275,6 +3493,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1565.png",
     "acquisition": [
       "find"
@@ -3290,6 +3509,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1566.png",
     "acquisition": [
       "find"
@@ -3305,6 +3525,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1567.png",
     "acquisition": [
       "find"
@@ -3320,6 +3541,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1568.png",
     "acquisition": [
       "find"
@@ -3335,6 +3557,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1575.png",
     "acquisition": [
       "find"
@@ -3350,6 +3573,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1579.png",
     "acquisition": [
       "find"
@@ -3365,6 +3589,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1580.png",
     "acquisition": [
       "find"
@@ -3380,6 +3605,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1581.png",
     "acquisition": [
       "find"
@@ -3395,6 +3621,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1582.png",
     "acquisition": [
       "find"
@@ -3410,6 +3637,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1585.png",
     "acquisition": [
       "find"
@@ -3425,6 +3653,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1588.png",
     "acquisition": [
       "find"
@@ -3440,6 +3669,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1731.png",
     "acquisition": [
       "craft"
@@ -3455,6 +3685,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1732.png",
     "acquisition": [
       "craft"
@@ -3470,6 +3701,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1733.png",
     "acquisition": [
       "craft"
@@ -3485,6 +3717,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1736.png",
     "acquisition": [
       "find"
@@ -3500,6 +3733,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1737.png",
     "acquisition": [
       "find"
@@ -3515,6 +3749,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1738.png",
     "acquisition": [
       "find"
@@ -3530,6 +3765,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1739.png",
     "acquisition": [
       "find"
@@ -3545,6 +3781,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1740.png",
     "acquisition": [
       "find"
@@ -3560,6 +3797,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1741.png",
     "acquisition": [
       "find"
@@ -3575,6 +3813,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1743.png",
     "acquisition": [
       "find"
@@ -3590,6 +3829,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1744.png",
     "acquisition": [
       "find"
@@ -3605,6 +3845,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1745.png",
     "acquisition": [
       "find"
@@ -3620,6 +3861,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1746.png",
     "acquisition": [
       "find"
@@ -3635,6 +3877,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1747.png",
     "acquisition": [
       "find"
@@ -3650,6 +3893,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1748.png",
     "acquisition": [
       "find"
@@ -3665,6 +3909,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1749.png",
     "acquisition": [
       "find"
@@ -3680,6 +3925,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1750.png",
     "acquisition": [
       "find"
@@ -3695,6 +3941,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1751.png",
     "acquisition": [
       "find"
@@ -3710,6 +3957,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1752.png",
     "acquisition": [
       "find"
@@ -3725,6 +3973,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1753.png",
     "acquisition": [
       "find"
@@ -3740,6 +3989,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1754.png",
     "acquisition": [
       "find"
@@ -3755,6 +4005,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1755.png",
     "acquisition": [
       "find"
@@ -3770,6 +4021,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1756.png",
     "acquisition": [
       "find"
@@ -3785,6 +4037,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1757.png",
     "acquisition": [
       "find"
@@ -3800,6 +4053,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1758.png",
     "acquisition": [
       "find"
@@ -3815,6 +4069,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1759.png",
     "acquisition": [
       "find"
@@ -3830,6 +4085,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1760.png",
     "acquisition": [
       "find"
@@ -3845,6 +4101,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1761.png",
     "acquisition": [
       "find"
@@ -3860,6 +4117,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1762.png",
     "acquisition": [
       "find"
@@ -3875,6 +4133,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1763.png",
     "acquisition": [
       "find"
@@ -3890,6 +4149,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1764.png",
     "acquisition": [
       "find"
@@ -3905,6 +4165,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1765.png",
     "acquisition": [
       "find"
@@ -3920,6 +4181,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1766.png",
     "acquisition": [
       "find"
@@ -3935,6 +4197,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1767.png",
     "acquisition": [
       "find"
@@ -3950,6 +4213,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1768.png",
     "acquisition": [
       "find"
@@ -3965,6 +4229,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1769.png",
     "acquisition": [
       "find"
@@ -3980,6 +4245,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1770.png",
     "acquisition": [
       "find"
@@ -3995,6 +4261,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1771.png",
     "acquisition": [
       "find"
@@ -4010,6 +4277,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1772.png",
     "acquisition": [
       "find"
@@ -4025,6 +4293,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1776.png",
     "acquisition": [
       "find"
@@ -4040,6 +4309,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1777.png",
     "acquisition": [
       "find"
@@ -4055,6 +4325,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1779.png",
     "acquisition": [
       "find"
@@ -4070,6 +4341,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1780.png",
     "acquisition": [
       "find"
@@ -4085,6 +4357,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1781.png",
     "acquisition": [
       "find"
@@ -4100,6 +4373,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1788.png",
     "acquisition": [
       "find"
@@ -4115,6 +4389,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1789.png",
     "acquisition": [
       "find"
@@ -4130,6 +4405,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1790.png",
     "acquisition": [
       "find"
@@ -4145,6 +4421,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1819.png",
     "acquisition": [
       "find"
@@ -4160,6 +4437,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1820.png",
     "acquisition": [
       "find"
@@ -4175,6 +4453,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1821.png",
     "acquisition": [
       "find"
@@ -4190,6 +4469,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1822.png",
     "acquisition": [
       "find"
@@ -4205,6 +4485,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1823.png",
     "acquisition": [
       "find"
@@ -4220,6 +4501,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1832.png",
     "acquisition": [
       "craft"
@@ -4235,6 +4517,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1833.png",
     "acquisition": [
       "craft"
@@ -4250,6 +4533,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1834.png",
     "acquisition": [
       "craft"
@@ -4265,6 +4549,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1838.png",
     "acquisition": [
       "find"
@@ -4280,6 +4565,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1839.png",
     "acquisition": [
       "find"
@@ -4295,6 +4581,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1840.png",
     "acquisition": [
       "find"
@@ -4310,6 +4597,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1841.png",
     "acquisition": [
       "find"
@@ -4325,6 +4613,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1842.png",
     "acquisition": [
       "find"
@@ -4340,6 +4629,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1843.png",
     "acquisition": [
       "find"
@@ -4355,6 +4645,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1847.png",
     "acquisition": [
       "find"
@@ -4370,6 +4661,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1851.png",
     "acquisition": [
       "find"
@@ -4385,6 +4677,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1852.png",
     "acquisition": [
       "find"
@@ -4400,6 +4693,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1857.png",
     "acquisition": [
       "find"
@@ -4415,6 +4709,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1862.png",
     "acquisition": [
       "craft"
@@ -4430,6 +4725,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1932.png",
     "acquisition": [
       "find"
@@ -4445,6 +4741,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1933.png",
     "acquisition": [
       "find"
@@ -4460,6 +4757,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1935.png",
     "acquisition": [
       "find"
@@ -4475,6 +4773,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1937.png",
     "acquisition": [
       "find"
@@ -4490,6 +4789,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1938.png",
     "acquisition": [
       "find"
@@ -4505,6 +4805,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1940.png",
     "acquisition": [
       "find"
@@ -4520,6 +4821,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1941.png",
     "acquisition": [
       "find"
@@ -4535,6 +4837,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/1943.png",
     "acquisition": [
       "find"
@@ -4550,6 +4853,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/1944.png",
     "acquisition": [
       "find"
@@ -4565,6 +4869,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/1945.png",
     "acquisition": [
       "find"
@@ -4580,6 +4885,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2104.png",
     "acquisition": [
       "find"
@@ -4595,6 +4901,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2105.png",
     "acquisition": [
       "find"
@@ -4610,6 +4917,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2106.png",
     "acquisition": [
       "find"
@@ -4625,6 +4933,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2107.png",
     "acquisition": [
       "find"
@@ -4640,6 +4949,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2109.png",
     "acquisition": [
       "find"
@@ -4655,6 +4965,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2110.png",
     "acquisition": [
       "find"
@@ -4670,6 +4981,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2111.png",
     "acquisition": [
       "find"
@@ -4685,6 +4997,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2112.png",
     "acquisition": [
       "find"
@@ -4700,6 +5013,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2113.png",
     "acquisition": [
       "find"
@@ -4715,6 +5029,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2116.png",
     "acquisition": [
       "craft"
@@ -4730,6 +5045,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2189.png",
     "acquisition": [
       "craft"
@@ -4745,6 +5061,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2199.png",
     "acquisition": [
       "craft"
@@ -4760,6 +5077,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2200.png",
     "acquisition": [
       "craft"
@@ -4775,6 +5093,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/2202.png",
     "acquisition": [
       "craft"
@@ -4790,6 +5109,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2222.png",
     "acquisition": [
       "find"
@@ -4805,6 +5125,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2275.png",
     "acquisition": [
       "find"
@@ -4820,6 +5141,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2279.png",
     "acquisition": [
       "find"
@@ -4835,6 +5157,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2285.png",
     "acquisition": [
       "find"
@@ -4850,6 +5173,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2286.png",
     "acquisition": [
       "find"
@@ -4865,6 +5189,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2287.png",
     "acquisition": [
       "find"
@@ -4880,6 +5205,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2362.png",
     "acquisition": [
       "craft"
@@ -4895,6 +5221,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/2363.png",
     "acquisition": [
       "craft"
@@ -4910,6 +5237,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2367.png",
     "acquisition": [
       "find"
@@ -4925,6 +5253,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2368.png",
     "acquisition": [
       "find"
@@ -4940,6 +5269,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/2369.png",
     "acquisition": [
       "find"
@@ -4955,6 +5285,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2370.png",
     "acquisition": [
       "craft"
@@ -4970,6 +5301,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2371.png",
     "acquisition": [
       "craft"
@@ -4985,6 +5317,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/2372.png",
     "acquisition": [
       "craft"
@@ -5000,6 +5333,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2480.png",
     "acquisition": [
       "find"
@@ -5015,6 +5349,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2492.png",
     "acquisition": [
       "craft"
@@ -5030,6 +5365,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2493.png",
     "acquisition": [
       "find"
@@ -5045,6 +5381,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2498.png",
     "acquisition": [
       "find"
@@ -5060,6 +5397,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2499.png",
     "acquisition": [
       "find"
@@ -5075,6 +5413,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2509.png",
     "acquisition": [
       "craft"
@@ -5090,6 +5429,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2510.png",
     "acquisition": [
       "craft"
@@ -5105,6 +5445,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/2511.png",
     "acquisition": [
       "craft"
@@ -5120,6 +5461,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2512.png",
     "acquisition": [
       "craft"
@@ -5135,6 +5477,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2513.png",
     "acquisition": [
       "craft"
@@ -5150,6 +5493,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/2514.png",
     "acquisition": [
       "craft"
@@ -5165,6 +5509,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2588.png",
     "acquisition": [
       "find"
@@ -5180,6 +5525,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2757.png",
     "acquisition": [
       "craft"
@@ -5195,6 +5541,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2758.png",
     "acquisition": [
       "craft"
@@ -5210,6 +5557,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/2759.png",
     "acquisition": [
       "craft"
@@ -5225,6 +5573,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2760.png",
     "acquisition": [
       "craft"
@@ -5240,6 +5589,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2761.png",
     "acquisition": [
       "craft"
@@ -5255,6 +5605,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/2762.png",
     "acquisition": [
       "craft"
@@ -5270,6 +5621,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2763.png",
     "acquisition": [
       "craft"
@@ -5285,6 +5637,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2764.png",
     "acquisition": [
       "craft"
@@ -5300,6 +5653,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/2765.png",
     "acquisition": [
       "craft"
@@ -5315,6 +5669,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2801.png",
     "acquisition": [
       "find"
@@ -5330,6 +5685,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2802.png",
     "acquisition": [
       "find"
@@ -5345,6 +5701,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2803.png",
     "acquisition": [
       "find"
@@ -5360,6 +5717,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2804.png",
     "acquisition": [
       "find"
@@ -5375,6 +5733,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/2805.png",
     "acquisition": [
       "find"
@@ -5390,6 +5749,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2806.png",
     "acquisition": [
       "find"
@@ -5405,6 +5765,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/2808.png",
     "acquisition": [
       "find"
@@ -5420,6 +5781,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2856.png",
     "acquisition": [
       "find"
@@ -5435,6 +5797,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/2857.png",
     "acquisition": [
       "find"
@@ -5450,6 +5813,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2858.png",
     "acquisition": [
       "find"
@@ -5465,6 +5829,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/2859.png",
     "acquisition": [
       "find"
@@ -5480,6 +5845,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3017.png",
     "acquisition": [
       "find"
@@ -5495,6 +5861,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3109.png",
     "acquisition": [
       "find"
@@ -5510,6 +5877,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3187.png",
     "acquisition": [
       "find"
@@ -5525,6 +5893,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3188.png",
     "acquisition": [
       "find"
@@ -5540,6 +5909,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3189.png",
     "acquisition": [
       "find"
@@ -5555,6 +5925,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3200.png",
     "acquisition": [
       "find"
@@ -5570,6 +5941,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3232.png",
     "acquisition": [
       "find"
@@ -5585,6 +5957,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3242.png",
     "acquisition": [
       "find"
@@ -5600,6 +5973,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3244.png",
     "acquisition": [
       "find"
@@ -5615,6 +5989,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3247.png",
     "acquisition": [
       "find"
@@ -5630,6 +6005,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3264.png",
     "acquisition": [
       "find"
@@ -5645,6 +6021,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3266.png",
     "acquisition": [
       "find"
@@ -5660,6 +6037,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3268.png",
     "acquisition": [
       "find"
@@ -5675,6 +6053,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3362.png",
     "acquisition": [
       "find"
@@ -5690,6 +6069,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3363.png",
     "acquisition": [
       "find"
@@ -5705,6 +6085,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3372.png",
     "acquisition": [
       "find"
@@ -5720,6 +6101,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3373.png",
     "acquisition": [
       "find"
@@ -5735,6 +6117,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3374.png",
     "acquisition": [
       "find"
@@ -5750,6 +6133,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3375.png",
     "acquisition": [
       "find"
@@ -5765,6 +6149,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3376.png",
     "acquisition": [
       "find"
@@ -5780,6 +6165,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3441.png",
     "acquisition": [
       "find"
@@ -5795,6 +6181,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3585.png",
     "acquisition": [
       "find"
@@ -5810,6 +6197,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3589.png",
     "acquisition": [
       "find"
@@ -5825,6 +6213,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3590.png",
     "acquisition": [
       "find"
@@ -5840,6 +6229,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3591.png",
     "acquisition": [
       "find"
@@ -5855,6 +6245,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3626.png",
     "acquisition": [
       "find"
@@ -5870,6 +6261,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3627.png",
     "acquisition": [
       "find"
@@ -5885,6 +6277,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3630.png",
     "acquisition": [
       "find"
@@ -5900,6 +6293,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3631.png",
     "acquisition": [
       "find"
@@ -5915,6 +6309,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3632.png",
     "acquisition": [
       "find"
@@ -5930,6 +6325,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3732.png",
     "acquisition": [
       "find"
@@ -5945,6 +6341,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3786.png",
     "acquisition": [
       "find"
@@ -5960,6 +6357,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3797.png",
     "acquisition": [
       "find"
@@ -5975,6 +6373,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3798.png",
     "acquisition": [
       "find"
@@ -5990,6 +6389,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3802.png",
     "acquisition": [
       "find"
@@ -6005,6 +6405,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3805.png",
     "acquisition": [
       "find"
@@ -6020,6 +6421,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3806.png",
     "acquisition": [
       "find"
@@ -6035,6 +6437,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3807.png",
     "acquisition": [
       "find"
@@ -6050,6 +6453,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3808.png",
     "acquisition": [
       "find"
@@ -6065,6 +6469,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3863.png",
     "acquisition": [
       "find"
@@ -6080,6 +6485,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3864.png",
     "acquisition": [
       "find"
@@ -6095,6 +6501,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3865.png",
     "acquisition": [
       "find"
@@ -6110,6 +6517,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3872.png",
     "acquisition": [
       "find"
@@ -6125,6 +6533,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3873.png",
     "acquisition": [
       "find"
@@ -6140,6 +6549,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3874.png",
     "acquisition": [
       "find"
@@ -6155,6 +6565,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/3875.png",
     "acquisition": [
       "find"
@@ -6170,6 +6581,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3876.png",
     "acquisition": [
       "find"
@@ -6185,6 +6597,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3877.png",
     "acquisition": [
       "find"
@@ -6200,6 +6613,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3879.png",
     "acquisition": [
       "find"
@@ -6215,6 +6629,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/3880.png",
     "acquisition": [
       "find"
@@ -6230,6 +6645,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/3882.png",
     "acquisition": [
       "find"
@@ -6245,6 +6661,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/5001.png",
     "acquisition": [
       "find"
@@ -6260,6 +6677,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/5002.png",
     "acquisition": [
       "find"
@@ -6275,6 +6693,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/5004.png",
     "acquisition": [
       "find"
@@ -6290,6 +6709,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Chest",
+    "subSubcategory": "body",
     "iconPath": "/assets/icons/armor/5005.png",
     "acquisition": [
       "find"
@@ -6305,6 +6725,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/5007.png",
     "acquisition": [
       "find"
@@ -6320,6 +6741,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/5008.png",
     "acquisition": [
       "find"
@@ -6335,6 +6757,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/5030.png",
     "acquisition": [
       "find"
@@ -6350,6 +6773,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Legs",
+    "subSubcategory": "legs",
     "iconPath": "/assets/icons/armor/5034.png",
     "acquisition": [
       "find"
@@ -6365,6 +6789,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/5067.png",
     "acquisition": [
       "find"
@@ -6380,6 +6805,7 @@
     "type": "armor",
     "category": "Armor",
     "subcategory": "Head",
+    "subSubcategory": "head",
     "iconPath": "/assets/icons/armor/5068.png",
     "acquisition": [
       "find"
