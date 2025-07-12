@@ -1,0 +1,65 @@
+{
+  "success": [
+    {
+      "name": "Iron Broadsword",
+      "id": "4",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Iron_Broadsword.png",
+      "size": 536
+    },
+    {
+      "name": "Iron Shortsword",
+      "id": "6",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Iron_Shortsword.png",
+      "size": 222
+    },
+    {
+      "name": "Wooden Sword",
+      "id": "24",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Wooden_Sword.png",
+      "size": 176
+    },
+    {
+      "name": "Life Crystal",
+      "id": "29",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Life_Crystal.png",
+      "size": 258
+    },
+    {
+      "name": "Wooden Bow",
+      "id": "39",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Wooden_Bow.png",
+      "size": 165
+    },
+    {
+      "name": "Demon Bow",
+      "id": "44",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Demon_Bow.png",
+      "size": 457
+    },
+    {
+      "name": "Enchanted Boomerang",
+      "id": "55",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Enchanted_Boomerang.png",
+      "size": 207
+    },
+    {
+      "name": "Starfury",
+      "id": "65",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Starfury.png",
+      "size": 682
+    },
+    {
+      "name": "Fallen Star",
+      "id": "75",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Fallen_Star.png",
+      "size": 454
+    },
+    {
+      "name": "Copper Chainmail",
+      "id": "80",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Copper_Chainmail.png",
+      "size": 196
+    }
+  ],
+  "failed": []
+}
