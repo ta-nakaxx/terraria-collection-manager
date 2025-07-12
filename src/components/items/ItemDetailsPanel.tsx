@@ -52,6 +52,7 @@ export function ItemDetailsPanel({ item, onClose, onToggleOwned }: ItemDetailsPa
         <div className="flex flex-col items-center space-y-2 pb-4 border-b border-gray-200/60">
           <div className="w-16 h-16 bg-gray-50 rounded-xl flex items-center justify-center shadow-inner">
             <ItemIcon 
+              key={item.id}
               item={item}
               size={48}
               showHoverEffect={false}

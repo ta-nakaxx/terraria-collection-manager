@@ -3,7 +3,7 @@
  * 段階的フォールバック戦略とローディング状態を実装
  */
 
-import React, { useState, useCallback } from 'react';
+import React, { useState, useCallback, useEffect } from 'react';
 import { Item } from '@/types';
 import DynamicIcon from './DynamicIcon';
 
@@ -22,6 +22,12 @@ export const ItemIcon: React.FC<ItemIconProps> = ({
 }) => {
   const [imageState, setImageState] = useState<'loading' | 'loaded' | 'error' | 'fallback'>('loading');
   const [currentSrc, setCurrentSrc] = useState(item.iconPath);
+
+  // Props変更時に内部状態をリセット（追加の安全策）
+  useEffect(() => {
+    setCurrentSrc(item.iconPath);
+    setImageState('loading');
+  }, [item.id, item.iconPath]);
 
   const handleImageLoad = useCallback(() => {
     console.log(`✅ Icon loaded successfully for ${item.name}: ${currentSrc}`);
