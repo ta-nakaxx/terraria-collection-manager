@@ -2,11 +2,10 @@
 import { Item, Category } from '@/types';
 
 /**
- * Extensible category configuration
- * New categories can be added without breaking existing functionality
+ * 5つの主要カテゴリに絞り込んだ構成
+ * Weapons, Armor, Accessories, NPCs, Bosses のみ
  */
 export const categories: Category[] = [
-  // === COLLECTIBLE CATEGORIES (Items players actively collect) ===
   {
     id: "weapons",
     name: "Weapons",
@@ -31,107 +30,21 @@ export const categories: Category[] = [
     id: "accessories",
     name: "Accessories",
     type: "accessory",
-    subcategories: ["Combat", "Movement", "Information", "Health", "Utility", "Vanity"],
+    subcategories: ["Movement", "Health", "Permanent", "Combat", "Utility"],
     collectionType: "collectible",
     order: 3,
     icon: "💍",
     expandable: true
   },
   {
-    id: "vanity",
-    name: "Vanity",
-    type: "vanity",
-    subcategories: ["Head", "Body", "Legs", "Dyes", "Costumes"],
-    collectionType: "collectible",
-    order: 4,
-    icon: "👕",
-    expandable: true
-  },
-  
-  // === REFERENCE CATEGORIES (Items for information/crafting reference) ===
-  {
-    id: "tools",
-    name: "Tools",
-    type: "tool",
-    subcategories: ["Mining", "Building", "Utility"],
-    collectionType: "reference",
-    order: 5,
-    icon: "🔨"
-  },
-  {
-    id: "materials",
-    name: "Materials",
-    type: "material",
-    subcategories: ["Ores", "Bars", "Wood", "Natural", "Monster Drops", "Seeds", "Crafting"],
-    collectionType: "reference",
-    order: 6,
-    icon: "📦"
-  },
-  {
-    id: "consumables",
-    name: "Consumables",
-    type: "consumable",
-    subcategories: ["Potions", "Upgrades", "Summoning"],
-    collectionType: "reference",
-    order: 7,
-    icon: "🧪"
-  },
-  {
-    id: "building",
-    name: "Building",
-    type: "building",
-    subcategories: ["Blocks", "Walls"],
-    collectionType: "reference",
-    order: 8,
-    icon: "🧱"
-  },
-  {
-    id: "furniture",
-    name: "Furniture",
-    type: "furniture",
-    subcategories: ["Seating", "Surface", "Crafting Stations", "Storage", "Doors"],
-    collectionType: "reference",
-    order: 9,
-    icon: "🪑"
-  },
-  {
-    id: "lighting",
-    name: "Lighting",
-    type: "lighting",
-    subcategories: ["Torches", "Lanterns", "Candles"],
-    collectionType: "reference",
-    order: 10,
-    icon: "💡"
-  },
-  {
-    id: "storage",
-    name: "Storage",
-    type: "storage",
-    subcategories: ["Chests", "Containers"],
-    collectionType: "reference",
-    order: 11,
-    icon: "📦"
-  },
-  {
-    id: "ammunition",
-    name: "Ammunition",
-    type: "ammunition",
-    subcategories: ["Arrows", "Bullets", "Rockets"],
-    collectionType: "reference",
-    order: 12,
-    icon: "🏹"
-  },
-  
-  // === ENTITY CATEGORIES (Future expansion ready) ===
-  {
     id: "npcs",
     name: "NPCs",
     type: "npc",
-    subcategories: ["Merchants", "Craftsmen", "Combat"],
+    subcategories: ["Helper", "Vendor", "Service"],
     collectionType: "reference",
-    order: 13,
+    order: 4,
     icon: "👤",
-    hidden: true // Hidden until NPC data is added
+    expandable: true
   },
   {
     id: "bosses",
@@ -139,9 +52,9 @@ export const categories: Category[] = [
     type: "boss",
     subcategories: ["Pre-Hardmode", "Hardmode", "Event"],
     collectionType: "reference",
-    order: 14,
+    order: 5,
     icon: "👹",
-    hidden: true // Hidden until boss data is added
+    expandable: true
   }
 ];
 
