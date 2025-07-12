@@ -67,6 +67,7 @@ export const ItemIcon: React.FC<ItemIconProps> = ({
       )}
       
       {/* Actual image */}
+      {/* eslint-disable-next-line @next/next/no-img-element */}
       <img
         src={currentSrc}
         alt={item.name}

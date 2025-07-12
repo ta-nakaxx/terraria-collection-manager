@@ -1,6 +1,5 @@
 "use client";
 
-import { useState } from 'react';
 import { Item } from '@/types';
 import { getRarityStyle } from '@/constants/rarityStyles';
 import ItemIcon from '@/components/ui/ItemIcon';
