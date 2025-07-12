@@ -60,7 +60,10 @@
 ### 4.1. データ管理
 
 * **ローカルストレージ:** ユーザーの所持/未所持データは、ブラウザの `localStorage` APIを使用して保存および取得してください。キー名はプロジェクトに固有で衝突しないように命名してください（例: `terraria-collection-status`）。
-* **初期データ:** アプリケーションで使用するアイテム、NPC、ボスの初期データは、`src/data` ディレクトリ内のJSONファイルとして管理することを想定しています。このJSONファイルは、各項目に必要なプロパティ（`id`, `name`, `category`, `iconPath`, `acquisition`, `stats`, `type` など）を含むように定義してください。
+* **アイテムデータ:** アプリケーションで使用するアイテム、NPC、ボスの初期データは、`src/data/real-data/curated-items.json` で一元管理してください。このファイルは、各項目に必要なプロパティ（`id`, `name`, `category`, `iconPath`, `acquisition`, `stats`, `type` など）を含むように定義してください。
+* **データとアイコンの整合性:** 新しいアイテムを追加する際は、必ず対応するアイコンファイルが `public/assets/icons/` に存在することを確認してください。`iconPath` フィールドと実際のファイル位置が一致している必要があります。
+* **分類の正確性:** `type` フィールドは TypeScript の `ItemType` 型に準拠し、Terraria ゲーム内での実際の分類と一致させてください（例: Life Crystal は weapon ではなく consumable）。
+* **単一真実のソース:** アイテムデータは複数のファイルで重複定義せず、`curated-items.json` のみで管理してください。
 
 ### 4.2. UI/UXの原則
 
