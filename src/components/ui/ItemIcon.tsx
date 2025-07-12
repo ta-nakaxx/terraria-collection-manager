@@ -24,20 +24,42 @@ export const ItemIcon: React.FC<ItemIconProps> = ({
   const [currentSrc, setCurrentSrc] = useState(item.iconPath);
 
   const handleImageLoad = useCallback(() => {
+    console.log(`✅ Icon loaded successfully for ${item.name}: ${currentSrc}`);
     setImageState('loaded');
-  }, []);
+  }, [item.name, currentSrc]);
 
   const handleImageError = useCallback(() => {
+    console.log(`🔍 Icon error for ${item.name}:`, {
+      originalPath: item.iconPath,
+      currentSrc,
+      imageState
+    });
+    
     // Try fallback strategy
     if (imageState === 'loading' && currentSrc === item.iconPath) {
-      // First error: try placeholder
+      // First error: try SVG version if original was PNG
+      if (item.iconPath.endsWith('.png')) {
+        const svgPath = item.iconPath.replace('.png', '.svg');
+        console.log(`🔄 Trying SVG version: ${svgPath}`);
+        setCurrentSrc(svgPath);
+        setImageState('loading');
+      } else {
+        // Not PNG, try placeholder
+        console.log(`🔄 Trying placeholder for: ${item.name}`);
+        setCurrentSrc('/placeholder.svg');
+        setImageState('loading');
+      }
+    } else if (imageState === 'loading' && currentSrc !== '/placeholder.svg' && currentSrc !== item.iconPath) {
+      // SVG failed, try placeholder
+      console.log(`🔄 SVG failed, trying placeholder for: ${item.name}`);
       setCurrentSrc('/placeholder.svg');
       setImageState('loading');
     } else {
-      // Second error or placeholder failed: use dynamic icon
+      // All attempts failed: use dynamic icon
+      console.log(`❌ All failed, using dynamic icon for: ${item.name}`);
       setImageState('fallback');
     }
-  }, [imageState, currentSrc, item.iconPath]);
+  }, [imageState, currentSrc, item.iconPath, item.name]);
 
   const baseClasses = `object-contain transition-all duration-300 ${
     showHoverEffect ? 'group-hover:scale-110' : ''
