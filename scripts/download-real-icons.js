@@ -93,6 +93,7 @@ const downloadFile = (url, filePath, timeout = 10000) => {
         cleanup();
         const redirectUrl = response.headers.location;
         if (redirectUrl) {
+          console.log(`  🔄 リダイレクト: ${redirectUrl}`);
           downloadFile(redirectUrl, filePath, timeout).then(resolve).catch(reject);
         } else {
           reject(new Error(`Redirect without location: ${response.statusCode}`));
@@ -125,6 +126,7 @@ const downloadWithFallback = async (urls, filePath, itemName) => {
       
       // ファイルサイズチェック
       const stats = fs.statSync(filePath);
+      console.log(`  📁 ファイル作成確認: ${filePath} (${stats.size} bytes)`);
       if (stats.size > 100) { // 100バイト以上なら有効とみなす
         console.log(`  ✅ 成功: ${itemName} (${stats.size} bytes)`);
         return urls[i];
