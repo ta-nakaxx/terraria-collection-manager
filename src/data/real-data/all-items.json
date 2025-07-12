@@ -448,22 +448,6 @@
     "collectionType": "collectible"
   },
   {
-    "id": "29",
-    "name": "Life Crystal",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Magic",
-    "subSubcategory": "crystal",
-    "iconPath": "/assets/icons/weapons/29.png",
-    "acquisition": [
-      "find"
-    ],
-    "rarity": "white",
-    "gameStage": "pre-hardmode",
-    "owned": false,
-    "collectionType": "collectible"
-  },
-  {
     "id": "30",
     "name": "Dirt Wall",
     "type": "accessory",

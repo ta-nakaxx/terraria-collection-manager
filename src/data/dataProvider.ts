@@ -25,9 +25,30 @@ export interface DataLoadResult {
  */
 async function loadRealData(): Promise<Item[]> {
   try {
-    // 変換済み実データの読み込みを試行
-    const response = await import('./real-data/all-items.json');
-    const realItems = response.default || response;
+    // 複数データファイルの読み込み
+    const [weaponsModule, toolsModule, npcsModule, bossesModule, consumablesModule] = await Promise.allSettled([
+      import('./real-data/weapons.json'),
+      import('./real-data/tools.json'),
+      import('./real-data/npcs.json'),
+      import('./real-data/bosss.json'),
+      import('./real-data/consumables.json')
+    ]);
+
+    let realItems: Item[] = [];
+
+    // 各モジュールの結果を処理
+    [weaponsModule, toolsModule, npcsModule, bossesModule, consumablesModule].forEach((result, index) => {
+      const fileNames = ['weapons', 'tools', 'npcs', 'bosses', 'consumables'];
+      if (result.status === 'fulfilled') {
+        const data = result.value.default || result.value;
+        if (Array.isArray(data)) {
+          realItems = realItems.concat(data);
+          console.log(`✅ Loaded ${data.length} items from ${fileNames[index]}.json`);
+        }
+      } else {
+        console.warn(`⚠️ Failed to load ${fileNames[index]}.json:`, result.reason);
+      }
+    });
     
     if (!Array.isArray(realItems) || realItems.length === 0) {
       throw new Error('Real data is empty or invalid format');
