@@ -153,9 +153,9 @@ const downloadRealIcons = async () => {
   const items = loadItemData();
   console.log(`📊 総アイテム数: ${items.length}`);
   
-  // テスト用に少数から開始
-  const testItems = items.slice(0, 10);
-  console.log(`🧪 テスト: 最初の${testItems.length}アイテムで実行`);
+  // デバッグ: 少数で確認
+  const testItems = items.slice(0, 5);
+  console.log(`🔍 デバッグ: 最初の${testItems.length}アイテムで実行`);
   
   // ディレクトリ準備
   const publicIconsDir = path.join(__dirname, '../public/assets/icons');

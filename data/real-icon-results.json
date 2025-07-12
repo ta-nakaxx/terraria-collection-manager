@@ -1,12 +1,6 @@
 {
   "success": [
     {
-      "name": "Iron Broadsword",
-      "id": "4",
-      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Iron_Broadsword.png",
-      "size": 536
-    },
-    {
       "name": "Iron Shortsword",
       "id": "6",
       "url": "https://terraria.fandom.com/wiki/Special:FilePath/Iron_Shortsword.png",
@@ -59,6 +53,246 @@
       "id": "80",
       "url": "https://terraria.fandom.com/wiki/Special:FilePath/Copper_Chainmail.png",
       "size": 196
+    },
+    {
+      "name": "Iron Chainmail",
+      "id": "81",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Iron_Chainmail.png",
+      "size": 205
+    },
+    {
+      "name": "Silver Chainmail",
+      "id": "82",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Silver_Chainmail.png",
+      "size": 214
+    },
+    {
+      "name": "Gold Chainmail",
+      "id": "83",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Gold_Chainmail.png",
+      "size": 194
+    },
+    {
+      "name": "Chain",
+      "id": "85",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Chain.png",
+      "size": 156
+    },
+    {
+      "name": "Flintlock Pistol",
+      "id": "95",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Flintlock_Pistol.png",
+      "size": 254
+    },
+    {
+      "name": "Musket",
+      "id": "96",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Musket.png",
+      "size": 241
+    },
+    {
+      "name": "Musket Ball",
+      "id": "97",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Musket_Ball.png",
+      "size": 143
+    },
+    {
+      "name": "Iron Bow",
+      "id": "99",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Iron_Bow.png",
+      "size": 174
+    },
+    {
+      "name": "Mana Crystal",
+      "id": "109",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Mana_Crystal.png",
+      "size": 213
+    },
+    {
+      "name": "Band of Starpower",
+      "id": "111",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Band_of_Starpower.png",
+      "size": 205
+    },
+    {
+      "name": "Fiery Greatsword",
+      "id": "121",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Fiery_Greatsword.png",
+      "size": 977
+    },
+    {
+      "name": "Space Gun",
+      "id": "127",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Space_Gun.png",
+      "size": 292
+    },
+    {
+      "name": "Rocket Boots",
+      "id": "128",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Rocket_Boots.png",
+      "size": 294
+    },
+    {
+      "name": "Chain Lantern",
+      "id": "136",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Chain_Lantern.png",
+      "size": 208
+    },
+    {
+      "name": "Book",
+      "id": "149",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Book.png",
+      "size": 219
+    },
+    {
+      "name": "Handgun",
+      "id": "164",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Handgun.png",
+      "size": 257
+    },
+    {
+      "name": "Grenade",
+      "id": "168",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Grenade.png",
+      "size": 189
+    },
+    {
+      "name": "Star",
+      "id": "184",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Star.png",
+      "size": 158
+    },
+    {
+      "name": "Ivy Whip",
+      "id": "185",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Ivy_Whip.png",
+      "size": 240
+    },
+    {
+      "name": "Blade of Grass",
+      "id": "190",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Blade_of_Grass.png",
+      "size": 817
+    },
+    {
+      "name": "Thorn Chakram",
+      "id": "191",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Thorn_Chakram.png",
+      "size": 291
+    },
+    {
+      "name": "Star Cannon",
+      "id": "197",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Star_Cannon.png",
+      "size": 362
+    },
+    {
+      "name": "Blue Phaseblade",
+      "id": "198",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Blue_Phaseblade.png",
+      "size": 190
+    },
+    {
+      "name": "Red Phaseblade",
+      "id": "199",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Red_Phaseblade.png",
+      "size": 190
+    },
+    {
+      "name": "Green Phaseblade",
+      "id": "200",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Green_Phaseblade.png",
+      "size": 190
+    },
+    {
+      "name": "Purple Phaseblade",
+      "id": "201",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Purple_Phaseblade.png",
+      "size": 190
+    },
+    {
+      "name": "White Phaseblade",
+      "id": "202",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/White_Phaseblade.png",
+      "size": 190
+    },
+    {
+      "name": "Yellow Phaseblade",
+      "id": "203",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Yellow_Phaseblade.png",
+      "size": 190
+    },
+    {
+      "name": "Staff of Regrowth",
+      "id": "213",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Staff_of_Regrowth.png",
+      "size": 317
+    },
+    {
+      "name": "Flamelash",
+      "id": "218",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Flamelash.png",
+      "size": 479
+    },
+    {
+      "name": "Fish Bowl",
+      "id": "250",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Fish_Bowl.png",
+      "size": 323
+    },
+    {
+      "name": "Sandgun",
+      "id": "266",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Sandgun.png",
+      "size": 234
+    },
+    {
+      "name": "Dark Lance",
+      "id": "274",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Dark_Lance.png",
+      "size": 294
+    },
+    {
+      "name": "Trident",
+      "id": "277",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Trident.png",
+      "size": 225
+    },
+    {
+      "name": "Throwing Knife",
+      "id": "279",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Throwing_Knife.png",
+      "size": 166
+    },
+    {
+      "name": "Spear",
+      "id": "280",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Spear.png",
+      "size": 247
+    },
+    {
+      "name": "Wooden Boomerang",
+      "id": "284",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Wooden_Boomerang.png",
+      "size": 180
+    },
+    {
+      "name": "Poisoned Knife",
+      "id": "287",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Poisoned_Knife.png",
+      "size": 166
+    },
+    {
+      "name": "Illegal Gun Parts",
+      "id": "324",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Illegal_Gun_Parts.png",
+      "size": 209
+    },
+    {
+      "name": "Bookcase",
+      "id": "354",
+      "url": "https://terraria.fandom.com/wiki/Special:FilePath/Bookcase.png",
+      "size": 288
     }
   ],
   "failed": []
