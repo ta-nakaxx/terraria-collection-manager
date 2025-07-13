@@ -47,7 +47,6 @@ export const CLASSIFICATION_RULES = {
     "Cloud in a Bottle",
     "Band of Regeneration",
     "Magic Mirror",
-    "Obsidian Skin Potion",
     "Angel Wings",
     "Demon Wings"
   ],

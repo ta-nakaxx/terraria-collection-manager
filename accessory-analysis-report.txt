@@ -1,0 +1,157 @@
+=== アクセサリーカテゴリ詳細分析レポート ===
+
+1. 分類別アイテム数:
+   True Accessory: 110個
+   Building/Blocks: 584個
+   Uncategorized: 1551個
+   Materials: 70個
+   Ammo/Consumables: 97個
+   Decorations: 478個
+   Tools: 43個
+
+2. サブカテゴリ統計:
+   Utility: 2835個
+   Movement: 68個
+   Combat: 29個
+   Pre-Hardmode: 1個
+
+3. 移動候補アイテム詳細:
+
+### Building/Blocks (584個)
+- Dirt Block (ID: 2)
+- Stone Block (ID: 3)
+- Torch (ID: 8)
+- Wood (ID: 9)
+- Wooden Door (ID: 25)
+- Stone Wall (ID: 26)
+- Dirt Wall (ID: 30)
+- Wooden Table (ID: 32)
+- Wooden Chair (ID: 34)
+- Chest (ID: 48)
+- Ebonstone Block (ID: 61)
+- Wood Wall (ID: 93)
+- Wood Platform (ID: 94)
+- Candle (ID: 105)
+- Gray Brick (ID: 129)
+- Gray Brick Wall (ID: 130)
+- Red Brick (ID: 131)
+- Red Brick Wall (ID: 132)
+- Clay Block (ID: 133)
+- Blue Brick (ID: 134)
+... および564個の追加アイテム
+
+### Uncategorized (1551個)
+- Mushroom (ID: 5)
+- Copper Watch (ID: 15)
+- Silver Watch (ID: 16)
+- Gold Watch (ID: 17)
+- Depth Meter (ID: 18)
+- Acorn (ID: 27)
+- Bottle (ID: 31)
+- Furnace (ID: 33)
+- Iron Anvil (ID: 35)
+- Work Bench (ID: 36)
+- Goggles (ID: 37)
+- Lens (ID: 38)
+- Shuriken (ID: 42)
+- Suspicious Looking Eye (ID: 43)
+- Light's Bane (ID: 46)
+- Magic Mirror (ID: 50)
+- Heart (ID: 58)
+- Corrupt Seeds (ID: 59)
+- Vile Mushroom (ID: 60)
+- Grass Seeds (ID: 62)
+... および1531個の追加アイテム
+
+### Materials (70個)
+- Iron Ore (ID: 11)
+- Copper Ore (ID: 12)
+- Gold Ore (ID: 13)
+- Silver Ore (ID: 14)
+- Gold Bar (ID: 19)
+- Copper Bar (ID: 20)
+- Silver Bar (ID: 21)
+- Iron Bar (ID: 22)
+- Demonite Ore (ID: 56)
+- Demonite Bar (ID: 57)
+- Vilethorn (ID: 64)
+- Shadow Scale (ID: 86)
+- Meteorite Bar (ID: 117)
+- Hellstone Bar (ID: 175)
+- Black Thread (ID: 254)
+- Green Thread (ID: 255)
+- Feather (ID: 320)
+- Cobalt Ore (ID: 364)
+- Mythril Ore (ID: 365)
+- Adamantite Ore (ID: 366)
+... および50個の追加アイテム
+
+### Ammo/Consumables (97個)
+- Gel (ID: 23)
+- Wooden Arrow (ID: 40)
+- Flaming Arrow (ID: 41)
+- Unholy Arrow (ID: 47)
+- Jester's Arrow (ID: 51)
+- Purification Powder (ID: 66)
+- Vile Powder (ID: 67)
+- Copper Coin (ID: 71)
+- Silver Coin (ID: 72)
+- Gold Coin (ID: 73)
+- Platinum Coin (ID: 74)
+- Lesser Restoration Potion (ID: 226)
+- Restoration Potion (ID: 227)
+- Hellfire Arrow (ID: 265)
+- Silver Bullet (ID: 278)
+- Seed (ID: 283)
+- Obsidian Skin Potion (ID: 288)
+- Regeneration Potion (ID: 289)
+- Swiftness Potion (ID: 290)
+- Gills Potion (ID: 291)
+... および77個の追加アイテム
+
+### Decorations (478個)
+- Angel Statue (ID: 52)
+- Copper Chandelier (ID: 106)
+- Silver Chandelier (ID: 107)
+- Gold Chandelier (ID: 108)
+- Red Banner (ID: 337)
+- Green Banner (ID: 338)
+- Blue Banner (ID: 339)
+- Yellow Banner (ID: 340)
+- Pink Vase (ID: 350)
+- Grandfather Clock (ID: 359)
+- Armor Statue (ID: 360)
+- Slime Statue (ID: 440)
+- Goblin Statue (ID: 441)
+- Shield Statue (ID: 442)
+- Bat Statue (ID: 443)
+- Fish Statue (ID: 444)
+- Bunny Statue (ID: 445)
+- Skeleton Statue (ID: 446)
+- Reaper Statue (ID: 447)
+- Woman Statue (ID: 448)
+... および458個の追加アイテム
+
+### Tools (43個)
+- Grappling Hook (ID: 84)
+- Dirt Rod (ID: 114)
+- Empty Bucket (ID: 205)
+- Water Bucket (ID: 206)
+- Lava Bucket (ID: 207)
+- Dual Hook (ID: 437)
+- Ice Rod (ID: 496)
+- Red Wrench (ID: 509)
+- Blue Wrench (ID: 850)
+- Green Wrench (ID: 851)
+- Honey Bucket (ID: 1128)
+- Amethyst Hook (ID: 1236)
+- Topaz Hook (ID: 1237)
+- Sapphire Hook (ID: 1238)
+- Emerald Hook (ID: 1239)
+- Ruby Hook (ID: 1240)
+- Diamond Hook (ID: 1241)
+- Nimbus Rod (ID: 1244)
+- Crimson Rod (ID: 1256)
+- Bat Hook (ID: 1800)
+... および23個の追加アイテム
+

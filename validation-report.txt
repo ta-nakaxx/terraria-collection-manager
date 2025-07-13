@@ -3,7 +3,6 @@
 ✅ 全アイテムの分類が正常です
 
 ⚠️  16個の警告があります:
-  - Destroyer Emblem (ID: 1301): アイコンパス(/assets/icons/bosses/1301.png)がカテゴリ(Accessories)と一致していません
   - Eye of Cthulhu Trophy (ID: 1360): アイコンパス(/assets/icons/bosses/1360.png)がカテゴリ(Collectibles)と一致していません
   - Eater of Worlds Trophy (ID: 1361): アイコンパス(/assets/icons/bosses/1361.png)がカテゴリ(Collectibles)と一致していません
   - Brain of Cthulhu Trophy (ID: 1362): アイコンパス(/assets/icons/bosses/1362.png)がカテゴリ(Collectibles)と一致していません
@@ -19,3 +18,4 @@
   - Ice Golem Banner (ID: 2934): アイコンパス(/assets/icons/bosses/2934.png)がカテゴリ(Collectibles)と一致していません
   - Moon Lord Trophy (ID: 3595): アイコンパス(/assets/icons/bosses/3595.png)がカテゴリ(Collectibles)と一致していません
   - Granite Golem Statue (ID: 3718): アイコンパス(/assets/icons/bosses/3718.png)がカテゴリ(Collectibles)と一致していません
+  - Destroyer Emblem (ID: 1301): アイコンパス(/assets/icons/bosses/1301.png)がカテゴリ(Accessories)と一致していません
