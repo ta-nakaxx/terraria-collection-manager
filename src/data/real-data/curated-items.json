@@ -47,11 +47,11 @@
   {
     "id": "29",
     "name": "Life Crystal",
-    "type": "accessory",
-    "category": "Accessories",
-    "subcategory": "Permanent",
+    "type": "consumable",
+    "category": "Consumables",
+    "subcategory": "Permanent Boosters",
     "subSubcategory": "health",
-    "iconPath": "/assets/icons/accessories/29.png",
+    "iconPath": "/assets/icons/consumables/29.png",
     "acquisition": [
       "find"
     ],
@@ -282,11 +282,11 @@
   {
     "id": "109",
     "name": "Mana Crystal",
-    "type": "accessory",
-    "category": "Accessories",
-    "subcategory": "Permanent",
+    "type": "consumable",
+    "category": "Consumables",
+    "subcategory": "Permanent Boosters",
     "subSubcategory": "mana",
-    "iconPath": "/assets/icons/accessories/109.png",
+    "iconPath": "/assets/icons/consumables/109.png",
     "acquisition": [
       "craft"
     ],
@@ -12640,10 +12640,10 @@
   {
     "id": "28",
     "name": "Lesser Healing Potion",
-    "type": "accessory",
-    "category": "Accessories",
-    "subcategory": "Utility",
-    "iconPath": "/assets/icons/accessories/28.png",
+    "type": "consumable",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "iconPath": "/assets/icons/consumables/28.png",
     "acquisition": [
       "craft"
     ],
@@ -13405,10 +13405,10 @@
   {
     "id": "110",
     "name": "Lesser Mana Potion",
-    "type": "accessory",
-    "category": "Accessories",
-    "subcategory": "Utility",
-    "iconPath": "/assets/icons/accessories/110.png",
+    "type": "consumable",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "iconPath": "/assets/icons/consumables/110.png",
     "acquisition": [
       "find"
     ],
@@ -25660,10 +25660,10 @@
   {
     "id": "1291",
     "name": "Life Fruit",
-    "type": "accessory",
-    "category": "Accessories",
-    "subcategory": "Utility",
-    "iconPath": "/assets/icons/accessories/1291.png",
+    "type": "consumable",
+    "category": "Consumables",
+    "subcategory": "Permanent Boosters",
+    "iconPath": "/assets/icons/consumables/1291.png",
     "acquisition": [
       "find"
     ],
