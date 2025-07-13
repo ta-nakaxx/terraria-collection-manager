@@ -56580,55 +56580,10 @@
     "collectionType": "collectible"
   },
   {
-    "id": "1248",
-    "name": "Eye of the Golem",
-    "type": "boss",
-    "category": "Bosses",
-    "subcategory": "Pre-Hardmode",
-    "iconPath": "/assets/icons/bosses/1248.png",
-    "acquisition": [
-      "find"
-    ],
-    "rarity": "white",
-    "gameStage": "post-plantera",
-    "owned": false,
-    "collectionType": "collectible"
-  },
-  {
-    "id": "1273",
-    "name": "Skeletron Hand",
-    "type": "boss",
-    "category": "Bosses",
-    "subcategory": "Pre-Hardmode",
-    "iconPath": "/assets/icons/bosses/1273.png",
-    "acquisition": [
-      "find"
-    ],
-    "rarity": "white",
-    "gameStage": "pre-hardmode",
-    "owned": false,
-    "collectionType": "collectible"
-  },
-  {
-    "id": "1297",
-    "name": "Golem Fist",
-    "type": "boss",
-    "category": "Bosses",
-    "subcategory": "Pre-Hardmode",
-    "iconPath": "/assets/icons/bosses/1297.png",
-    "acquisition": [
-      "find"
-    ],
-    "rarity": "white",
-    "gameStage": "post-plantera",
-    "owned": false,
-    "collectionType": "collectible"
-  },
-  {
     "id": "1301",
     "name": "Destroyer Emblem",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "accessory",
+    "category": "Accessories",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/1301.png",
     "acquisition": [
@@ -56642,8 +56597,8 @@
   {
     "id": "1360",
     "name": "Eye of Cthulhu Trophy",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/1360.png",
     "acquisition": [
@@ -56657,8 +56612,8 @@
   {
     "id": "1361",
     "name": "Eater of Worlds Trophy",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/1361.png",
     "acquisition": [
@@ -56672,8 +56627,8 @@
   {
     "id": "1362",
     "name": "Brain of Cthulhu Trophy",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/1362.png",
     "acquisition": [
@@ -56687,8 +56642,8 @@
   {
     "id": "1363",
     "name": "Skeletron Trophy",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/1363.png",
     "acquisition": [
@@ -56702,8 +56657,8 @@
   {
     "id": "1364",
     "name": "Queen Bee Trophy",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/1364.png",
     "acquisition": [
@@ -56717,8 +56672,8 @@
   {
     "id": "1365",
     "name": "Wall of Flesh Trophy",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/1365.png",
     "acquisition": [
@@ -56732,8 +56687,8 @@
   {
     "id": "1366",
     "name": "Destroyer Trophy",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/1366.png",
     "acquisition": [
@@ -56747,8 +56702,8 @@
   {
     "id": "1367",
     "name": "Skeletron Prime Trophy",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/1367.png",
     "acquisition": [
@@ -56762,8 +56717,8 @@
   {
     "id": "1370",
     "name": "Plantera Trophy",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/1370.png",
     "acquisition": [
@@ -56777,8 +56732,8 @@
   {
     "id": "1371",
     "name": "Golem Trophy",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/1371.png",
     "acquisition": [
@@ -56807,8 +56762,8 @@
   {
     "id": "1606",
     "name": "Music Box (Plantera)",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/1606.png",
     "acquisition": [
@@ -56837,8 +56792,8 @@
   {
     "id": "2589",
     "name": "Duke Fishron Trophy",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/2589.png",
     "acquisition": [
@@ -56852,8 +56807,8 @@
   {
     "id": "2934",
     "name": "Ice Golem Banner",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/2934.png",
     "acquisition": [
@@ -56882,8 +56837,8 @@
   {
     "id": "3595",
     "name": "Moon Lord Trophy",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/3595.png",
     "acquisition": [
@@ -56897,8 +56852,8 @@
   {
     "id": "3718",
     "name": "Granite Golem Statue",
-    "type": "boss",
-    "category": "Bosses",
+    "type": "collectible",
+    "category": "Collectibles",
     "subcategory": "Pre-Hardmode",
     "iconPath": "/assets/icons/bosses/3718.png",
     "acquisition": [
@@ -56906,6 +56861,216 @@
     ],
     "rarity": "white",
     "gameStage": "post-plantera",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-king-slime",
+    "name": "King Slime",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Pre-Hardmode",
+    "subSubcategory": "early",
+    "iconPath": "/assets/icons/bosses/king-slime.png",
+    "acquisition": ["summon", "natural"],
+    "description": "A large slime boss with a crown, first boss many players encounter",
+    "rarity": "blue",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-eye-of-cthulhu",
+    "name": "Eye of Cthulhu",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Pre-Hardmode",
+    "subSubcategory": "early",
+    "iconPath": "/assets/icons/bosses/eye-of-cthulhu.png",
+    "acquisition": ["summon", "natural"],
+    "description": "A giant eyeball boss, typically the first major boss fight",
+    "rarity": "blue",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-eater-of-worlds",
+    "name": "Eater of Worlds",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Pre-Hardmode",
+    "subSubcategory": "mid",
+    "iconPath": "/assets/icons/bosses/eater-of-worlds.png",
+    "acquisition": ["summon", "natural"],
+    "description": "A giant worm boss found in the Corruption",
+    "rarity": "blue",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-brain-of-cthulhu",
+    "name": "Brain of Cthulhu",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Pre-Hardmode",
+    "subSubcategory": "mid",
+    "iconPath": "/assets/icons/bosses/brain-of-cthulhu.png",
+    "acquisition": ["summon", "natural"],
+    "description": "A brain boss found in the Crimson, alternative to Eater of Worlds",
+    "rarity": "blue",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-queen-bee",
+    "name": "Queen Bee",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Pre-Hardmode",
+    "subSubcategory": "mid",
+    "iconPath": "/assets/icons/bosses/queen-bee.png",
+    "acquisition": ["summon", "natural"],
+    "description": "A giant bee boss found in the Underground Jungle",
+    "rarity": "blue",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-skeletron",
+    "name": "Skeletron",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Pre-Hardmode",
+    "subSubcategory": "late",
+    "iconPath": "/assets/icons/bosses/skeletron.png",
+    "acquisition": ["summon"],
+    "description": "A skeletal boss guarding the Dungeon entrance",
+    "rarity": "blue",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-wall-of-flesh",
+    "name": "Wall of Flesh",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Pre-Hardmode",
+    "subSubcategory": "final",
+    "iconPath": "/assets/icons/bosses/wall-of-flesh.png",
+    "acquisition": ["summon"],
+    "description": "The final pre-Hardmode boss that activates Hardmode when defeated",
+    "rarity": "blue",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-the-twins",
+    "name": "The Twins",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Hardmode",
+    "subSubcategory": "mechanical",
+    "iconPath": "/assets/icons/bosses/the-twins.png",
+    "acquisition": ["summon", "natural"],
+    "description": "Twin mechanical eye bosses: Retinazer and Spazmatism",
+    "rarity": "pink",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-the-destroyer",
+    "name": "The Destroyer",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Hardmode",
+    "subSubcategory": "mechanical",
+    "iconPath": "/assets/icons/bosses/the-destroyer.png",
+    "acquisition": ["summon", "natural"],
+    "description": "A massive mechanical worm boss, hardmode version of Eater of Worlds",
+    "rarity": "pink",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-skeletron-prime",
+    "name": "Skeletron Prime",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Hardmode",
+    "subSubcategory": "mechanical",
+    "iconPath": "/assets/icons/bosses/skeletron-prime.png",
+    "acquisition": ["summon", "natural"],
+    "description": "A mechanical version of Skeletron with four arms",
+    "rarity": "pink",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-plantera",
+    "name": "Plantera",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Hardmode",
+    "subSubcategory": "post-mechanical",
+    "iconPath": "/assets/icons/bosses/plantera.png",
+    "acquisition": ["summon"],
+    "description": "A giant plant boss found in the Underground Jungle after defeating all mechanical bosses",
+    "rarity": "pink",
+    "gameStage": "post-plantera",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-golem",
+    "name": "Golem",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Hardmode",
+    "subSubcategory": "post-plantera",
+    "iconPath": "/assets/icons/bosses/golem.png",
+    "acquisition": ["summon"],
+    "description": "A stone golem boss fought in the Jungle Temple",
+    "rarity": "pink",
+    "gameStage": "post-plantera",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-duke-fishron",
+    "name": "Duke Fishron",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Hardmode",
+    "subSubcategory": "optional",
+    "iconPath": "/assets/icons/bosses/duke-fishron.png",
+    "acquisition": ["summon"],
+    "description": "A powerful pig-shark hybrid boss summoned by fishing with Truffle Worm",
+    "rarity": "pink",
+    "gameStage": "post-plantera",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-moon-lord",
+    "name": "Moon Lord",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Hardmode",
+    "subSubcategory": "final",
+    "iconPath": "/assets/icons/bosses/moon-lord.png",
+    "acquisition": ["summon"],
+    "description": "The final boss of Terraria, summoned after defeating the Lunar Events",
+    "rarity": "red",
+    "gameStage": "post-golem",
     "owned": false,
     "collectionType": "collectible"
   }
