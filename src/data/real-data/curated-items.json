@@ -5935,10 +5935,10 @@
   {
     "id": "54",
     "name": "Hermes Boots",
-    "type": "armor",
-    "category": "Armor",
-    "subcategory": "Legs",
-    "iconPath": "/assets/icons/armor/54.png",
+    "type": "accessory",
+    "category": "Accessories",
+    "subcategory": "Movement",
+    "iconPath": "/assets/icons/accessories/54.png",
     "acquisition": [
       "find"
     ],
@@ -14320,10 +14320,10 @@
   {
     "id": "188",
     "name": "Healing Potion",
-    "type": "accessory",
-    "category": "Accessories",
-    "subcategory": "Utility",
-    "iconPath": "/assets/icons/accessories/188.png",
+    "type": "consumable",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "iconPath": "/assets/icons/consumables/188.png",
     "acquisition": [
       "craft"
     ],
@@ -14335,10 +14335,10 @@
   {
     "id": "189",
     "name": "Mana Potion",
-    "type": "accessory",
-    "category": "Accessories",
-    "subcategory": "Utility",
-    "iconPath": "/assets/icons/accessories/189.png",
+    "type": "consumable",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "iconPath": "/assets/icons/consumables/189.png",
     "acquisition": [
       "craft"
     ],
@@ -17485,10 +17485,10 @@
   {
     "id": "499",
     "name": "Greater Healing Potion",
-    "type": "accessory",
-    "category": "Accessories",
-    "subcategory": "Utility",
-    "iconPath": "/assets/icons/accessories/499.png",
+    "type": "consumable",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "iconPath": "/assets/icons/consumables/499.png",
     "acquisition": [
       "craft"
     ],
@@ -17500,10 +17500,10 @@
   {
     "id": "500",
     "name": "Greater Mana Potion",
-    "type": "accessory",
-    "category": "Accessories",
-    "subcategory": "Utility",
-    "iconPath": "/assets/icons/accessories/500.png",
+    "type": "consumable",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "iconPath": "/assets/icons/consumables/500.png",
     "acquisition": [
       "find"
     ],
@@ -36010,10 +36010,10 @@
   {
     "id": "2209",
     "name": "Super Mana Potion",
-    "type": "accessory",
-    "category": "Accessories",
-    "subcategory": "Utility",
-    "iconPath": "/assets/icons/accessories/2209.png",
+    "type": "consumable",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "iconPath": "/assets/icons/consumables/2209.png",
     "acquisition": [
       "craft"
     ],
@@ -51580,10 +51580,10 @@
   {
     "id": "3544",
     "name": "Super Healing Potion",
-    "type": "accessory",
-    "category": "Accessories",
-    "subcategory": "Utility",
-    "iconPath": "/assets/icons/accessories/3544.png",
+    "type": "consumable",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "iconPath": "/assets/icons/consumables/3544.png",
     "acquisition": [
       "craft"
     ],
