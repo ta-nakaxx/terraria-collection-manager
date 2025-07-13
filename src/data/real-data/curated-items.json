@@ -56745,21 +56745,6 @@
     "collectionType": "collectible"
   },
   {
-    "id": "1423",
-    "name": "The Twins Have Awoken",
-    "type": "boss",
-    "category": "Bosses",
-    "subcategory": "Pre-Hardmode",
-    "iconPath": "/assets/icons/bosses/1423.png",
-    "acquisition": [
-      "find"
-    ],
-    "rarity": "white",
-    "gameStage": "hardmode",
-    "owned": false,
-    "collectionType": "collectible"
-  },
-  {
     "id": "1606",
     "name": "Music Box (Plantera)",
     "type": "collectible",
@@ -56771,21 +56756,6 @@
     ],
     "rarity": "white",
     "gameStage": "hardmode",
-    "owned": false,
-    "collectionType": "collectible"
-  },
-  {
-    "id": "1846",
-    "name": "Jacking Skeletron",
-    "type": "boss",
-    "category": "Bosses",
-    "subcategory": "Pre-Hardmode",
-    "iconPath": "/assets/icons/bosses/1846.png",
-    "acquisition": [
-      "find"
-    ],
-    "rarity": "white",
-    "gameStage": "pre-hardmode",
     "owned": false,
     "collectionType": "collectible"
   },
@@ -56816,21 +56786,6 @@
     ],
     "rarity": "white",
     "gameStage": "post-plantera",
-    "owned": false,
-    "collectionType": "collectible"
-  },
-  {
-    "id": "3292",
-    "name": "The Eye of Cthulhu",
-    "type": "boss",
-    "category": "Bosses",
-    "subcategory": "Pre-Hardmode",
-    "iconPath": "/assets/icons/bosses/3292.png",
-    "acquisition": [
-      "find"
-    ],
-    "rarity": "white",
-    "gameStage": "pre-hardmode",
     "owned": false,
     "collectionType": "collectible"
   },
@@ -56970,6 +56925,21 @@
     "collectionType": "collectible"
   },
   {
+    "id": "boss-deerclops",
+    "name": "Deerclops",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Pre-Hardmode",
+    "subSubcategory": "crossover",
+    "iconPath": "/assets/icons/bosses/deerclops.png",
+    "acquisition": ["summon", "natural"],
+    "description": "A winter-themed boss from Don't Starve crossover",
+    "rarity": "blue",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
     "id": "boss-the-twins",
     "name": "The Twins",
     "type": "boss",
@@ -57009,6 +56979,21 @@
     "iconPath": "/assets/icons/bosses/skeletron-prime.png",
     "acquisition": ["summon", "natural"],
     "description": "A mechanical version of Skeletron with four arms",
+    "rarity": "pink",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-queen-slime",
+    "name": "Queen Slime",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Hardmode",
+    "subSubcategory": "early",
+    "iconPath": "/assets/icons/bosses/queen-slime.png",
+    "acquisition": ["summon", "natural"],
+    "description": "A large crystalline slime boss found in the Hallow",
     "rarity": "pink",
     "gameStage": "hardmode",
     "owned": false,
@@ -57056,6 +57041,36 @@
     "description": "A powerful pig-shark hybrid boss summoned by fishing with Truffle Worm",
     "rarity": "pink",
     "gameStage": "post-plantera",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-empress-of-light",
+    "name": "Empress of Light",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Hardmode",
+    "subSubcategory": "optional",
+    "iconPath": "/assets/icons/bosses/empress-of-light.png",
+    "acquisition": ["summon"],
+    "description": "A powerful fairy boss summoned by killing a Prismatic Lacewing",
+    "rarity": "pink",
+    "gameStage": "post-plantera",
+    "owned": false,
+    "collectionType": "collectible"
+  },
+  {
+    "id": "boss-lunatic-cultist",
+    "name": "Lunatic Cultist",
+    "type": "boss",
+    "category": "Bosses",
+    "subcategory": "Hardmode",
+    "subSubcategory": "late",
+    "iconPath": "/assets/icons/bosses/lunatic-cultist.png",
+    "acquisition": ["summon"],
+    "description": "A mysterious cultist boss that starts the Lunar Events",
+    "rarity": "pink",
+    "gameStage": "post-golem",
     "owned": false,
     "collectionType": "collectible"
   },
