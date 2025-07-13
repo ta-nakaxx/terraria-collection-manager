@@ -47,13 +47,15 @@
   {
     "id": "29",
     "name": "Life Crystal",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Magic",
-    "iconPath": "/assets/icons/weapons/29.png",
+    "type": "accessory",
+    "category": "Accessories",
+    "subcategory": "Permanent",
+    "subSubcategory": "health",
+    "iconPath": "/assets/icons/accessories/29.png",
     "acquisition": [
       "find"
     ],
+    "description": "Permanently increases maximum health by 20. Can be used up to 15 times.",
     "rarity": "white",
     "gameStage": "pre-hardmode",
     "owned": false,
@@ -137,10 +139,12 @@
   {
     "id": "80",
     "name": "Copper Chainmail",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Melee",
-    "iconPath": "/assets/icons/weapons/80.png",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chestplate",
+    "description": "Basic chest armor made from copper for torso protection",
+    "iconPath": "/assets/icons/armor/80.png",
     "acquisition": [
       "craft"
     ],
@@ -152,10 +156,12 @@
   {
     "id": "81",
     "name": "Iron Chainmail",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Melee",
-    "iconPath": "/assets/icons/weapons/81.png",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chestplate",
+    "description": "Basic chest armor made from iron for torso protection",
+    "iconPath": "/assets/icons/armor/81.png",
     "acquisition": [
       "craft"
     ],
@@ -167,10 +173,12 @@
   {
     "id": "82",
     "name": "Silver Chainmail",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Melee",
-    "iconPath": "/assets/icons/weapons/82.png",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chestplate",
+    "description": "Basic chest armor made from silver for torso protection",
+    "iconPath": "/assets/icons/armor/82.png",
     "acquisition": [
       "craft"
     ],
@@ -182,10 +190,12 @@
   {
     "id": "83",
     "name": "Gold Chainmail",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Melee",
-    "iconPath": "/assets/icons/weapons/83.png",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chestplate",
+    "description": "Basic chest armor made from gold for torso protection",
+    "iconPath": "/assets/icons/armor/83.png",
     "acquisition": [
       "craft"
     ],
@@ -272,17 +282,19 @@
   {
     "id": "109",
     "name": "Mana Crystal",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Magic",
-    "iconPath": "/assets/icons/weapons/109.png",
+    "type": "accessory",
+    "category": "Accessories",
+    "subcategory": "Permanent",
+    "subSubcategory": "mana",
+    "iconPath": "/assets/icons/accessories/109.png",
     "acquisition": [
       "craft"
     ],
     "rarity": "white",
     "gameStage": "pre-hardmode",
     "owned": false,
-    "collectionType": "collectible"
+    "collectionType": "collectible",
+    "description": "Permanently increases maximum mana by 20. Can be used up to 9 times."
   },
   {
     "id": "111",
@@ -782,15 +794,17 @@
   {
     "id": "379",
     "name": "Mythril Chainmail",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Melee",
-    "iconPath": "/assets/icons/weapons/379.png",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chestplate",
+    "description": "Basic chest armor made from mythril for torso protection",
+    "iconPath": "/assets/icons/armor/379.png",
     "acquisition": [
       "craft"
     ],
-    "rarity": "white",
-    "gameStage": "pre-hardmode",
+    "rarity": "green",
+    "gameStage": "hardmode",
     "owned": false,
     "collectionType": "collectible"
   },
@@ -1307,10 +1321,12 @@
   {
     "id": "688",
     "name": "Tin Chainmail",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Melee",
-    "iconPath": "/assets/icons/weapons/688.png",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chestplate",
+    "description": "Basic chest armor made from tin for torso protection",
+    "iconPath": "/assets/icons/armor/688.png",
     "acquisition": [
       "craft"
     ],
@@ -1322,10 +1338,12 @@
   {
     "id": "691",
     "name": "Lead Chainmail",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Melee",
-    "iconPath": "/assets/icons/weapons/691.png",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chestplate",
+    "description": "Basic chest armor made from lead for torso protection",
+    "iconPath": "/assets/icons/armor/691.png",
     "acquisition": [
       "craft"
     ],
@@ -1337,10 +1355,12 @@
   {
     "id": "694",
     "name": "Tungsten Chainmail",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Melee",
-    "iconPath": "/assets/icons/weapons/694.png",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chestplate",
+    "description": "Basic chest armor made from tungsten for torso protection",
+    "iconPath": "/assets/icons/armor/694.png",
     "acquisition": [
       "craft"
     ],
@@ -1352,10 +1372,12 @@
   {
     "id": "697",
     "name": "Platinum Chainmail",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Melee",
-    "iconPath": "/assets/icons/weapons/697.png",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chestplate",
+    "description": "Basic chest armor made from platinum for torso protection",
+    "iconPath": "/assets/icons/armor/697.png",
     "acquisition": [
       "craft"
     ],
@@ -2522,10 +2544,10 @@
   {
     "id": "1642",
     "name": "Enchanted Sword Banner",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Melee",
-    "iconPath": "/assets/icons/weapons/1642.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Banners",
+    "iconPath": "/assets/icons/collectibles/1642.png",
     "acquisition": [
       "find"
     ],
@@ -3467,10 +3489,10 @@
   {
     "id": "2448",
     "name": "Swordfish Trophy",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Melee",
-    "iconPath": "/assets/icons/weapons/2448.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Trophies",
+    "iconPath": "/assets/icons/collectibles/2448.png",
     "acquisition": [
       "find"
     ],
@@ -4082,10 +4104,10 @@
   {
     "id": "2951",
     "name": "Martian Raygunner Banner",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "iconPath": "/assets/icons/weapons/2951.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Banners",
+    "iconPath": "/assets/icons/collectibles/2951.png",
     "acquisition": [
       "find"
     ],
@@ -4097,10 +4119,10 @@
   {
     "id": "2952",
     "name": "Martian Scutlix Gunner Banner",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "iconPath": "/assets/icons/weapons/2952.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Banners",
+    "iconPath": "/assets/icons/collectibles/2952.png",
     "acquisition": [
       "find"
     ],
@@ -4112,10 +4134,10 @@
   {
     "id": "2966",
     "name": "Rainbow Slime Banner",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "iconPath": "/assets/icons/weapons/2966.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Banners",
+    "iconPath": "/assets/icons/collectibles/2966.png",
     "acquisition": [
       "find"
     ],
@@ -4127,10 +4149,10 @@
   {
     "id": "2975",
     "name": "Skeleton Sniper Banner",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "iconPath": "/assets/icons/weapons/2975.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Banners",
+    "iconPath": "/assets/icons/collectibles/2975.png",
     "acquisition": [
       "find"
     ],
@@ -4142,10 +4164,11 @@
   {
     "id": "2998",
     "name": "Summoner Emblem",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Summoner",
-    "iconPath": "/assets/icons/weapons/2998.png",
+    "type": "accessory",
+    "category": "Accessories",
+    "subcategory": "Combat",
+    "subSubcategory": "emblem",
+    "iconPath": "/assets/icons/accessories/2998.png",
     "acquisition": [
       "find"
     ],
@@ -4862,10 +4885,10 @@
   {
     "id": "3390",
     "name": "Goblin Summoner Banner",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Summoner",
-    "iconPath": "/assets/icons/weapons/3390.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Banners",
+    "iconPath": "/assets/icons/collectibles/3390.png",
     "acquisition": [
       "find"
     ],
@@ -4877,10 +4900,10 @@
   {
     "id": "3420",
     "name": "Stargazer Banner",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "iconPath": "/assets/icons/weapons/3420.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Banners",
+    "iconPath": "/assets/icons/collectibles/3420.png",
     "acquisition": [
       "find"
     ],
@@ -4892,10 +4915,10 @@
   {
     "id": "3424",
     "name": "Small Star Cell Banner",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "iconPath": "/assets/icons/weapons/3424.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Banners",
+    "iconPath": "/assets/icons/collectibles/3424.png",
     "acquisition": [
       "find"
     ],
@@ -4907,10 +4930,10 @@
   {
     "id": "3425",
     "name": "Star Cell Banner",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "iconPath": "/assets/icons/weapons/3425.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Banners",
+    "iconPath": "/assets/icons/collectibles/3425.png",
     "acquisition": [
       "find"
     ],
@@ -4922,10 +4945,10 @@
   {
     "id": "3444",
     "name": "Pirate Crossbower Banner",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "iconPath": "/assets/icons/weapons/3444.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Banners",
+    "iconPath": "/assets/icons/collectibles/3444.png",
     "acquisition": [
       "find"
     ],
@@ -5717,10 +5740,10 @@
   {
     "id": "3792",
     "name": "Crystal Thresher Banner",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Magic",
-    "iconPath": "/assets/icons/weapons/3792.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Banners",
+    "iconPath": "/assets/icons/collectibles/3792.png",
     "acquisition": [
       "find"
     ],
@@ -5822,10 +5845,10 @@
   {
     "id": "3845",
     "name": "Etherian Javelin Thrower Banner",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Ranged",
-    "iconPath": "/assets/icons/weapons/3845.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Banners",
+    "iconPath": "/assets/icons/collectibles/3845.png",
     "acquisition": [
       "find"
     ],
@@ -11687,10 +11710,10 @@
   {
     "id": "3441",
     "name": "Pirate Captain Banner",
-    "type": "armor",
-    "category": "Armor",
-    "subcategory": "Head",
-    "iconPath": "/assets/icons/armor/3441.png",
+    "type": "collectible",
+    "category": "Collectibles",
+    "subcategory": "Banners",
+    "iconPath": "/assets/icons/collectibles/3441.png",
     "acquisition": [
       "find"
     ],
