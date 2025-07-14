@@ -68,15 +68,18 @@ export default function ItemIcon({ item, size = 32, className = '' }: ItemIconPr
   // レア度カラー
   const rarityColor = RARITY_COLORS[item.rarity as keyof typeof RARITY_COLORS] || '#FFFFFF';
 
-  const handleImageError = () => {
+  const handleImageError = (error: React.SyntheticEvent<HTMLImageElement, Event>) => {
+    console.warn(`Icon load failed for ${item.name} (ID: ${item.id}): ${iconPath}`, error);
     setImageError(true);
   };
 
   const handleImageLoad = () => {
+    console.log(`Icon loaded successfully for ${item.name} (ID: ${item.id}): ${iconPath}`);
     setImageLoaded(true);
   };
 
-  const handleFallbackError = () => {
+  const handleFallbackError = (error: React.SyntheticEvent<HTMLImageElement, Event>) => {
+    console.warn(`Fallback icon load failed for ${item.name} (ID: ${item.id}): ${fallbackIcon}`, error);
     setFallbackError(true);
   };
 
