@@ -1,7 +1,7 @@
 "use client";
 
 import { Item } from '@/types';
-import ItemIcon from '@/components/ui/ItemIcon';
+import SimpleItemIcon from '@/components/SimpleItemIcon';
 // Lightweight close icon
 const CloseIcon = () => (
   <svg className="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -51,11 +51,11 @@ export function ItemDetailsPanel({ item, onClose, onToggleOwned }: ItemDetailsPa
       <div className="space-y-4">
         <div className="flex flex-col items-center space-y-2 pb-4 border-b border-gray-200/60">
           <div className="w-16 h-16 bg-gray-50 rounded-xl flex items-center justify-center shadow-inner">
-            <ItemIcon 
+            <SimpleItemIcon 
               key={item.id}
               item={item}
               size={48}
-              showHoverEffect={false}
+              showIcon={true}
             />
           </div>
           <h3 className={`text-lg font-bold text-center ${rarityColors[item.rarity]}`}>{item.name}</h3>
