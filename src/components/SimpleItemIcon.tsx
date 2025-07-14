@@ -12,6 +12,7 @@ interface SimpleItemIconProps {
     id: string;
     name: string;
     category: string;
+    iconPath: string;
     rarity?: string;
     owned?: boolean;
   };
@@ -50,6 +51,9 @@ export default function SimpleItemIcon({
   className = '',
   showIcon = true 
 }: SimpleItemIconProps) {
+  const [imageError, setImageError] = React.useState(false);
+  const [imageLoading, setImageLoading] = React.useState(true);
+  
   const rarityColor = RARITY_COLORS[item.rarity as keyof typeof RARITY_COLORS] || '#FFFFFF';
   const categoryEmoji = CATEGORY_EMOJI[item.category as keyof typeof CATEGORY_EMOJI] || '📦';
 
@@ -58,6 +62,16 @@ export default function SimpleItemIcon({
   const borderStyle = isOwned ? 'border-green-400' : 'border-gray-600';
   const bgStyle = isOwned ? 'bg-green-50' : 'bg-gray-800';
   const opacityStyle = isOwned ? 'opacity-100' : 'opacity-60';
+
+  const handleImageLoad = () => {
+    setImageLoading(false);
+    setImageError(false);
+  };
+
+  const handleImageError = () => {
+    setImageLoading(false);
+    setImageError(true);
+  };
 
   return (
     <div 
@@ -73,14 +87,37 @@ export default function SimpleItemIcon({
       }}
       title={`${item.name} (ID: ${item.id})`}
     >
-      {/* カテゴリエモジ表示 */}
-      {showIcon && (
+      {/* 実際のアイコン表示 */}
+      {showIcon && !imageError && (
+        /* eslint-disable-next-line @next/next/no-img-element */
+        <img
+          src={item.iconPath}
+          alt={item.name}
+          className={`object-contain transition-opacity duration-200 ${
+            imageLoading ? 'opacity-0' : 'opacity-100'
+          }`}
+          style={{ width: size * 0.8, height: size * 0.8 }}
+          onLoad={handleImageLoad}
+          onError={handleImageError}
+        />
+      )}
+      
+      {/* フォールバック: カテゴリエモジ表示 */}
+      {showIcon && imageError && (
         <span 
           style={{ fontSize: size * 0.5 }}
           className="select-none"
         >
           {categoryEmoji}
         </span>
+      )}
+      
+      {/* ローディング表示 */}
+      {imageLoading && !imageError && (
+        <div 
+          className="animate-pulse bg-gray-300 rounded"
+          style={{ width: size * 0.6, height: size * 0.6 }}
+        />
       )}
       
       {/* 所持状態チェックマーク */}
