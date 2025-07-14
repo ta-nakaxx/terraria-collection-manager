@@ -5,6 +5,7 @@
 import React from 'react';
 import Image from 'next/image';
 import ItemIcon from '@/components/ItemIcon';
+import { generateItemIcon, svgToDataUri } from '@/utils/iconGenerator';
 
 const testItems = [
   {
@@ -83,6 +84,28 @@ export default function TestIconsPage() {
         </div>
       </section>
 
+      <section className="mb-8">
+        <h2 className="text-xl font-semibold mb-4">Generated Icons Test</h2>
+        <div className="flex gap-4 items-center">
+          {testItems.map((item) => {
+            const generatedSvg = generateItemIcon(item);
+            const dataUri = svgToDataUri(generatedSvg);
+            return (
+              <div key={`generated-${item.id}`} className="text-center">
+                <p className="mb-2">{item.name} (Generated)</p>
+                <Image
+                  src={dataUri}
+                  alt={`Generated ${item.name}`}
+                  width={32}
+                  height={32}
+                  className="border border-white"
+                />
+              </div>
+            );
+          })}
+        </div>
+      </section>
+
       <section>
         <h2 className="text-xl font-semibold mb-4">File Path Debug</h2>
         <div className="space-y-2 text-sm">
@@ -92,6 +115,7 @@ export default function TestIconsPage() {
             <li>/assets/icons/consumables/29.png</li>
             <li>/assets/icons/default/weapon.svg</li>
           </ul>
+          <p className="mt-4">Dynamic icon generation fallback system now available!</p>
         </div>
       </section>
     </div>

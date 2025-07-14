@@ -14,15 +14,15 @@ __tests__/
 jest.config.js
 jest.setup.js
 
-# 開発用スクリプト
-scripts/
+# 開発用スクリプト（本番ビルドで必要なものは除外しない）
+scripts/data-conversion/
 data/source/
 data/stats/
 # 一時的にreal-dataも除外
 src/data/real-data-backup/
 
-# TypeScript設定（本番では不要）
-tsconfig.node.json
+# TypeScript設定（本番では不要、ただしビルドスクリプトで使用するものは保持）
+# tsconfig.node.json
 
 # ソースマップ
 **/*.map

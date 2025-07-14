@@ -3,8 +3,9 @@
  * アイコンファイルが存在しない場合のフォールバック機能付き
  */
 
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import Image from 'next/image';
+import { generateItemIcon, svgToDataUri } from '@/utils/iconGenerator';
 
 interface ItemIconProps {
   item: {
@@ -65,6 +66,12 @@ export default function ItemIcon({ item, size = 32, className = '' }: ItemIconPr
   const fallbackIcon = CATEGORY_FALLBACKS[item.category as keyof typeof CATEGORY_FALLBACKS] || '/assets/icons/placeholder.svg';
   const fallbackEmoji = EMOJI_FALLBACKS[item.category as keyof typeof EMOJI_FALLBACKS] || '📦';
   
+  // 動的生成されたアイコン（最終フォールバック）
+  const generatedIcon = useMemo(() => {
+    const svg = generateItemIcon(item);
+    return svgToDataUri(svg);
+  }, [item.category, item.rarity]);
+  
   // レア度カラー
   const rarityColor = RARITY_COLORS[item.rarity as keyof typeof RARITY_COLORS] || '#FFFFFF';
 
@@ -83,26 +90,18 @@ export default function ItemIcon({ item, size = 32, className = '' }: ItemIconPr
     setFallbackError(true);
   };
 
-  // 両方の画像が読み込めない場合の最終フォールバック
+  // 両方の画像が読み込めない場合、動的生成されたアイコンを使用
   if (imageError && fallbackError) {
     return (
-      <div 
-        className={`flex items-center justify-center bg-gray-800 border rounded ${className}`}
-        style={{ 
-          width: size, 
-          height: size,
-          borderColor: rarityColor,
-          borderWidth: '2px'
-        }}
-        title={`${item.name} (ID: ${item.id}) - アイコン未実装`}
-      >
-        <span 
-          style={{ fontSize: size * 0.6 }}
-          className="opacity-80"
-        >
-          {fallbackEmoji}
-        </span>
-      </div>
+      <Image
+        src={generatedIcon}
+        alt={`Generated ${item.category} icon`}
+        width={size}
+        height={size}
+        className={`rounded border-2 opacity-80 ${className}`}
+        style={{ borderColor: rarityColor }}
+        title={`${item.name} (ID: ${item.id}) - 動的生成アイコン`}
+      />
     );
   }
 
