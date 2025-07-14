@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Generated icons (will be auto-generated on deployment)
+/public/assets/icons/**/*.png
+/public/assets/icons/**/*.svg
+!/public/assets/icons/default/
+!/public/assets/icons/placeholder.svg
