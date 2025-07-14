@@ -3,6 +3,21 @@
  * 分類間違いを検出し、データ品質を保証する
  */
 
+export interface Item {
+  id: string;
+  name: string;
+  type: string;
+  category: string;
+  subcategory?: string;
+  subSubcategory?: string;
+  iconPath: string;
+  description?: string;
+  rarity?: string;
+  gameStage?: string;
+  owned?: boolean;
+  collectionType?: string;
+}
+
 export interface ValidationResult {
   isValid: boolean;
   errors: ValidationError[];
@@ -100,7 +115,7 @@ export const CLASSIFICATION_RULES = {
 /**
  * 単一アイテムの分類を検証
  */
-export function validateItemClassification(item: any): ValidationResult {
+export function validateItemClassification(item: Item): ValidationResult {
   const errors: ValidationError[] = [];
   const warnings: ValidationWarning[] = [];
 
@@ -193,7 +208,7 @@ export function validateItemClassification(item: any): ValidationResult {
 /**
  * 全アイテムデータの検証
  */
-export function validateAllItems(items: any[]): ValidationResult {
+export function validateAllItems(items: Item[]): ValidationResult {
   const allErrors: ValidationError[] = [];
   const allWarnings: ValidationWarning[] = [];
 

@@ -10,16 +10,7 @@ import * as path from 'path';
 
 const DATA_PATH = path.join(__dirname, '../src/data/real-data/curated-items.json');
 
-interface Item {
-  id: string;
-  name: string;
-  type: string;
-  category: string;
-  subcategory?: string;
-  subSubcategory?: string;
-  iconPath: string;
-  description?: string;
-}
+import { type Item } from '../src/utils/itemValidation';
 
 // 建材・ブロック系パターン
 const BUILDING_PATTERNS = [

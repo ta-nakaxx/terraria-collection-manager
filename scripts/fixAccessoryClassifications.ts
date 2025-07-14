@@ -10,20 +10,13 @@ import * as path from 'path';
 
 const DATA_PATH = path.join(__dirname, '../src/data/real-data/curated-items.json');
 
-interface Item {
-  id: string;
-  name: string;
-  type: string;
-  category: string;
-  subcategory?: string;
-  subSubcategory?: string;
-  iconPath: string;
-  description?: string;
-  acquisition?: string[];
-  rarity?: string;
-  gameStage?: string;
-  owned?: boolean;
-  collectionType?: string;
+import { type Item } from '../src/utils/itemValidation';
+
+interface ModificationResults {
+  keep: Item[];
+  moveToConsumables: Item[];
+  moveToCollectibles: Item[];
+  delete: Item[];
 }
 
 // 装飾品パターン（Collectiblesに移動）
@@ -112,11 +105,11 @@ async function main() {
     console.log(`📊 現在のアクセサリー数: ${accessories.length}\n`);
     
     // 分類処理
-    const results = {
-      keep: [] as Item[],
-      moveToConsumables: [] as Item[],
-      moveToCollectibles: [] as Item[],
-      delete: [] as Item[]
+    const results: ModificationResults = {
+      keep: [],
+      moveToConsumables: [],
+      moveToCollectibles: [],
+      delete: []
     };
     
     for (const item of accessories) {
@@ -214,7 +207,7 @@ async function main() {
 }
 
 function generateModificationReport(
-  results: any,
+  results: ModificationResults,
   categoryStats: Record<string, number>
 ): string {
   let report = '=== アクセサリー分類修正レポート ===\n\n';

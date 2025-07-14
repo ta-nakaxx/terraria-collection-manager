@@ -7,7 +7,7 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
-import { validateAllItems, generateValidationReport } from '../src/utils/itemValidation';
+import { validateAllItems, generateValidationReport, type Item } from '../src/utils/itemValidation';
 
 const DATA_PATH = path.join(__dirname, '../src/data/real-data/curated-items.json');
 
@@ -22,7 +22,7 @@ async function main() {
     }
 
     const rawData = fs.readFileSync(DATA_PATH, 'utf-8');
-    const items = JSON.parse(rawData);
+    const items: Item[] = JSON.parse(rawData);
     
     console.log(`📊 総アイテム数: ${items.length}`);
     
