@@ -6,6 +6,7 @@
  */
 
 import React from 'react';
+import Image from 'next/image';
 
 interface SimpleItemIconProps {
   item: {
@@ -21,15 +22,15 @@ interface SimpleItemIconProps {
   showIcon?: boolean;
 }
 
-// カテゴリ別エモジ（軽量フォールバック）
-const CATEGORY_EMOJI = {
-  'Weapons': '⚔️',
-  'Armor': '🛡️', 
-  'Accessories': '💎',
-  'Consumables': '🧪',
-  'Collectibles': '🏆',
-  'NPCs': '👤',
-  'Bosses': '💀'
+// カテゴリ別シンプルテキスト（軽量フォールバック）
+const CATEGORY_TEXT = {
+  'Weapons': 'W',
+  'Armor': 'A', 
+  'Accessories': 'C',
+  'Consumables': 'P',
+  'Collectibles': 'T',
+  'NPCs': 'N',
+  'Bosses': 'B'
 } as const;
 
 // レア度別カラー
@@ -55,7 +56,10 @@ export default function SimpleItemIcon({
   const [imageLoading, setImageLoading] = React.useState(true);
   
   const rarityColor = RARITY_COLORS[item.rarity as keyof typeof RARITY_COLORS] || '#FFFFFF';
-  const categoryEmoji = CATEGORY_EMOJI[item.category as keyof typeof CATEGORY_EMOJI] || '📦';
+  const categoryText = CATEGORY_TEXT[item.category as keyof typeof CATEGORY_TEXT] || '?';
+  
+  // アイコンパスの正規化
+  const normalizedIconPath = item.iconPath.startsWith('/') ? item.iconPath : `/${item.iconPath}`;
 
   // 所持状態に応じたスタイル
   const isOwned = item.owned;
@@ -71,6 +75,7 @@ export default function SimpleItemIcon({
   const handleImageError = () => {
     setImageLoading(false);
     setImageError(true);
+    console.warn(`Failed to load icon: ${normalizedIconPath} for ${item.name}`);
   };
 
   return (
@@ -89,27 +94,33 @@ export default function SimpleItemIcon({
     >
       {/* 実際のアイコン表示 */}
       {showIcon && !imageError && (
-        /* eslint-disable-next-line @next/next/no-img-element */
-        <img
-          src={item.iconPath}
+        <Image
+          src={normalizedIconPath}
           alt={item.name}
+          width={Math.round(size * 0.8)}
+          height={Math.round(size * 0.8)}
           className={`object-contain transition-opacity duration-200 ${
             imageLoading ? 'opacity-0' : 'opacity-100'
           }`}
-          style={{ width: size * 0.8, height: size * 0.8 }}
           onLoad={handleImageLoad}
           onError={handleImageError}
+          priority={false}
+          unoptimized={normalizedIconPath.endsWith('.svg')}
         />
       )}
       
-      {/* フォールバック: カテゴリエモジ表示 */}
+      {/* フォールバック: カテゴリテキスト表示 */}
       {showIcon && imageError && (
-        <span 
-          style={{ fontSize: size * 0.5 }}
-          className="select-none"
+        <div 
+          className="flex items-center justify-center bg-gray-600 text-white font-bold rounded"
+          style={{ 
+            width: size * 0.8, 
+            height: size * 0.8,
+            fontSize: size * 0.3
+          }}
         >
-          {categoryEmoji}
-        </span>
+          {categoryText}
+        </div>
       )}
       
       {/* ローディング表示 */}

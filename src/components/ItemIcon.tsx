@@ -72,7 +72,7 @@ export default function ItemIcon({ item, size = 32, className = '' }: ItemIconPr
   const generatedIcon = useMemo(() => {
     const svg = generateItemIcon(item);
     return svgToDataUri(svg);
-  }, [item.category, item.rarity]);
+  }, [item]);
   
   // レア度カラー
   const rarityColor = RARITY_COLORS[item.rarity as keyof typeof RARITY_COLORS] || '#FFFFFF';
