@@ -60,6 +60,13 @@ export default function SimpleItemIcon({
   
   // アイコンパスの正規化
   const normalizedIconPath = item.iconPath.startsWith('/') ? item.iconPath : `/${item.iconPath}`;
+  
+  // デバッグログ（最初の数個のアイテムのみ）
+  React.useEffect(() => {
+    if (parseInt(item.id) <= 10) {
+      console.log(`Loading icon for ${item.name} (ID: ${item.id}): ${normalizedIconPath}`);
+    }
+  }, []);
 
   // 所持状態に応じたスタイル
   const isOwned = item.owned;
@@ -75,7 +82,7 @@ export default function SimpleItemIcon({
   const handleImageError = () => {
     setImageLoading(false);
     setImageError(true);
-    console.warn(`Failed to load icon: ${normalizedIconPath} for ${item.name}`);
+    console.warn(`Failed to load icon: ${normalizedIconPath} for ${item.name} (ID: ${item.id})`);
   };
 
   return (
@@ -105,7 +112,7 @@ export default function SimpleItemIcon({
           onLoad={handleImageLoad}
           onError={handleImageError}
           priority={false}
-          unoptimized={normalizedIconPath.endsWith('.svg')}
+          unoptimized={true}
         />
       )}
       
