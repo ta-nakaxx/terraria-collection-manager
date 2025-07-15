@@ -74,15 +74,29 @@ export default function SimpleItemIcon({
   const opacityStyle = isOwned ? 'opacity-100' : 'opacity-60';
 
   const handleImageLoad = () => {
+    console.log(`✅ Icon loaded successfully: ${item.name} (ID: ${item.id}) - ${normalizedIconPath}`);
     setImageLoading(false);
     setImageError(false);
   };
 
-  const handleImageError = () => {
+  const handleImageError = (e: React.SyntheticEvent<HTMLImageElement>) => {
+    console.error(`❌ Failed to load icon: ${normalizedIconPath} for ${item.name} (ID: ${item.id})`, e);
     setImageLoading(false);
     setImageError(true);
-    console.warn(`Failed to load icon: ${normalizedIconPath} for ${item.name} (ID: ${item.id})`);
   };
+
+  // タイムアウトによるフォールバック（3秒後）
+  React.useEffect(() => {
+    const timeout = setTimeout(() => {
+      if (imageLoading) {
+        console.warn(`⏰ Timeout loading icon: ${item.name} (ID: ${item.id}) - forcing fallback`);
+        setImageLoading(false);
+        setImageError(true);
+      }
+    }, 3000);
+
+    return () => clearTimeout(timeout);
+  }, [imageLoading, item.name, item.id]);
 
   return (
     <div 
@@ -110,6 +124,8 @@ export default function SimpleItemIcon({
           style={{ width: size * 0.8, height: size * 0.8 }}
           onLoad={handleImageLoad}
           onError={handleImageError}
+          loading="eager"
+          decoding="sync"
         />
       )}
       
