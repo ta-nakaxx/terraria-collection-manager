@@ -6,7 +6,6 @@
  */
 
 import React from 'react';
-import Image from 'next/image';
 
 interface SimpleItemIconProps {
   item: {
@@ -101,18 +100,16 @@ export default function SimpleItemIcon({
     >
       {/* 実際のアイコン表示 */}
       {showIcon && !imageError && (
-        <Image
+        /* eslint-disable-next-line @next/next/no-img-element */
+        <img
           src={normalizedIconPath}
           alt={item.name}
-          width={Math.round(size * 0.8)}
-          height={Math.round(size * 0.8)}
           className={`object-contain transition-opacity duration-200 ${
             imageLoading ? 'opacity-0' : 'opacity-100'
           }`}
+          style={{ width: size * 0.8, height: size * 0.8 }}
           onLoad={handleImageLoad}
           onError={handleImageError}
-          priority={false}
-          unoptimized={true}
         />
       )}
       
