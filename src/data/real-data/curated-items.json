@@ -51,7 +51,7 @@
     "category": "Consumables",
     "subcategory": "Permanent Boosters",
     "subSubcategory": "health",
-    "iconPath": "/assets/icons/consumables/29.svg",
+    "iconPath": "/assets/icons/consumables/29.png",
     "acquisition": [
       "find"
     ],
@@ -2547,7 +2547,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1642.svg",
+    "iconPath": "/assets/icons/collectibles/1642.png",
     "acquisition": [
       "find"
     ],
@@ -3492,7 +3492,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/2448.svg",
+    "iconPath": "/assets/icons/collectibles/2448.png",
     "acquisition": [
       "find"
     ],
@@ -4107,7 +4107,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2951.svg",
+    "iconPath": "/assets/icons/collectibles/2951.png",
     "acquisition": [
       "find"
     ],
@@ -4122,7 +4122,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2952.svg",
+    "iconPath": "/assets/icons/collectibles/2952.png",
     "acquisition": [
       "find"
     ],
@@ -4137,7 +4137,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2966.svg",
+    "iconPath": "/assets/icons/collectibles/2966.png",
     "acquisition": [
       "find"
     ],
@@ -4152,7 +4152,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2975.svg",
+    "iconPath": "/assets/icons/collectibles/2975.png",
     "acquisition": [
       "find"
     ],
@@ -4872,7 +4872,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3390.svg",
+    "iconPath": "/assets/icons/collectibles/3390.png",
     "acquisition": [
       "find"
     ],
@@ -4887,7 +4887,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3420.svg",
+    "iconPath": "/assets/icons/collectibles/3420.png",
     "acquisition": [
       "find"
     ],
@@ -4902,7 +4902,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3424.svg",
+    "iconPath": "/assets/icons/collectibles/3424.png",
     "acquisition": [
       "find"
     ],
@@ -4917,7 +4917,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3425.svg",
+    "iconPath": "/assets/icons/collectibles/3425.png",
     "acquisition": [
       "find"
     ],
@@ -4932,7 +4932,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3444.svg",
+    "iconPath": "/assets/icons/collectibles/3444.png",
     "acquisition": [
       "find"
     ],
@@ -5727,7 +5727,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3792.svg",
+    "iconPath": "/assets/icons/collectibles/3792.png",
     "acquisition": [
       "find"
     ],
@@ -5832,7 +5832,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3845.svg",
+    "iconPath": "/assets/icons/collectibles/3845.png",
     "acquisition": [
       "find"
     ],
@@ -11682,7 +11682,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3441.svg",
+    "iconPath": "/assets/icons/collectibles/3441.png",
     "acquisition": [
       "find"
     ],
@@ -13694,7 +13694,7 @@
     "type": "accessory",
     "category": "Accessories",
     "subcategory": "Utility",
-    "iconPath": "/assets/icons/accessories/98.svg",
+    "iconPath": "/assets/icons/accessories/98.png",
     "acquisition": [
       "find"
     ],
@@ -13889,7 +13889,7 @@
     "type": "accessory",
     "category": "Accessories",
     "subcategory": "Utility",
-    "iconPath": "/assets/icons/accessories/155.svg",
+    "iconPath": "/assets/icons/accessories/155.png",
     "acquisition": [
       "find"
     ],
@@ -14609,7 +14609,7 @@
     "type": "accessory",
     "category": "Accessories",
     "subcategory": "Utility",
-    "iconPath": "/assets/icons/accessories/273.svg",
+    "iconPath": "/assets/icons/accessories/273.png",
     "acquisition": [
       "craft"
     ],
@@ -15884,7 +15884,7 @@
     "type": "accessory",
     "category": "Accessories",
     "subcategory": "Utility",
-    "iconPath": "/assets/icons/accessories/533.svg",
+    "iconPath": "/assets/icons/accessories/533.png",
     "acquisition": [
       "craft"
     ],
@@ -38864,7 +38864,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/52.svg",
+    "iconPath": "/assets/icons/collectibles/52.png",
     "acquisition": [
       "find"
     ],
@@ -38879,7 +38879,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/106.svg",
+    "iconPath": "/assets/icons/collectibles/106.png",
     "acquisition": [
       "craft"
     ],
@@ -38894,7 +38894,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/107.svg",
+    "iconPath": "/assets/icons/collectibles/107.png",
     "acquisition": [
       "craft"
     ],
@@ -38909,7 +38909,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/108.svg",
+    "iconPath": "/assets/icons/collectibles/108.png",
     "acquisition": [
       "craft"
     ],
@@ -38924,7 +38924,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/337.svg",
+    "iconPath": "/assets/icons/collectibles/337.png",
     "acquisition": [
       "craft"
     ],
@@ -38939,7 +38939,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/338.svg",
+    "iconPath": "/assets/icons/collectibles/338.png",
     "acquisition": [
       "craft"
     ],
@@ -38954,7 +38954,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/339.svg",
+    "iconPath": "/assets/icons/collectibles/339.png",
     "acquisition": [
       "craft"
     ],
@@ -38969,7 +38969,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/340.svg",
+    "iconPath": "/assets/icons/collectibles/340.png",
     "acquisition": [
       "craft"
     ],
@@ -38984,7 +38984,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/350.svg",
+    "iconPath": "/assets/icons/collectibles/350.png",
     "acquisition": [
       "craft"
     ],
@@ -38999,7 +38999,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/359.svg",
+    "iconPath": "/assets/icons/collectibles/359.png",
     "acquisition": [
       "craft"
     ],
@@ -39014,7 +39014,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/360.svg",
+    "iconPath": "/assets/icons/collectibles/360.png",
     "acquisition": [
       "craft"
     ],
@@ -39029,7 +39029,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/440.svg",
+    "iconPath": "/assets/icons/collectibles/440.png",
     "acquisition": [
       "find"
     ],
@@ -39044,7 +39044,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/441.svg",
+    "iconPath": "/assets/icons/collectibles/441.png",
     "acquisition": [
       "find"
     ],
@@ -39059,7 +39059,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/442.svg",
+    "iconPath": "/assets/icons/collectibles/442.png",
     "acquisition": [
       "find"
     ],
@@ -39074,7 +39074,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/443.svg",
+    "iconPath": "/assets/icons/collectibles/443.png",
     "acquisition": [
       "find"
     ],
@@ -39089,7 +39089,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/444.svg",
+    "iconPath": "/assets/icons/collectibles/444.png",
     "acquisition": [
       "find"
     ],
@@ -39104,7 +39104,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/445.svg",
+    "iconPath": "/assets/icons/collectibles/445.png",
     "acquisition": [
       "find"
     ],
@@ -39119,7 +39119,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/446.svg",
+    "iconPath": "/assets/icons/collectibles/446.png",
     "acquisition": [
       "find"
     ],
@@ -39134,7 +39134,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/447.svg",
+    "iconPath": "/assets/icons/collectibles/447.png",
     "acquisition": [
       "find"
     ],
@@ -39149,7 +39149,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/448.svg",
+    "iconPath": "/assets/icons/collectibles/448.png",
     "acquisition": [
       "find"
     ],
@@ -39164,7 +39164,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/449.svg",
+    "iconPath": "/assets/icons/collectibles/449.png",
     "acquisition": [
       "find"
     ],
@@ -39179,7 +39179,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/450.svg",
+    "iconPath": "/assets/icons/collectibles/450.png",
     "acquisition": [
       "find"
     ],
@@ -39194,7 +39194,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/451.svg",
+    "iconPath": "/assets/icons/collectibles/451.png",
     "acquisition": [
       "find"
     ],
@@ -39209,7 +39209,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/452.svg",
+    "iconPath": "/assets/icons/collectibles/452.png",
     "acquisition": [
       "find"
     ],
@@ -39224,7 +39224,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/453.svg",
+    "iconPath": "/assets/icons/collectibles/453.png",
     "acquisition": [
       "find"
     ],
@@ -39239,7 +39239,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/454.svg",
+    "iconPath": "/assets/icons/collectibles/454.png",
     "acquisition": [
       "find"
     ],
@@ -39254,7 +39254,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/456.svg",
+    "iconPath": "/assets/icons/collectibles/456.png",
     "acquisition": [
       "find"
     ],
@@ -39269,7 +39269,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/458.svg",
+    "iconPath": "/assets/icons/collectibles/458.png",
     "acquisition": [
       "find"
     ],
@@ -39284,7 +39284,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/459.svg",
+    "iconPath": "/assets/icons/collectibles/459.png",
     "acquisition": [
       "find"
     ],
@@ -39299,7 +39299,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/462.svg",
+    "iconPath": "/assets/icons/collectibles/462.png",
     "acquisition": [
       "find"
     ],
@@ -39314,7 +39314,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/463.svg",
+    "iconPath": "/assets/icons/collectibles/463.png",
     "acquisition": [
       "find"
     ],
@@ -39329,7 +39329,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/464.svg",
+    "iconPath": "/assets/icons/collectibles/464.png",
     "acquisition": [
       "find"
     ],
@@ -39344,7 +39344,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/466.svg",
+    "iconPath": "/assets/icons/collectibles/466.png",
     "acquisition": [
       "find"
     ],
@@ -39359,7 +39359,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/467.svg",
+    "iconPath": "/assets/icons/collectibles/467.png",
     "acquisition": [
       "find"
     ],
@@ -39374,7 +39374,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/468.svg",
+    "iconPath": "/assets/icons/collectibles/468.png",
     "acquisition": [
       "find"
     ],
@@ -39389,7 +39389,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/470.svg",
+    "iconPath": "/assets/icons/collectibles/470.png",
     "acquisition": [
       "find"
     ],
@@ -39404,7 +39404,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/471.svg",
+    "iconPath": "/assets/icons/collectibles/471.png",
     "acquisition": [
       "find"
     ],
@@ -39419,7 +39419,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/472.svg",
+    "iconPath": "/assets/icons/collectibles/472.png",
     "acquisition": [
       "find"
     ],
@@ -39434,7 +39434,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/473.svg",
+    "iconPath": "/assets/icons/collectibles/473.png",
     "acquisition": [
       "find"
     ],
@@ -39449,7 +39449,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/474.svg",
+    "iconPath": "/assets/icons/collectibles/474.png",
     "acquisition": [
       "find"
     ],
@@ -39464,7 +39464,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/475.svg",
+    "iconPath": "/assets/icons/collectibles/475.png",
     "acquisition": [
       "find"
     ],
@@ -39479,7 +39479,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/476.svg",
+    "iconPath": "/assets/icons/collectibles/476.png",
     "acquisition": [
       "find"
     ],
@@ -39494,7 +39494,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/477.svg",
+    "iconPath": "/assets/icons/collectibles/477.png",
     "acquisition": [
       "find"
     ],
@@ -39509,7 +39509,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/478.svg",
+    "iconPath": "/assets/icons/collectibles/478.png",
     "acquisition": [
       "find"
     ],
@@ -39524,7 +39524,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/562.svg",
+    "iconPath": "/assets/icons/collectibles/562.png",
     "acquisition": [
       "craft"
     ],
@@ -39539,7 +39539,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/563.svg",
+    "iconPath": "/assets/icons/collectibles/563.png",
     "acquisition": [
       "craft"
     ],
@@ -39554,7 +39554,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/564.svg",
+    "iconPath": "/assets/icons/collectibles/564.png",
     "acquisition": [
       "craft"
     ],
@@ -39569,7 +39569,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/565.svg",
+    "iconPath": "/assets/icons/collectibles/565.png",
     "acquisition": [
       "find"
     ],
@@ -39584,7 +39584,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/566.svg",
+    "iconPath": "/assets/icons/collectibles/566.png",
     "acquisition": [
       "craft"
     ],
@@ -39599,7 +39599,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/567.svg",
+    "iconPath": "/assets/icons/collectibles/567.png",
     "acquisition": [
       "craft"
     ],
@@ -39614,7 +39614,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/568.svg",
+    "iconPath": "/assets/icons/collectibles/568.png",
     "acquisition": [
       "craft"
     ],
@@ -39629,7 +39629,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/569.svg",
+    "iconPath": "/assets/icons/collectibles/569.png",
     "acquisition": [
       "craft"
     ],
@@ -39644,7 +39644,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/570.svg",
+    "iconPath": "/assets/icons/collectibles/570.png",
     "acquisition": [
       "craft"
     ],
@@ -39659,7 +39659,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/571.svg",
+    "iconPath": "/assets/icons/collectibles/571.png",
     "acquisition": [
       "craft"
     ],
@@ -39674,7 +39674,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/572.svg",
+    "iconPath": "/assets/icons/collectibles/572.png",
     "acquisition": [
       "craft"
     ],
@@ -39689,7 +39689,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/573.svg",
+    "iconPath": "/assets/icons/collectibles/573.png",
     "acquisition": [
       "craft"
     ],
@@ -39704,7 +39704,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/574.svg",
+    "iconPath": "/assets/icons/collectibles/574.png",
     "acquisition": [
       "craft"
     ],
@@ -39719,7 +39719,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/576.svg",
+    "iconPath": "/assets/icons/collectibles/576.png",
     "acquisition": [
       "find"
     ],
@@ -39734,7 +39734,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/710.svg",
+    "iconPath": "/assets/icons/collectibles/710.png",
     "acquisition": [
       "craft"
     ],
@@ -39749,7 +39749,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/711.svg",
+    "iconPath": "/assets/icons/collectibles/711.png",
     "acquisition": [
       "craft"
     ],
@@ -39764,7 +39764,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/712.svg",
+    "iconPath": "/assets/icons/collectibles/712.png",
     "acquisition": [
       "craft"
     ],
@@ -39779,7 +39779,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/789.svg",
+    "iconPath": "/assets/icons/collectibles/789.png",
     "acquisition": [
       "find"
     ],
@@ -39794,7 +39794,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/790.svg",
+    "iconPath": "/assets/icons/collectibles/790.png",
     "acquisition": [
       "find"
     ],
@@ -39809,7 +39809,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/791.svg",
+    "iconPath": "/assets/icons/collectibles/791.png",
     "acquisition": [
       "find"
     ],
@@ -39824,7 +39824,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/845.svg",
+    "iconPath": "/assets/icons/collectibles/845.png",
     "acquisition": [
       "find"
     ],
@@ -39839,7 +39839,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/846.svg",
+    "iconPath": "/assets/icons/collectibles/846.png",
     "acquisition": [
       "find"
     ],
@@ -39854,7 +39854,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/847.svg",
+    "iconPath": "/assets/icons/collectibles/847.png",
     "acquisition": [
       "find"
     ],
@@ -39869,7 +39869,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/889.svg",
+    "iconPath": "/assets/icons/collectibles/889.png",
     "acquisition": [
       "find"
     ],
@@ -39884,7 +39884,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/909.svg",
+    "iconPath": "/assets/icons/collectibles/909.png",
     "acquisition": [
       "find"
     ],
@@ -39899,7 +39899,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/910.svg",
+    "iconPath": "/assets/icons/collectibles/910.png",
     "acquisition": [
       "find"
     ],
@@ -39914,7 +39914,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/940.svg",
+    "iconPath": "/assets/icons/collectibles/940.png",
     "acquisition": [
       "find"
     ],
@@ -39929,7 +39929,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/941.svg",
+    "iconPath": "/assets/icons/collectibles/941.png",
     "acquisition": [
       "find"
     ],
@@ -39944,7 +39944,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/942.svg",
+    "iconPath": "/assets/icons/collectibles/942.png",
     "acquisition": [
       "find"
     ],
@@ -39959,7 +39959,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/943.svg",
+    "iconPath": "/assets/icons/collectibles/943.png",
     "acquisition": [
       "find"
     ],
@@ -39974,7 +39974,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/944.svg",
+    "iconPath": "/assets/icons/collectibles/944.png",
     "acquisition": [
       "find"
     ],
@@ -39989,7 +39989,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/945.svg",
+    "iconPath": "/assets/icons/collectibles/945.png",
     "acquisition": [
       "find"
     ],
@@ -40004,7 +40004,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/966.svg",
+    "iconPath": "/assets/icons/collectibles/966.png",
     "acquisition": [
       "craft"
     ],
@@ -40019,7 +40019,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/1152.svg",
+    "iconPath": "/assets/icons/collectibles/1152.png",
     "acquisition": [
       "find"
     ],
@@ -40034,7 +40034,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/1153.svg",
+    "iconPath": "/assets/icons/collectibles/1153.png",
     "acquisition": [
       "find"
     ],
@@ -40049,7 +40049,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/1154.svg",
+    "iconPath": "/assets/icons/collectibles/1154.png",
     "acquisition": [
       "find"
     ],
@@ -40064,7 +40064,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/1368.svg",
+    "iconPath": "/assets/icons/collectibles/1368.png",
     "acquisition": [
       "find"
     ],
@@ -40079,7 +40079,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/1369.svg",
+    "iconPath": "/assets/icons/collectibles/1369.png",
     "acquisition": [
       "find"
     ],
@@ -40094,7 +40094,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1408.svg",
+    "iconPath": "/assets/icons/collectibles/1408.png",
     "acquisition": [
       "find"
     ],
@@ -40109,7 +40109,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1409.svg",
+    "iconPath": "/assets/icons/collectibles/1409.png",
     "acquisition": [
       "find"
     ],
@@ -40124,7 +40124,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1410.svg",
+    "iconPath": "/assets/icons/collectibles/1410.png",
     "acquisition": [
       "find"
     ],
@@ -40139,7 +40139,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1451.svg",
+    "iconPath": "/assets/icons/collectibles/1451.png",
     "acquisition": [
       "find"
     ],
@@ -40154,7 +40154,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1462.svg",
+    "iconPath": "/assets/icons/collectibles/1462.png",
     "acquisition": [
       "find"
     ],
@@ -40169,7 +40169,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1464.svg",
+    "iconPath": "/assets/icons/collectibles/1464.png",
     "acquisition": [
       "find"
     ],
@@ -40184,7 +40184,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1466.svg",
+    "iconPath": "/assets/icons/collectibles/1466.png",
     "acquisition": [
       "find"
     ],
@@ -40199,7 +40199,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1467.svg",
+    "iconPath": "/assets/icons/collectibles/1467.png",
     "acquisition": [
       "find"
     ],
@@ -40214,7 +40214,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1468.svg",
+    "iconPath": "/assets/icons/collectibles/1468.png",
     "acquisition": [
       "find"
     ],
@@ -40229,7 +40229,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1469.svg",
+    "iconPath": "/assets/icons/collectibles/1469.png",
     "acquisition": [
       "find"
     ],
@@ -40244,7 +40244,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1596.svg",
+    "iconPath": "/assets/icons/collectibles/1596.png",
     "acquisition": [
       "find"
     ],
@@ -40259,7 +40259,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1597.svg",
+    "iconPath": "/assets/icons/collectibles/1597.png",
     "acquisition": [
       "find"
     ],
@@ -40274,7 +40274,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1598.svg",
+    "iconPath": "/assets/icons/collectibles/1598.png",
     "acquisition": [
       "find"
     ],
@@ -40289,7 +40289,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1599.svg",
+    "iconPath": "/assets/icons/collectibles/1599.png",
     "acquisition": [
       "find"
     ],
@@ -40304,7 +40304,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1600.svg",
+    "iconPath": "/assets/icons/collectibles/1600.png",
     "acquisition": [
       "find"
     ],
@@ -40319,7 +40319,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1601.svg",
+    "iconPath": "/assets/icons/collectibles/1601.png",
     "acquisition": [
       "find"
     ],
@@ -40334,7 +40334,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1602.svg",
+    "iconPath": "/assets/icons/collectibles/1602.png",
     "acquisition": [
       "find"
     ],
@@ -40349,7 +40349,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1603.svg",
+    "iconPath": "/assets/icons/collectibles/1603.png",
     "acquisition": [
       "find"
     ],
@@ -40364,7 +40364,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1604.svg",
+    "iconPath": "/assets/icons/collectibles/1604.png",
     "acquisition": [
       "find"
     ],
@@ -40379,7 +40379,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1605.svg",
+    "iconPath": "/assets/icons/collectibles/1605.png",
     "acquisition": [
       "find"
     ],
@@ -40394,7 +40394,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1607.svg",
+    "iconPath": "/assets/icons/collectibles/1607.png",
     "acquisition": [
       "find"
     ],
@@ -40409,7 +40409,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1608.svg",
+    "iconPath": "/assets/icons/collectibles/1608.png",
     "acquisition": [
       "find"
     ],
@@ -40424,7 +40424,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1609.svg",
+    "iconPath": "/assets/icons/collectibles/1609.png",
     "acquisition": [
       "find"
     ],
@@ -40439,7 +40439,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1610.svg",
+    "iconPath": "/assets/icons/collectibles/1610.png",
     "acquisition": [
       "find"
     ],
@@ -40454,7 +40454,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1616.svg",
+    "iconPath": "/assets/icons/collectibles/1616.png",
     "acquisition": [
       "find"
     ],
@@ -40469,7 +40469,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1617.svg",
+    "iconPath": "/assets/icons/collectibles/1617.png",
     "acquisition": [
       "find"
     ],
@@ -40484,7 +40484,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1618.svg",
+    "iconPath": "/assets/icons/collectibles/1618.png",
     "acquisition": [
       "find"
     ],
@@ -40499,7 +40499,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1619.svg",
+    "iconPath": "/assets/icons/collectibles/1619.png",
     "acquisition": [
       "find"
     ],
@@ -40514,7 +40514,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1620.svg",
+    "iconPath": "/assets/icons/collectibles/1620.png",
     "acquisition": [
       "find"
     ],
@@ -40529,7 +40529,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1621.svg",
+    "iconPath": "/assets/icons/collectibles/1621.png",
     "acquisition": [
       "find"
     ],
@@ -40544,7 +40544,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1622.svg",
+    "iconPath": "/assets/icons/collectibles/1622.png",
     "acquisition": [
       "find"
     ],
@@ -40559,7 +40559,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1623.svg",
+    "iconPath": "/assets/icons/collectibles/1623.png",
     "acquisition": [
       "find"
     ],
@@ -40574,7 +40574,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1624.svg",
+    "iconPath": "/assets/icons/collectibles/1624.png",
     "acquisition": [
       "find"
     ],
@@ -40589,7 +40589,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1625.svg",
+    "iconPath": "/assets/icons/collectibles/1625.png",
     "acquisition": [
       "find"
     ],
@@ -40604,7 +40604,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1626.svg",
+    "iconPath": "/assets/icons/collectibles/1626.png",
     "acquisition": [
       "find"
     ],
@@ -40619,7 +40619,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1627.svg",
+    "iconPath": "/assets/icons/collectibles/1627.png",
     "acquisition": [
       "find"
     ],
@@ -40634,7 +40634,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1628.svg",
+    "iconPath": "/assets/icons/collectibles/1628.png",
     "acquisition": [
       "find"
     ],
@@ -40649,7 +40649,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1629.svg",
+    "iconPath": "/assets/icons/collectibles/1629.png",
     "acquisition": [
       "find"
     ],
@@ -40664,7 +40664,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1630.svg",
+    "iconPath": "/assets/icons/collectibles/1630.png",
     "acquisition": [
       "find"
     ],
@@ -40679,7 +40679,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1631.svg",
+    "iconPath": "/assets/icons/collectibles/1631.png",
     "acquisition": [
       "find"
     ],
@@ -40694,7 +40694,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1632.svg",
+    "iconPath": "/assets/icons/collectibles/1632.png",
     "acquisition": [
       "find"
     ],
@@ -40709,7 +40709,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1633.svg",
+    "iconPath": "/assets/icons/collectibles/1633.png",
     "acquisition": [
       "find"
     ],
@@ -40724,7 +40724,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1634.svg",
+    "iconPath": "/assets/icons/collectibles/1634.png",
     "acquisition": [
       "find"
     ],
@@ -40739,7 +40739,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1635.svg",
+    "iconPath": "/assets/icons/collectibles/1635.png",
     "acquisition": [
       "find"
     ],
@@ -40754,7 +40754,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1638.svg",
+    "iconPath": "/assets/icons/collectibles/1638.png",
     "acquisition": [
       "find"
     ],
@@ -40769,7 +40769,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1639.svg",
+    "iconPath": "/assets/icons/collectibles/1639.png",
     "acquisition": [
       "find"
     ],
@@ -40784,7 +40784,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1640.svg",
+    "iconPath": "/assets/icons/collectibles/1640.png",
     "acquisition": [
       "find"
     ],
@@ -40799,7 +40799,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1641.svg",
+    "iconPath": "/assets/icons/collectibles/1641.png",
     "acquisition": [
       "find"
     ],
@@ -40814,7 +40814,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1643.svg",
+    "iconPath": "/assets/icons/collectibles/1643.png",
     "acquisition": [
       "find"
     ],
@@ -40829,7 +40829,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1644.svg",
+    "iconPath": "/assets/icons/collectibles/1644.png",
     "acquisition": [
       "find"
     ],
@@ -40844,7 +40844,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1645.svg",
+    "iconPath": "/assets/icons/collectibles/1645.png",
     "acquisition": [
       "find"
     ],
@@ -40859,7 +40859,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1646.svg",
+    "iconPath": "/assets/icons/collectibles/1646.png",
     "acquisition": [
       "find"
     ],
@@ -40874,7 +40874,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1647.svg",
+    "iconPath": "/assets/icons/collectibles/1647.png",
     "acquisition": [
       "find"
     ],
@@ -40889,7 +40889,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1648.svg",
+    "iconPath": "/assets/icons/collectibles/1648.png",
     "acquisition": [
       "find"
     ],
@@ -40904,7 +40904,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1649.svg",
+    "iconPath": "/assets/icons/collectibles/1649.png",
     "acquisition": [
       "find"
     ],
@@ -40919,7 +40919,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1650.svg",
+    "iconPath": "/assets/icons/collectibles/1650.png",
     "acquisition": [
       "find"
     ],
@@ -40934,7 +40934,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1651.svg",
+    "iconPath": "/assets/icons/collectibles/1651.png",
     "acquisition": [
       "find"
     ],
@@ -40949,7 +40949,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1652.svg",
+    "iconPath": "/assets/icons/collectibles/1652.png",
     "acquisition": [
       "find"
     ],
@@ -40964,7 +40964,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1653.svg",
+    "iconPath": "/assets/icons/collectibles/1653.png",
     "acquisition": [
       "find"
     ],
@@ -40979,7 +40979,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1654.svg",
+    "iconPath": "/assets/icons/collectibles/1654.png",
     "acquisition": [
       "find"
     ],
@@ -40994,7 +40994,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1655.svg",
+    "iconPath": "/assets/icons/collectibles/1655.png",
     "acquisition": [
       "find"
     ],
@@ -41009,7 +41009,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1656.svg",
+    "iconPath": "/assets/icons/collectibles/1656.png",
     "acquisition": [
       "find"
     ],
@@ -41024,7 +41024,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1657.svg",
+    "iconPath": "/assets/icons/collectibles/1657.png",
     "acquisition": [
       "find"
     ],
@@ -41039,7 +41039,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1658.svg",
+    "iconPath": "/assets/icons/collectibles/1658.png",
     "acquisition": [
       "find"
     ],
@@ -41054,7 +41054,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1659.svg",
+    "iconPath": "/assets/icons/collectibles/1659.png",
     "acquisition": [
       "find"
     ],
@@ -41069,7 +41069,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1660.svg",
+    "iconPath": "/assets/icons/collectibles/1660.png",
     "acquisition": [
       "find"
     ],
@@ -41084,7 +41084,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1661.svg",
+    "iconPath": "/assets/icons/collectibles/1661.png",
     "acquisition": [
       "find"
     ],
@@ -41099,7 +41099,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1662.svg",
+    "iconPath": "/assets/icons/collectibles/1662.png",
     "acquisition": [
       "find"
     ],
@@ -41114,7 +41114,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1663.svg",
+    "iconPath": "/assets/icons/collectibles/1663.png",
     "acquisition": [
       "find"
     ],
@@ -41129,7 +41129,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1664.svg",
+    "iconPath": "/assets/icons/collectibles/1664.png",
     "acquisition": [
       "find"
     ],
@@ -41144,7 +41144,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1665.svg",
+    "iconPath": "/assets/icons/collectibles/1665.png",
     "acquisition": [
       "find"
     ],
@@ -41159,7 +41159,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1666.svg",
+    "iconPath": "/assets/icons/collectibles/1666.png",
     "acquisition": [
       "find"
     ],
@@ -41174,7 +41174,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1667.svg",
+    "iconPath": "/assets/icons/collectibles/1667.png",
     "acquisition": [
       "find"
     ],
@@ -41189,7 +41189,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1668.svg",
+    "iconPath": "/assets/icons/collectibles/1668.png",
     "acquisition": [
       "find"
     ],
@@ -41204,7 +41204,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1669.svg",
+    "iconPath": "/assets/icons/collectibles/1669.png",
     "acquisition": [
       "find"
     ],
@@ -41219,7 +41219,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1670.svg",
+    "iconPath": "/assets/icons/collectibles/1670.png",
     "acquisition": [
       "find"
     ],
@@ -41234,7 +41234,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1671.svg",
+    "iconPath": "/assets/icons/collectibles/1671.png",
     "acquisition": [
       "find"
     ],
@@ -41249,7 +41249,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1672.svg",
+    "iconPath": "/assets/icons/collectibles/1672.png",
     "acquisition": [
       "find"
     ],
@@ -41264,7 +41264,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1673.svg",
+    "iconPath": "/assets/icons/collectibles/1673.png",
     "acquisition": [
       "find"
     ],
@@ -41279,7 +41279,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1674.svg",
+    "iconPath": "/assets/icons/collectibles/1674.png",
     "acquisition": [
       "find"
     ],
@@ -41294,7 +41294,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1675.svg",
+    "iconPath": "/assets/icons/collectibles/1675.png",
     "acquisition": [
       "find"
     ],
@@ -41309,7 +41309,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1676.svg",
+    "iconPath": "/assets/icons/collectibles/1676.png",
     "acquisition": [
       "find"
     ],
@@ -41324,7 +41324,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1677.svg",
+    "iconPath": "/assets/icons/collectibles/1677.png",
     "acquisition": [
       "find"
     ],
@@ -41339,7 +41339,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1678.svg",
+    "iconPath": "/assets/icons/collectibles/1678.png",
     "acquisition": [
       "find"
     ],
@@ -41354,7 +41354,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1679.svg",
+    "iconPath": "/assets/icons/collectibles/1679.png",
     "acquisition": [
       "find"
     ],
@@ -41369,7 +41369,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1680.svg",
+    "iconPath": "/assets/icons/collectibles/1680.png",
     "acquisition": [
       "find"
     ],
@@ -41384,7 +41384,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1681.svg",
+    "iconPath": "/assets/icons/collectibles/1681.png",
     "acquisition": [
       "find"
     ],
@@ -41399,7 +41399,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1682.svg",
+    "iconPath": "/assets/icons/collectibles/1682.png",
     "acquisition": [
       "find"
     ],
@@ -41414,7 +41414,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1683.svg",
+    "iconPath": "/assets/icons/collectibles/1683.png",
     "acquisition": [
       "find"
     ],
@@ -41429,7 +41429,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1684.svg",
+    "iconPath": "/assets/icons/collectibles/1684.png",
     "acquisition": [
       "find"
     ],
@@ -41444,7 +41444,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1685.svg",
+    "iconPath": "/assets/icons/collectibles/1685.png",
     "acquisition": [
       "find"
     ],
@@ -41459,7 +41459,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1686.svg",
+    "iconPath": "/assets/icons/collectibles/1686.png",
     "acquisition": [
       "find"
     ],
@@ -41474,7 +41474,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1687.svg",
+    "iconPath": "/assets/icons/collectibles/1687.png",
     "acquisition": [
       "find"
     ],
@@ -41489,7 +41489,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1688.svg",
+    "iconPath": "/assets/icons/collectibles/1688.png",
     "acquisition": [
       "find"
     ],
@@ -41504,7 +41504,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1689.svg",
+    "iconPath": "/assets/icons/collectibles/1689.png",
     "acquisition": [
       "find"
     ],
@@ -41519,7 +41519,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1690.svg",
+    "iconPath": "/assets/icons/collectibles/1690.png",
     "acquisition": [
       "find"
     ],
@@ -41534,7 +41534,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1691.svg",
+    "iconPath": "/assets/icons/collectibles/1691.png",
     "acquisition": [
       "find"
     ],
@@ -41549,7 +41549,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1692.svg",
+    "iconPath": "/assets/icons/collectibles/1692.png",
     "acquisition": [
       "find"
     ],
@@ -41564,7 +41564,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1693.svg",
+    "iconPath": "/assets/icons/collectibles/1693.png",
     "acquisition": [
       "find"
     ],
@@ -41579,7 +41579,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1694.svg",
+    "iconPath": "/assets/icons/collectibles/1694.png",
     "acquisition": [
       "find"
     ],
@@ -41594,7 +41594,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1695.svg",
+    "iconPath": "/assets/icons/collectibles/1695.png",
     "acquisition": [
       "find"
     ],
@@ -41609,7 +41609,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1696.svg",
+    "iconPath": "/assets/icons/collectibles/1696.png",
     "acquisition": [
       "find"
     ],
@@ -41624,7 +41624,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1697.svg",
+    "iconPath": "/assets/icons/collectibles/1697.png",
     "acquisition": [
       "find"
     ],
@@ -41639,7 +41639,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1698.svg",
+    "iconPath": "/assets/icons/collectibles/1698.png",
     "acquisition": [
       "find"
     ],
@@ -41654,7 +41654,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1699.svg",
+    "iconPath": "/assets/icons/collectibles/1699.png",
     "acquisition": [
       "find"
     ],
@@ -41669,7 +41669,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1700.svg",
+    "iconPath": "/assets/icons/collectibles/1700.png",
     "acquisition": [
       "find"
     ],
@@ -41684,7 +41684,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/1701.svg",
+    "iconPath": "/assets/icons/collectibles/1701.png",
     "acquisition": [
       "find"
     ],
@@ -41699,7 +41699,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/1855.svg",
+    "iconPath": "/assets/icons/collectibles/1855.png",
     "acquisition": [
       "find"
     ],
@@ -41714,7 +41714,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/1856.svg",
+    "iconPath": "/assets/icons/collectibles/1856.png",
     "acquisition": [
       "find"
     ],
@@ -41729,7 +41729,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/1960.svg",
+    "iconPath": "/assets/icons/collectibles/1960.png",
     "acquisition": [
       "find"
     ],
@@ -41744,7 +41744,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/1961.svg",
+    "iconPath": "/assets/icons/collectibles/1961.png",
     "acquisition": [
       "find"
     ],
@@ -41759,7 +41759,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/1962.svg",
+    "iconPath": "/assets/icons/collectibles/1962.png",
     "acquisition": [
       "find"
     ],
@@ -41774,7 +41774,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1963.svg",
+    "iconPath": "/assets/icons/collectibles/1963.png",
     "acquisition": [
       "find"
     ],
@@ -41789,7 +41789,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1964.svg",
+    "iconPath": "/assets/icons/collectibles/1964.png",
     "acquisition": [
       "find"
     ],
@@ -41804,7 +41804,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/1965.svg",
+    "iconPath": "/assets/icons/collectibles/1965.png",
     "acquisition": [
       "find"
     ],
@@ -41819,7 +41819,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2055.svg",
+    "iconPath": "/assets/icons/collectibles/2055.png",
     "acquisition": [
       "craft"
     ],
@@ -41834,7 +41834,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2056.svg",
+    "iconPath": "/assets/icons/collectibles/2056.png",
     "acquisition": [
       "craft"
     ],
@@ -41849,7 +41849,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2057.svg",
+    "iconPath": "/assets/icons/collectibles/2057.png",
     "acquisition": [
       "craft"
     ],
@@ -41864,7 +41864,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2058.svg",
+    "iconPath": "/assets/icons/collectibles/2058.png",
     "acquisition": [
       "craft"
     ],
@@ -41879,7 +41879,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2059.svg",
+    "iconPath": "/assets/icons/collectibles/2059.png",
     "acquisition": [
       "craft"
     ],
@@ -41894,7 +41894,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2060.svg",
+    "iconPath": "/assets/icons/collectibles/2060.png",
     "acquisition": [
       "craft"
     ],
@@ -41909,7 +41909,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2061.svg",
+    "iconPath": "/assets/icons/collectibles/2061.png",
     "acquisition": [
       "craft"
     ],
@@ -41924,7 +41924,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2062.svg",
+    "iconPath": "/assets/icons/collectibles/2062.png",
     "acquisition": [
       "craft"
     ],
@@ -41939,7 +41939,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2063.svg",
+    "iconPath": "/assets/icons/collectibles/2063.png",
     "acquisition": [
       "craft"
     ],
@@ -41954,7 +41954,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2064.svg",
+    "iconPath": "/assets/icons/collectibles/2064.png",
     "acquisition": [
       "craft"
     ],
@@ -41969,7 +41969,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2065.svg",
+    "iconPath": "/assets/icons/collectibles/2065.png",
     "acquisition": [
       "craft"
     ],
@@ -41984,7 +41984,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2141.svg",
+    "iconPath": "/assets/icons/collectibles/2141.png",
     "acquisition": [
       "craft"
     ],
@@ -41999,7 +41999,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2142.svg",
+    "iconPath": "/assets/icons/collectibles/2142.png",
     "acquisition": [
       "craft"
     ],
@@ -42014,7 +42014,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2143.svg",
+    "iconPath": "/assets/icons/collectibles/2143.png",
     "acquisition": [
       "find"
     ],
@@ -42029,7 +42029,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2144.svg",
+    "iconPath": "/assets/icons/collectibles/2144.png",
     "acquisition": [
       "craft"
     ],
@@ -42044,7 +42044,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2237.svg",
+    "iconPath": "/assets/icons/collectibles/2237.png",
     "acquisition": [
       "craft"
     ],
@@ -42059,7 +42059,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2238.svg",
+    "iconPath": "/assets/icons/collectibles/2238.png",
     "acquisition": [
       "find"
     ],
@@ -42074,7 +42074,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2239.svg",
+    "iconPath": "/assets/icons/collectibles/2239.png",
     "acquisition": [
       "craft"
     ],
@@ -42089,7 +42089,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2240.svg",
+    "iconPath": "/assets/icons/collectibles/2240.png",
     "acquisition": [
       "craft"
     ],
@@ -42104,7 +42104,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2241.svg",
+    "iconPath": "/assets/icons/collectibles/2241.png",
     "acquisition": [
       "craft"
     ],
@@ -42119,7 +42119,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/2446.svg",
+    "iconPath": "/assets/icons/collectibles/2446.png",
     "acquisition": [
       "find"
     ],
@@ -42134,7 +42134,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/2447.svg",
+    "iconPath": "/assets/icons/collectibles/2447.png",
     "acquisition": [
       "find"
     ],
@@ -42149,7 +42149,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/2449.svg",
+    "iconPath": "/assets/icons/collectibles/2449.png",
     "acquisition": [
       "find"
     ],
@@ -42164,7 +42164,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/2489.svg",
+    "iconPath": "/assets/icons/collectibles/2489.png",
     "acquisition": [
       "find"
     ],
@@ -42179,7 +42179,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2525.svg",
+    "iconPath": "/assets/icons/collectibles/2525.png",
     "acquisition": [
       "craft"
     ],
@@ -42194,7 +42194,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2543.svg",
+    "iconPath": "/assets/icons/collectibles/2543.png",
     "acquisition": [
       "craft"
     ],
@@ -42209,7 +42209,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2558.svg",
+    "iconPath": "/assets/icons/collectibles/2558.png",
     "acquisition": [
       "craft"
     ],
@@ -42224,7 +42224,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2560.svg",
+    "iconPath": "/assets/icons/collectibles/2560.png",
     "acquisition": [
       "craft"
     ],
@@ -42239,7 +42239,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2573.svg",
+    "iconPath": "/assets/icons/collectibles/2573.png",
     "acquisition": [
       "craft"
     ],
@@ -42254,7 +42254,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2575.svg",
+    "iconPath": "/assets/icons/collectibles/2575.png",
     "acquisition": [
       "craft"
     ],
@@ -42269,7 +42269,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2591.svg",
+    "iconPath": "/assets/icons/collectibles/2591.png",
     "acquisition": [
       "craft"
     ],
@@ -42284,7 +42284,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2592.svg",
+    "iconPath": "/assets/icons/collectibles/2592.png",
     "acquisition": [
       "craft"
     ],
@@ -42299,7 +42299,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2593.svg",
+    "iconPath": "/assets/icons/collectibles/2593.png",
     "acquisition": [
       "craft"
     ],
@@ -42314,7 +42314,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2594.svg",
+    "iconPath": "/assets/icons/collectibles/2594.png",
     "acquisition": [
       "craft"
     ],
@@ -42329,7 +42329,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2595.svg",
+    "iconPath": "/assets/icons/collectibles/2595.png",
     "acquisition": [
       "craft"
     ],
@@ -42344,7 +42344,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2596.svg",
+    "iconPath": "/assets/icons/collectibles/2596.png",
     "acquisition": [
       "craft"
     ],
@@ -42359,7 +42359,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2597.svg",
+    "iconPath": "/assets/icons/collectibles/2597.png",
     "acquisition": [
       "craft"
     ],
@@ -42374,7 +42374,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2598.svg",
+    "iconPath": "/assets/icons/collectibles/2598.png",
     "acquisition": [
       "craft"
     ],
@@ -42389,7 +42389,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2599.svg",
+    "iconPath": "/assets/icons/collectibles/2599.png",
     "acquisition": [
       "craft"
     ],
@@ -42404,7 +42404,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2600.svg",
+    "iconPath": "/assets/icons/collectibles/2600.png",
     "acquisition": [
       "find"
     ],
@@ -42419,7 +42419,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2601.svg",
+    "iconPath": "/assets/icons/collectibles/2601.png",
     "acquisition": [
       "craft"
     ],
@@ -42434,7 +42434,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2602.svg",
+    "iconPath": "/assets/icons/collectibles/2602.png",
     "acquisition": [
       "craft"
     ],
@@ -42449,7 +42449,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2603.svg",
+    "iconPath": "/assets/icons/collectibles/2603.png",
     "acquisition": [
       "craft"
     ],
@@ -42464,7 +42464,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2604.svg",
+    "iconPath": "/assets/icons/collectibles/2604.png",
     "acquisition": [
       "craft"
     ],
@@ -42479,7 +42479,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2605.svg",
+    "iconPath": "/assets/icons/collectibles/2605.png",
     "acquisition": [
       "craft"
     ],
@@ -42494,7 +42494,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2606.svg",
+    "iconPath": "/assets/icons/collectibles/2606.png",
     "acquisition": [
       "craft"
     ],
@@ -42509,7 +42509,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2652.svg",
+    "iconPath": "/assets/icons/collectibles/2652.png",
     "acquisition": [
       "find"
     ],
@@ -42524,7 +42524,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2653.svg",
+    "iconPath": "/assets/icons/collectibles/2653.png",
     "acquisition": [
       "find"
     ],
@@ -42539,7 +42539,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2654.svg",
+    "iconPath": "/assets/icons/collectibles/2654.png",
     "acquisition": [
       "find"
     ],
@@ -42554,7 +42554,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2655.svg",
+    "iconPath": "/assets/icons/collectibles/2655.png",
     "acquisition": [
       "craft"
     ],
@@ -42569,7 +42569,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2656.svg",
+    "iconPath": "/assets/icons/collectibles/2656.png",
     "acquisition": [
       "craft"
     ],
@@ -42584,7 +42584,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2657.svg",
+    "iconPath": "/assets/icons/collectibles/2657.png",
     "acquisition": [
       "find"
     ],
@@ -42599,7 +42599,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2672.svg",
+    "iconPath": "/assets/icons/collectibles/2672.png",
     "acquisition": [
       "find"
     ],
@@ -42614,7 +42614,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2702.svg",
+    "iconPath": "/assets/icons/collectibles/2702.png",
     "acquisition": [
       "craft"
     ],
@@ -42629,7 +42629,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2703.svg",
+    "iconPath": "/assets/icons/collectibles/2703.png",
     "acquisition": [
       "craft"
     ],
@@ -42644,7 +42644,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2704.svg",
+    "iconPath": "/assets/icons/collectibles/2704.png",
     "acquisition": [
       "craft"
     ],
@@ -42659,7 +42659,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2705.svg",
+    "iconPath": "/assets/icons/collectibles/2705.png",
     "acquisition": [
       "craft"
     ],
@@ -42674,7 +42674,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2706.svg",
+    "iconPath": "/assets/icons/collectibles/2706.png",
     "acquisition": [
       "craft"
     ],
@@ -42689,7 +42689,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2707.svg",
+    "iconPath": "/assets/icons/collectibles/2707.png",
     "acquisition": [
       "craft"
     ],
@@ -42704,7 +42704,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2708.svg",
+    "iconPath": "/assets/icons/collectibles/2708.png",
     "acquisition": [
       "craft"
     ],
@@ -42719,7 +42719,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2709.svg",
+    "iconPath": "/assets/icons/collectibles/2709.png",
     "acquisition": [
       "craft"
     ],
@@ -42734,7 +42734,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2710.svg",
+    "iconPath": "/assets/icons/collectibles/2710.png",
     "acquisition": [
       "craft"
     ],
@@ -42749,7 +42749,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2711.svg",
+    "iconPath": "/assets/icons/collectibles/2711.png",
     "acquisition": [
       "craft"
     ],
@@ -42764,7 +42764,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2712.svg",
+    "iconPath": "/assets/icons/collectibles/2712.png",
     "acquisition": [
       "craft"
     ],
@@ -42779,7 +42779,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2713.svg",
+    "iconPath": "/assets/icons/collectibles/2713.png",
     "acquisition": [
       "craft"
     ],
@@ -42794,7 +42794,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2714.svg",
+    "iconPath": "/assets/icons/collectibles/2714.png",
     "acquisition": [
       "craft"
     ],
@@ -42809,7 +42809,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2715.svg",
+    "iconPath": "/assets/icons/collectibles/2715.png",
     "acquisition": [
       "craft"
     ],
@@ -42824,7 +42824,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2716.svg",
+    "iconPath": "/assets/icons/collectibles/2716.png",
     "acquisition": [
       "craft"
     ],
@@ -42839,7 +42839,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2717.svg",
+    "iconPath": "/assets/icons/collectibles/2717.png",
     "acquisition": [
       "craft"
     ],
@@ -42854,7 +42854,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2718.svg",
+    "iconPath": "/assets/icons/collectibles/2718.png",
     "acquisition": [
       "craft"
     ],
@@ -42869,7 +42869,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2719.svg",
+    "iconPath": "/assets/icons/collectibles/2719.png",
     "acquisition": [
       "craft"
     ],
@@ -42884,7 +42884,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2720.svg",
+    "iconPath": "/assets/icons/collectibles/2720.png",
     "acquisition": [
       "craft"
     ],
@@ -42899,7 +42899,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2721.svg",
+    "iconPath": "/assets/icons/collectibles/2721.png",
     "acquisition": [
       "craft"
     ],
@@ -42914,7 +42914,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2722.svg",
+    "iconPath": "/assets/icons/collectibles/2722.png",
     "acquisition": [
       "craft"
     ],
@@ -42929,7 +42929,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2723.svg",
+    "iconPath": "/assets/icons/collectibles/2723.png",
     "acquisition": [
       "craft"
     ],
@@ -42944,7 +42944,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2724.svg",
+    "iconPath": "/assets/icons/collectibles/2724.png",
     "acquisition": [
       "craft"
     ],
@@ -42959,7 +42959,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2725.svg",
+    "iconPath": "/assets/icons/collectibles/2725.png",
     "acquisition": [
       "craft"
     ],
@@ -42974,7 +42974,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2726.svg",
+    "iconPath": "/assets/icons/collectibles/2726.png",
     "acquisition": [
       "craft"
     ],
@@ -42989,7 +42989,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2727.svg",
+    "iconPath": "/assets/icons/collectibles/2727.png",
     "acquisition": [
       "craft"
     ],
@@ -43004,7 +43004,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2728.svg",
+    "iconPath": "/assets/icons/collectibles/2728.png",
     "acquisition": [
       "craft"
     ],
@@ -43019,7 +43019,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2729.svg",
+    "iconPath": "/assets/icons/collectibles/2729.png",
     "acquisition": [
       "craft"
     ],
@@ -43034,7 +43034,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2730.svg",
+    "iconPath": "/assets/icons/collectibles/2730.png",
     "acquisition": [
       "craft"
     ],
@@ -43049,7 +43049,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2731.svg",
+    "iconPath": "/assets/icons/collectibles/2731.png",
     "acquisition": [
       "craft"
     ],
@@ -43064,7 +43064,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2732.svg",
+    "iconPath": "/assets/icons/collectibles/2732.png",
     "acquisition": [
       "craft"
     ],
@@ -43079,7 +43079,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2733.svg",
+    "iconPath": "/assets/icons/collectibles/2733.png",
     "acquisition": [
       "craft"
     ],
@@ -43094,7 +43094,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2734.svg",
+    "iconPath": "/assets/icons/collectibles/2734.png",
     "acquisition": [
       "craft"
     ],
@@ -43109,7 +43109,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2735.svg",
+    "iconPath": "/assets/icons/collectibles/2735.png",
     "acquisition": [
       "craft"
     ],
@@ -43124,7 +43124,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2736.svg",
+    "iconPath": "/assets/icons/collectibles/2736.png",
     "acquisition": [
       "craft"
     ],
@@ -43139,7 +43139,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/2737.svg",
+    "iconPath": "/assets/icons/collectibles/2737.png",
     "acquisition": [
       "craft"
     ],
@@ -43154,7 +43154,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2738.svg",
+    "iconPath": "/assets/icons/collectibles/2738.png",
     "acquisition": [
       "find"
     ],
@@ -43169,7 +43169,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2742.svg",
+    "iconPath": "/assets/icons/collectibles/2742.png",
     "acquisition": [
       "find"
     ],
@@ -43184,7 +43184,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2809.svg",
+    "iconPath": "/assets/icons/collectibles/2809.png",
     "acquisition": [
       "find"
     ],
@@ -43199,7 +43199,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/2813.svg",
+    "iconPath": "/assets/icons/collectibles/2813.png",
     "acquisition": [
       "find"
     ],
@@ -43214,7 +43214,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2897.svg",
+    "iconPath": "/assets/icons/collectibles/2897.png",
     "acquisition": [
       "find"
     ],
@@ -43229,7 +43229,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2898.svg",
+    "iconPath": "/assets/icons/collectibles/2898.png",
     "acquisition": [
       "find"
     ],
@@ -43244,7 +43244,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2899.svg",
+    "iconPath": "/assets/icons/collectibles/2899.png",
     "acquisition": [
       "find"
     ],
@@ -43259,7 +43259,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2900.svg",
+    "iconPath": "/assets/icons/collectibles/2900.png",
     "acquisition": [
       "find"
     ],
@@ -43274,7 +43274,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2901.svg",
+    "iconPath": "/assets/icons/collectibles/2901.png",
     "acquisition": [
       "find"
     ],
@@ -43289,7 +43289,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2902.svg",
+    "iconPath": "/assets/icons/collectibles/2902.png",
     "acquisition": [
       "find"
     ],
@@ -43304,7 +43304,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2903.svg",
+    "iconPath": "/assets/icons/collectibles/2903.png",
     "acquisition": [
       "find"
     ],
@@ -43319,7 +43319,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2904.svg",
+    "iconPath": "/assets/icons/collectibles/2904.png",
     "acquisition": [
       "find"
     ],
@@ -43334,7 +43334,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2905.svg",
+    "iconPath": "/assets/icons/collectibles/2905.png",
     "acquisition": [
       "find"
     ],
@@ -43349,7 +43349,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2906.svg",
+    "iconPath": "/assets/icons/collectibles/2906.png",
     "acquisition": [
       "find"
     ],
@@ -43364,7 +43364,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2907.svg",
+    "iconPath": "/assets/icons/collectibles/2907.png",
     "acquisition": [
       "find"
     ],
@@ -43379,7 +43379,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2908.svg",
+    "iconPath": "/assets/icons/collectibles/2908.png",
     "acquisition": [
       "find"
     ],
@@ -43394,7 +43394,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2909.svg",
+    "iconPath": "/assets/icons/collectibles/2909.png",
     "acquisition": [
       "find"
     ],
@@ -43409,7 +43409,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2910.svg",
+    "iconPath": "/assets/icons/collectibles/2910.png",
     "acquisition": [
       "find"
     ],
@@ -43424,7 +43424,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2911.svg",
+    "iconPath": "/assets/icons/collectibles/2911.png",
     "acquisition": [
       "find"
     ],
@@ -43439,7 +43439,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2912.svg",
+    "iconPath": "/assets/icons/collectibles/2912.png",
     "acquisition": [
       "find"
     ],
@@ -43454,7 +43454,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2913.svg",
+    "iconPath": "/assets/icons/collectibles/2913.png",
     "acquisition": [
       "find"
     ],
@@ -43469,7 +43469,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2914.svg",
+    "iconPath": "/assets/icons/collectibles/2914.png",
     "acquisition": [
       "find"
     ],
@@ -43484,7 +43484,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2915.svg",
+    "iconPath": "/assets/icons/collectibles/2915.png",
     "acquisition": [
       "find"
     ],
@@ -43499,7 +43499,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2916.svg",
+    "iconPath": "/assets/icons/collectibles/2916.png",
     "acquisition": [
       "find"
     ],
@@ -43514,7 +43514,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2917.svg",
+    "iconPath": "/assets/icons/collectibles/2917.png",
     "acquisition": [
       "find"
     ],
@@ -43529,7 +43529,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2918.svg",
+    "iconPath": "/assets/icons/collectibles/2918.png",
     "acquisition": [
       "find"
     ],
@@ -43544,7 +43544,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2919.svg",
+    "iconPath": "/assets/icons/collectibles/2919.png",
     "acquisition": [
       "find"
     ],
@@ -43559,7 +43559,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2920.svg",
+    "iconPath": "/assets/icons/collectibles/2920.png",
     "acquisition": [
       "find"
     ],
@@ -43574,7 +43574,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2921.svg",
+    "iconPath": "/assets/icons/collectibles/2921.png",
     "acquisition": [
       "find"
     ],
@@ -43589,7 +43589,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2922.svg",
+    "iconPath": "/assets/icons/collectibles/2922.png",
     "acquisition": [
       "find"
     ],
@@ -43604,7 +43604,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2923.svg",
+    "iconPath": "/assets/icons/collectibles/2923.png",
     "acquisition": [
       "find"
     ],
@@ -43619,7 +43619,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2924.svg",
+    "iconPath": "/assets/icons/collectibles/2924.png",
     "acquisition": [
       "find"
     ],
@@ -43634,7 +43634,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2925.svg",
+    "iconPath": "/assets/icons/collectibles/2925.png",
     "acquisition": [
       "find"
     ],
@@ -43649,7 +43649,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2926.svg",
+    "iconPath": "/assets/icons/collectibles/2926.png",
     "acquisition": [
       "find"
     ],
@@ -43664,7 +43664,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2927.svg",
+    "iconPath": "/assets/icons/collectibles/2927.png",
     "acquisition": [
       "find"
     ],
@@ -43679,7 +43679,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2928.svg",
+    "iconPath": "/assets/icons/collectibles/2928.png",
     "acquisition": [
       "find"
     ],
@@ -43694,7 +43694,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2929.svg",
+    "iconPath": "/assets/icons/collectibles/2929.png",
     "acquisition": [
       "find"
     ],
@@ -43709,7 +43709,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2930.svg",
+    "iconPath": "/assets/icons/collectibles/2930.png",
     "acquisition": [
       "find"
     ],
@@ -43724,7 +43724,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2931.svg",
+    "iconPath": "/assets/icons/collectibles/2931.png",
     "acquisition": [
       "find"
     ],
@@ -43739,7 +43739,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2932.svg",
+    "iconPath": "/assets/icons/collectibles/2932.png",
     "acquisition": [
       "find"
     ],
@@ -43754,7 +43754,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2933.svg",
+    "iconPath": "/assets/icons/collectibles/2933.png",
     "acquisition": [
       "find"
     ],
@@ -43769,7 +43769,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2935.svg",
+    "iconPath": "/assets/icons/collectibles/2935.png",
     "acquisition": [
       "find"
     ],
@@ -43784,7 +43784,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2936.svg",
+    "iconPath": "/assets/icons/collectibles/2936.png",
     "acquisition": [
       "find"
     ],
@@ -43799,7 +43799,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2937.svg",
+    "iconPath": "/assets/icons/collectibles/2937.png",
     "acquisition": [
       "find"
     ],
@@ -43814,7 +43814,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2938.svg",
+    "iconPath": "/assets/icons/collectibles/2938.png",
     "acquisition": [
       "find"
     ],
@@ -43829,7 +43829,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2939.svg",
+    "iconPath": "/assets/icons/collectibles/2939.png",
     "acquisition": [
       "find"
     ],
@@ -43844,7 +43844,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2940.svg",
+    "iconPath": "/assets/icons/collectibles/2940.png",
     "acquisition": [
       "find"
     ],
@@ -43859,7 +43859,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2941.svg",
+    "iconPath": "/assets/icons/collectibles/2941.png",
     "acquisition": [
       "find"
     ],
@@ -43874,7 +43874,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2942.svg",
+    "iconPath": "/assets/icons/collectibles/2942.png",
     "acquisition": [
       "find"
     ],
@@ -43889,7 +43889,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2943.svg",
+    "iconPath": "/assets/icons/collectibles/2943.png",
     "acquisition": [
       "find"
     ],
@@ -43904,7 +43904,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2944.svg",
+    "iconPath": "/assets/icons/collectibles/2944.png",
     "acquisition": [
       "find"
     ],
@@ -43919,7 +43919,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2945.svg",
+    "iconPath": "/assets/icons/collectibles/2945.png",
     "acquisition": [
       "find"
     ],
@@ -43934,7 +43934,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2946.svg",
+    "iconPath": "/assets/icons/collectibles/2946.png",
     "acquisition": [
       "find"
     ],
@@ -43949,7 +43949,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2947.svg",
+    "iconPath": "/assets/icons/collectibles/2947.png",
     "acquisition": [
       "find"
     ],
@@ -43964,7 +43964,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2948.svg",
+    "iconPath": "/assets/icons/collectibles/2948.png",
     "acquisition": [
       "find"
     ],
@@ -43979,7 +43979,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2949.svg",
+    "iconPath": "/assets/icons/collectibles/2949.png",
     "acquisition": [
       "find"
     ],
@@ -43994,7 +43994,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2950.svg",
+    "iconPath": "/assets/icons/collectibles/2950.png",
     "acquisition": [
       "find"
     ],
@@ -44009,7 +44009,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2953.svg",
+    "iconPath": "/assets/icons/collectibles/2953.png",
     "acquisition": [
       "find"
     ],
@@ -44024,7 +44024,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2954.svg",
+    "iconPath": "/assets/icons/collectibles/2954.png",
     "acquisition": [
       "find"
     ],
@@ -44039,7 +44039,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2955.svg",
+    "iconPath": "/assets/icons/collectibles/2955.png",
     "acquisition": [
       "find"
     ],
@@ -44054,7 +44054,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2956.svg",
+    "iconPath": "/assets/icons/collectibles/2956.png",
     "acquisition": [
       "find"
     ],
@@ -44069,7 +44069,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2957.svg",
+    "iconPath": "/assets/icons/collectibles/2957.png",
     "acquisition": [
       "find"
     ],
@@ -44084,7 +44084,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2958.svg",
+    "iconPath": "/assets/icons/collectibles/2958.png",
     "acquisition": [
       "find"
     ],
@@ -44099,7 +44099,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2959.svg",
+    "iconPath": "/assets/icons/collectibles/2959.png",
     "acquisition": [
       "find"
     ],
@@ -44114,7 +44114,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2960.svg",
+    "iconPath": "/assets/icons/collectibles/2960.png",
     "acquisition": [
       "find"
     ],
@@ -44129,7 +44129,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2961.svg",
+    "iconPath": "/assets/icons/collectibles/2961.png",
     "acquisition": [
       "find"
     ],
@@ -44144,7 +44144,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2962.svg",
+    "iconPath": "/assets/icons/collectibles/2962.png",
     "acquisition": [
       "find"
     ],
@@ -44159,7 +44159,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2963.svg",
+    "iconPath": "/assets/icons/collectibles/2963.png",
     "acquisition": [
       "find"
     ],
@@ -44174,7 +44174,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2964.svg",
+    "iconPath": "/assets/icons/collectibles/2964.png",
     "acquisition": [
       "find"
     ],
@@ -44189,7 +44189,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2965.svg",
+    "iconPath": "/assets/icons/collectibles/2965.png",
     "acquisition": [
       "find"
     ],
@@ -44204,7 +44204,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2967.svg",
+    "iconPath": "/assets/icons/collectibles/2967.png",
     "acquisition": [
       "find"
     ],
@@ -44219,7 +44219,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2968.svg",
+    "iconPath": "/assets/icons/collectibles/2968.png",
     "acquisition": [
       "find"
     ],
@@ -44234,7 +44234,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2969.svg",
+    "iconPath": "/assets/icons/collectibles/2969.png",
     "acquisition": [
       "find"
     ],
@@ -44249,7 +44249,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2970.svg",
+    "iconPath": "/assets/icons/collectibles/2970.png",
     "acquisition": [
       "find"
     ],
@@ -44264,7 +44264,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2971.svg",
+    "iconPath": "/assets/icons/collectibles/2971.png",
     "acquisition": [
       "find"
     ],
@@ -44279,7 +44279,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2972.svg",
+    "iconPath": "/assets/icons/collectibles/2972.png",
     "acquisition": [
       "find"
     ],
@@ -44294,7 +44294,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2973.svg",
+    "iconPath": "/assets/icons/collectibles/2973.png",
     "acquisition": [
       "find"
     ],
@@ -44309,7 +44309,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2974.svg",
+    "iconPath": "/assets/icons/collectibles/2974.png",
     "acquisition": [
       "find"
     ],
@@ -44324,7 +44324,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2976.svg",
+    "iconPath": "/assets/icons/collectibles/2976.png",
     "acquisition": [
       "find"
     ],
@@ -44339,7 +44339,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2977.svg",
+    "iconPath": "/assets/icons/collectibles/2977.png",
     "acquisition": [
       "find"
     ],
@@ -44354,7 +44354,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2978.svg",
+    "iconPath": "/assets/icons/collectibles/2978.png",
     "acquisition": [
       "find"
     ],
@@ -44369,7 +44369,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2979.svg",
+    "iconPath": "/assets/icons/collectibles/2979.png",
     "acquisition": [
       "find"
     ],
@@ -44384,7 +44384,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2980.svg",
+    "iconPath": "/assets/icons/collectibles/2980.png",
     "acquisition": [
       "find"
     ],
@@ -44399,7 +44399,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2981.svg",
+    "iconPath": "/assets/icons/collectibles/2981.png",
     "acquisition": [
       "find"
     ],
@@ -44414,7 +44414,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2982.svg",
+    "iconPath": "/assets/icons/collectibles/2982.png",
     "acquisition": [
       "find"
     ],
@@ -44429,7 +44429,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2983.svg",
+    "iconPath": "/assets/icons/collectibles/2983.png",
     "acquisition": [
       "find"
     ],
@@ -44444,7 +44444,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2984.svg",
+    "iconPath": "/assets/icons/collectibles/2984.png",
     "acquisition": [
       "find"
     ],
@@ -44459,7 +44459,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2985.svg",
+    "iconPath": "/assets/icons/collectibles/2985.png",
     "acquisition": [
       "find"
     ],
@@ -44474,7 +44474,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2986.svg",
+    "iconPath": "/assets/icons/collectibles/2986.png",
     "acquisition": [
       "find"
     ],
@@ -44489,7 +44489,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2987.svg",
+    "iconPath": "/assets/icons/collectibles/2987.png",
     "acquisition": [
       "find"
     ],
@@ -44504,7 +44504,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2988.svg",
+    "iconPath": "/assets/icons/collectibles/2988.png",
     "acquisition": [
       "find"
     ],
@@ -44519,7 +44519,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2989.svg",
+    "iconPath": "/assets/icons/collectibles/2989.png",
     "acquisition": [
       "find"
     ],
@@ -44534,7 +44534,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2990.svg",
+    "iconPath": "/assets/icons/collectibles/2990.png",
     "acquisition": [
       "find"
     ],
@@ -44549,7 +44549,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2991.svg",
+    "iconPath": "/assets/icons/collectibles/2991.png",
     "acquisition": [
       "find"
     ],
@@ -44564,7 +44564,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2992.svg",
+    "iconPath": "/assets/icons/collectibles/2992.png",
     "acquisition": [
       "find"
     ],
@@ -44579,7 +44579,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2993.svg",
+    "iconPath": "/assets/icons/collectibles/2993.png",
     "acquisition": [
       "find"
     ],
@@ -44594,7 +44594,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/2994.svg",
+    "iconPath": "/assets/icons/collectibles/2994.png",
     "acquisition": [
       "find"
     ],
@@ -44609,7 +44609,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3044.svg",
+    "iconPath": "/assets/icons/collectibles/3044.png",
     "acquisition": [
       "find"
     ],
@@ -44624,7 +44624,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3046.svg",
+    "iconPath": "/assets/icons/collectibles/3046.png",
     "acquisition": [
       "find"
     ],
@@ -44639,7 +44639,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3047.svg",
+    "iconPath": "/assets/icons/collectibles/3047.png",
     "acquisition": [
       "find"
     ],
@@ -44654,7 +44654,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3048.svg",
+    "iconPath": "/assets/icons/collectibles/3048.png",
     "acquisition": [
       "find"
     ],
@@ -44669,7 +44669,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3049.svg",
+    "iconPath": "/assets/icons/collectibles/3049.png",
     "acquisition": [
       "find"
     ],
@@ -44684,7 +44684,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3126.svg",
+    "iconPath": "/assets/icons/collectibles/3126.png",
     "acquisition": [
       "find"
     ],
@@ -44699,7 +44699,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3127.svg",
+    "iconPath": "/assets/icons/collectibles/3127.png",
     "acquisition": [
       "find"
     ],
@@ -44714,7 +44714,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3128.svg",
+    "iconPath": "/assets/icons/collectibles/3128.png",
     "acquisition": [
       "find"
     ],
@@ -44729,7 +44729,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3177.svg",
+    "iconPath": "/assets/icons/collectibles/3177.png",
     "acquisition": [
       "find"
     ],
@@ -44744,7 +44744,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3178.svg",
+    "iconPath": "/assets/icons/collectibles/3178.png",
     "acquisition": [
       "find"
     ],
@@ -44759,7 +44759,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3179.svg",
+    "iconPath": "/assets/icons/collectibles/3179.png",
     "acquisition": [
       "find"
     ],
@@ -44774,7 +44774,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3235.svg",
+    "iconPath": "/assets/icons/collectibles/3235.png",
     "acquisition": [
       "find"
     ],
@@ -44789,7 +44789,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3236.svg",
+    "iconPath": "/assets/icons/collectibles/3236.png",
     "acquisition": [
       "find"
     ],
@@ -44804,7 +44804,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3237.svg",
+    "iconPath": "/assets/icons/collectibles/3237.png",
     "acquisition": [
       "find"
     ],
@@ -44819,7 +44819,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/3357.svg",
+    "iconPath": "/assets/icons/collectibles/3357.png",
     "acquisition": [
       "find"
     ],
@@ -44834,7 +44834,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/3358.svg",
+    "iconPath": "/assets/icons/collectibles/3358.png",
     "acquisition": [
       "find"
     ],
@@ -44849,7 +44849,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/3359.svg",
+    "iconPath": "/assets/icons/collectibles/3359.png",
     "acquisition": [
       "find"
     ],
@@ -44864,7 +44864,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3370.svg",
+    "iconPath": "/assets/icons/collectibles/3370.png",
     "acquisition": [
       "find"
     ],
@@ -44879,7 +44879,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3371.svg",
+    "iconPath": "/assets/icons/collectibles/3371.png",
     "acquisition": [
       "find"
     ],
@@ -44894,7 +44894,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3391.svg",
+    "iconPath": "/assets/icons/collectibles/3391.png",
     "acquisition": [
       "find"
     ],
@@ -44909,7 +44909,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3392.svg",
+    "iconPath": "/assets/icons/collectibles/3392.png",
     "acquisition": [
       "find"
     ],
@@ -44924,7 +44924,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3393.svg",
+    "iconPath": "/assets/icons/collectibles/3393.png",
     "acquisition": [
       "find"
     ],
@@ -44939,7 +44939,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3394.svg",
+    "iconPath": "/assets/icons/collectibles/3394.png",
     "acquisition": [
       "find"
     ],
@@ -44954,7 +44954,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3395.svg",
+    "iconPath": "/assets/icons/collectibles/3395.png",
     "acquisition": [
       "find"
     ],
@@ -44969,7 +44969,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3396.svg",
+    "iconPath": "/assets/icons/collectibles/3396.png",
     "acquisition": [
       "find"
     ],
@@ -44984,7 +44984,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3397.svg",
+    "iconPath": "/assets/icons/collectibles/3397.png",
     "acquisition": [
       "find"
     ],
@@ -44999,7 +44999,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3398.svg",
+    "iconPath": "/assets/icons/collectibles/3398.png",
     "acquisition": [
       "find"
     ],
@@ -45014,7 +45014,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3399.svg",
+    "iconPath": "/assets/icons/collectibles/3399.png",
     "acquisition": [
       "find"
     ],
@@ -45029,7 +45029,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3400.svg",
+    "iconPath": "/assets/icons/collectibles/3400.png",
     "acquisition": [
       "find"
     ],
@@ -45044,7 +45044,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3401.svg",
+    "iconPath": "/assets/icons/collectibles/3401.png",
     "acquisition": [
       "find"
     ],
@@ -45059,7 +45059,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3402.svg",
+    "iconPath": "/assets/icons/collectibles/3402.png",
     "acquisition": [
       "find"
     ],
@@ -45074,7 +45074,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3403.svg",
+    "iconPath": "/assets/icons/collectibles/3403.png",
     "acquisition": [
       "find"
     ],
@@ -45089,7 +45089,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3404.svg",
+    "iconPath": "/assets/icons/collectibles/3404.png",
     "acquisition": [
       "find"
     ],
@@ -45104,7 +45104,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3405.svg",
+    "iconPath": "/assets/icons/collectibles/3405.png",
     "acquisition": [
       "find"
     ],
@@ -45119,7 +45119,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3406.svg",
+    "iconPath": "/assets/icons/collectibles/3406.png",
     "acquisition": [
       "find"
     ],
@@ -45134,7 +45134,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3407.svg",
+    "iconPath": "/assets/icons/collectibles/3407.png",
     "acquisition": [
       "find"
     ],
@@ -45149,7 +45149,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3408.svg",
+    "iconPath": "/assets/icons/collectibles/3408.png",
     "acquisition": [
       "find"
     ],
@@ -45164,7 +45164,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3409.svg",
+    "iconPath": "/assets/icons/collectibles/3409.png",
     "acquisition": [
       "find"
     ],
@@ -45179,7 +45179,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3410.svg",
+    "iconPath": "/assets/icons/collectibles/3410.png",
     "acquisition": [
       "find"
     ],
@@ -45194,7 +45194,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3411.svg",
+    "iconPath": "/assets/icons/collectibles/3411.png",
     "acquisition": [
       "find"
     ],
@@ -45209,7 +45209,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3412.svg",
+    "iconPath": "/assets/icons/collectibles/3412.png",
     "acquisition": [
       "find"
     ],
@@ -45224,7 +45224,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3413.svg",
+    "iconPath": "/assets/icons/collectibles/3413.png",
     "acquisition": [
       "find"
     ],
@@ -45239,7 +45239,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3414.svg",
+    "iconPath": "/assets/icons/collectibles/3414.png",
     "acquisition": [
       "find"
     ],
@@ -45254,7 +45254,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3415.svg",
+    "iconPath": "/assets/icons/collectibles/3415.png",
     "acquisition": [
       "find"
     ],
@@ -45269,7 +45269,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3416.svg",
+    "iconPath": "/assets/icons/collectibles/3416.png",
     "acquisition": [
       "find"
     ],
@@ -45284,7 +45284,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3417.svg",
+    "iconPath": "/assets/icons/collectibles/3417.png",
     "acquisition": [
       "find"
     ],
@@ -45299,7 +45299,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3418.svg",
+    "iconPath": "/assets/icons/collectibles/3418.png",
     "acquisition": [
       "find"
     ],
@@ -45314,7 +45314,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3419.svg",
+    "iconPath": "/assets/icons/collectibles/3419.png",
     "acquisition": [
       "find"
     ],
@@ -45329,7 +45329,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3421.svg",
+    "iconPath": "/assets/icons/collectibles/3421.png",
     "acquisition": [
       "find"
     ],
@@ -45344,7 +45344,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3422.svg",
+    "iconPath": "/assets/icons/collectibles/3422.png",
     "acquisition": [
       "find"
     ],
@@ -45359,7 +45359,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3423.svg",
+    "iconPath": "/assets/icons/collectibles/3423.png",
     "acquisition": [
       "find"
     ],
@@ -45374,7 +45374,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3426.svg",
+    "iconPath": "/assets/icons/collectibles/3426.png",
     "acquisition": [
       "find"
     ],
@@ -45389,7 +45389,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3427.svg",
+    "iconPath": "/assets/icons/collectibles/3427.png",
     "acquisition": [
       "find"
     ],
@@ -45404,7 +45404,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3428.svg",
+    "iconPath": "/assets/icons/collectibles/3428.png",
     "acquisition": [
       "find"
     ],
@@ -45419,7 +45419,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3429.svg",
+    "iconPath": "/assets/icons/collectibles/3429.png",
     "acquisition": [
       "find"
     ],
@@ -45434,7 +45434,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3430.svg",
+    "iconPath": "/assets/icons/collectibles/3430.png",
     "acquisition": [
       "find"
     ],
@@ -45449,7 +45449,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3431.svg",
+    "iconPath": "/assets/icons/collectibles/3431.png",
     "acquisition": [
       "find"
     ],
@@ -45464,7 +45464,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3432.svg",
+    "iconPath": "/assets/icons/collectibles/3432.png",
     "acquisition": [
       "find"
     ],
@@ -45479,7 +45479,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3433.svg",
+    "iconPath": "/assets/icons/collectibles/3433.png",
     "acquisition": [
       "find"
     ],
@@ -45494,7 +45494,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3434.svg",
+    "iconPath": "/assets/icons/collectibles/3434.png",
     "acquisition": [
       "find"
     ],
@@ -45509,7 +45509,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3435.svg",
+    "iconPath": "/assets/icons/collectibles/3435.png",
     "acquisition": [
       "find"
     ],
@@ -45524,7 +45524,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3436.svg",
+    "iconPath": "/assets/icons/collectibles/3436.png",
     "acquisition": [
       "find"
     ],
@@ -45539,7 +45539,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3437.svg",
+    "iconPath": "/assets/icons/collectibles/3437.png",
     "acquisition": [
       "find"
     ],
@@ -45554,7 +45554,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3438.svg",
+    "iconPath": "/assets/icons/collectibles/3438.png",
     "acquisition": [
       "find"
     ],
@@ -45569,7 +45569,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3439.svg",
+    "iconPath": "/assets/icons/collectibles/3439.png",
     "acquisition": [
       "find"
     ],
@@ -45584,7 +45584,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3440.svg",
+    "iconPath": "/assets/icons/collectibles/3440.png",
     "acquisition": [
       "find"
     ],
@@ -45599,7 +45599,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3442.svg",
+    "iconPath": "/assets/icons/collectibles/3442.png",
     "acquisition": [
       "find"
     ],
@@ -45614,7 +45614,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3443.svg",
+    "iconPath": "/assets/icons/collectibles/3443.png",
     "acquisition": [
       "find"
     ],
@@ -45629,7 +45629,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3445.svg",
+    "iconPath": "/assets/icons/collectibles/3445.png",
     "acquisition": [
       "find"
     ],
@@ -45644,7 +45644,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3446.svg",
+    "iconPath": "/assets/icons/collectibles/3446.png",
     "acquisition": [
       "find"
     ],
@@ -45659,7 +45659,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3447.svg",
+    "iconPath": "/assets/icons/collectibles/3447.png",
     "acquisition": [
       "find"
     ],
@@ -45674,7 +45674,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3448.svg",
+    "iconPath": "/assets/icons/collectibles/3448.png",
     "acquisition": [
       "find"
     ],
@@ -45689,7 +45689,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3449.svg",
+    "iconPath": "/assets/icons/collectibles/3449.png",
     "acquisition": [
       "find"
     ],
@@ -45704,7 +45704,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3450.svg",
+    "iconPath": "/assets/icons/collectibles/3450.png",
     "acquisition": [
       "find"
     ],
@@ -45719,7 +45719,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3451.svg",
+    "iconPath": "/assets/icons/collectibles/3451.png",
     "acquisition": [
       "find"
     ],
@@ -45734,7 +45734,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3452.svg",
+    "iconPath": "/assets/icons/collectibles/3452.png",
     "acquisition": [
       "find"
     ],
@@ -45749,7 +45749,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3593.svg",
+    "iconPath": "/assets/icons/collectibles/3593.png",
     "acquisition": [
       "find"
     ],
@@ -45764,7 +45764,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3594.svg",
+    "iconPath": "/assets/icons/collectibles/3594.png",
     "acquisition": [
       "find"
     ],
@@ -45779,7 +45779,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3651.svg",
+    "iconPath": "/assets/icons/collectibles/3651.png",
     "acquisition": [
       "find"
     ],
@@ -45794,7 +45794,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3652.svg",
+    "iconPath": "/assets/icons/collectibles/3652.png",
     "acquisition": [
       "find"
     ],
@@ -45809,7 +45809,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3653.svg",
+    "iconPath": "/assets/icons/collectibles/3653.png",
     "acquisition": [
       "find"
     ],
@@ -45824,7 +45824,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3654.svg",
+    "iconPath": "/assets/icons/collectibles/3654.png",
     "acquisition": [
       "find"
     ],
@@ -45839,7 +45839,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3655.svg",
+    "iconPath": "/assets/icons/collectibles/3655.png",
     "acquisition": [
       "find"
     ],
@@ -45854,7 +45854,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3656.svg",
+    "iconPath": "/assets/icons/collectibles/3656.png",
     "acquisition": [
       "find"
     ],
@@ -45869,7 +45869,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3657.svg",
+    "iconPath": "/assets/icons/collectibles/3657.png",
     "acquisition": [
       "find"
     ],
@@ -45884,7 +45884,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3658.svg",
+    "iconPath": "/assets/icons/collectibles/3658.png",
     "acquisition": [
       "find"
     ],
@@ -45899,7 +45899,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3659.svg",
+    "iconPath": "/assets/icons/collectibles/3659.png",
     "acquisition": [
       "find"
     ],
@@ -45914,7 +45914,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3660.svg",
+    "iconPath": "/assets/icons/collectibles/3660.png",
     "acquisition": [
       "find"
     ],
@@ -45929,7 +45929,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3661.svg",
+    "iconPath": "/assets/icons/collectibles/3661.png",
     "acquisition": [
       "find"
     ],
@@ -45944,7 +45944,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3662.svg",
+    "iconPath": "/assets/icons/collectibles/3662.png",
     "acquisition": [
       "find"
     ],
@@ -45959,7 +45959,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3708.svg",
+    "iconPath": "/assets/icons/collectibles/3708.png",
     "acquisition": [
       "find"
     ],
@@ -45974,7 +45974,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3709.svg",
+    "iconPath": "/assets/icons/collectibles/3709.png",
     "acquisition": [
       "find"
     ],
@@ -45989,7 +45989,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3710.svg",
+    "iconPath": "/assets/icons/collectibles/3710.png",
     "acquisition": [
       "find"
     ],
@@ -46004,7 +46004,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3711.svg",
+    "iconPath": "/assets/icons/collectibles/3711.png",
     "acquisition": [
       "find"
     ],
@@ -46019,7 +46019,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3712.svg",
+    "iconPath": "/assets/icons/collectibles/3712.png",
     "acquisition": [
       "find"
     ],
@@ -46034,7 +46034,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3713.svg",
+    "iconPath": "/assets/icons/collectibles/3713.png",
     "acquisition": [
       "find"
     ],
@@ -46049,7 +46049,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3714.svg",
+    "iconPath": "/assets/icons/collectibles/3714.png",
     "acquisition": [
       "find"
     ],
@@ -46064,7 +46064,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3715.svg",
+    "iconPath": "/assets/icons/collectibles/3715.png",
     "acquisition": [
       "find"
     ],
@@ -46079,7 +46079,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3716.svg",
+    "iconPath": "/assets/icons/collectibles/3716.png",
     "acquisition": [
       "find"
     ],
@@ -46094,7 +46094,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3717.svg",
+    "iconPath": "/assets/icons/collectibles/3717.png",
     "acquisition": [
       "find"
     ],
@@ -46109,7 +46109,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3719.svg",
+    "iconPath": "/assets/icons/collectibles/3719.png",
     "acquisition": [
       "find"
     ],
@@ -46124,7 +46124,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Statues",
-    "iconPath": "/assets/icons/collectibles/3720.svg",
+    "iconPath": "/assets/icons/collectibles/3720.png",
     "acquisition": [
       "find"
     ],
@@ -46139,7 +46139,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3723.svg",
+    "iconPath": "/assets/icons/collectibles/3723.png",
     "acquisition": [
       "find"
     ],
@@ -46154,7 +46154,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3724.svg",
+    "iconPath": "/assets/icons/collectibles/3724.png",
     "acquisition": [
       "find"
     ],
@@ -46169,7 +46169,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3780.svg",
+    "iconPath": "/assets/icons/collectibles/3780.png",
     "acquisition": [
       "find"
     ],
@@ -46184,7 +46184,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3789.svg",
+    "iconPath": "/assets/icons/collectibles/3789.png",
     "acquisition": [
       "find"
     ],
@@ -46199,7 +46199,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3790.svg",
+    "iconPath": "/assets/icons/collectibles/3790.png",
     "acquisition": [
       "find"
     ],
@@ -46214,7 +46214,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3791.svg",
+    "iconPath": "/assets/icons/collectibles/3791.png",
     "acquisition": [
       "find"
     ],
@@ -46229,7 +46229,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3793.svg",
+    "iconPath": "/assets/icons/collectibles/3793.png",
     "acquisition": [
       "find"
     ],
@@ -46244,7 +46244,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3796.svg",
+    "iconPath": "/assets/icons/collectibles/3796.png",
     "acquisition": [
       "find"
     ],
@@ -46259,7 +46259,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3815.svg",
+    "iconPath": "/assets/icons/collectibles/3815.png",
     "acquisition": [
       "find"
     ],
@@ -46274,7 +46274,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3837.svg",
+    "iconPath": "/assets/icons/collectibles/3837.png",
     "acquisition": [
       "find"
     ],
@@ -46289,7 +46289,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3838.svg",
+    "iconPath": "/assets/icons/collectibles/3838.png",
     "acquisition": [
       "find"
     ],
@@ -46304,7 +46304,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3839.svg",
+    "iconPath": "/assets/icons/collectibles/3839.png",
     "acquisition": [
       "find"
     ],
@@ -46319,7 +46319,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3840.svg",
+    "iconPath": "/assets/icons/collectibles/3840.png",
     "acquisition": [
       "find"
     ],
@@ -46334,7 +46334,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3841.svg",
+    "iconPath": "/assets/icons/collectibles/3841.png",
     "acquisition": [
       "find"
     ],
@@ -46349,7 +46349,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3842.svg",
+    "iconPath": "/assets/icons/collectibles/3842.png",
     "acquisition": [
       "find"
     ],
@@ -46364,7 +46364,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3843.svg",
+    "iconPath": "/assets/icons/collectibles/3843.png",
     "acquisition": [
       "find"
     ],
@@ -46379,7 +46379,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3844.svg",
+    "iconPath": "/assets/icons/collectibles/3844.png",
     "acquisition": [
       "find"
     ],
@@ -46394,7 +46394,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/3846.svg",
+    "iconPath": "/assets/icons/collectibles/3846.png",
     "acquisition": [
       "find"
     ],
@@ -46409,7 +46409,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/3866.svg",
+    "iconPath": "/assets/icons/collectibles/3866.png",
     "acquisition": [
       "find"
     ],
@@ -46424,7 +46424,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/3867.svg",
+    "iconPath": "/assets/icons/collectibles/3867.png",
     "acquisition": [
       "find"
     ],
@@ -46439,7 +46439,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/3868.svg",
+    "iconPath": "/assets/icons/collectibles/3868.png",
     "acquisition": [
       "find"
     ],
@@ -46454,7 +46454,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/3869.svg",
+    "iconPath": "/assets/icons/collectibles/3869.png",
     "acquisition": [
       "find"
     ],
@@ -46469,7 +46469,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/5023.svg",
+    "iconPath": "/assets/icons/collectibles/5023.png",
     "acquisition": [
       "find"
     ],
@@ -46484,7 +46484,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/5024.svg",
+    "iconPath": "/assets/icons/collectibles/5024.png",
     "acquisition": [
       "find"
     ],
@@ -46499,7 +46499,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/5025.svg",
+    "iconPath": "/assets/icons/collectibles/5025.png",
     "acquisition": [
       "find"
     ],
@@ -46514,7 +46514,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/5026.svg",
+    "iconPath": "/assets/icons/collectibles/5026.png",
     "acquisition": [
       "find"
     ],
@@ -46529,7 +46529,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/5027.svg",
+    "iconPath": "/assets/icons/collectibles/5027.png",
     "acquisition": [
       "find"
     ],
@@ -46544,7 +46544,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Decorations",
-    "iconPath": "/assets/icons/collectibles/5028.svg",
+    "iconPath": "/assets/icons/collectibles/5028.png",
     "acquisition": [
       "find"
     ],
@@ -46559,7 +46559,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Trophies",
-    "iconPath": "/assets/icons/collectibles/5036.svg",
+    "iconPath": "/assets/icons/collectibles/5036.png",
     "acquisition": [
       "find"
     ],
@@ -46574,7 +46574,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/5037.svg",
+    "iconPath": "/assets/icons/collectibles/5037.png",
     "acquisition": [
       "find"
     ],
@@ -46589,7 +46589,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/5038.svg",
+    "iconPath": "/assets/icons/collectibles/5038.png",
     "acquisition": [
       "find"
     ],
@@ -46604,7 +46604,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/5039.svg",
+    "iconPath": "/assets/icons/collectibles/5039.png",
     "acquisition": [
       "find"
     ],
@@ -46619,7 +46619,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/5041.svg",
+    "iconPath": "/assets/icons/collectibles/5041.png",
     "acquisition": [
       "find"
     ],
@@ -46634,7 +46634,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/5042.svg",
+    "iconPath": "/assets/icons/collectibles/5042.png",
     "acquisition": [
       "find"
     ],
@@ -46649,7 +46649,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/5043.svg",
+    "iconPath": "/assets/icons/collectibles/5043.png",
     "acquisition": [
       "find"
     ],
@@ -46664,7 +46664,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/5044.svg",
+    "iconPath": "/assets/icons/collectibles/5044.png",
     "acquisition": [
       "find"
     ],
@@ -46679,7 +46679,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/5045.svg",
+    "iconPath": "/assets/icons/collectibles/5045.png",
     "acquisition": [
       "find"
     ],
@@ -46694,7 +46694,7 @@
     "type": "collectible",
     "category": "Collectibles",
     "subcategory": "Banners",
-    "iconPath": "/assets/icons/collectibles/5046.svg",
+    "iconPath": "/assets/icons/collectibles/5046.png",
     "acquisition": [
       "find"
     ],
