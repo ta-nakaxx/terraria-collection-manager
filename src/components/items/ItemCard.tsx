@@ -2,7 +2,7 @@
 
 import { Item } from '@/types';
 import { getRarityStyle } from '@/constants/rarityStyles';
-import SimpleItemIcon from '@/components/SimpleItemIcon';
+import ItemIcon from '@/components/ui/ItemIcon';
 
 interface ItemCardProps {
   item: Item;
@@ -67,11 +67,11 @@ export function ItemCard({ item, onToggleOwned, onItemClick }: ItemCardProps) {
 
       {/* Icon with overlaid elements */}
       <div className="relative w-full h-full flex items-center justify-center">
-        <SimpleItemIcon 
+        <ItemIcon 
           item={item}
           size={64}
           className="transform transition-transform duration-300 group-hover:scale-110"
-          showIcon={true}
+          showHoverEffect={true}
         />
 
         {/* Subtle glow effect for higher rarities */}
