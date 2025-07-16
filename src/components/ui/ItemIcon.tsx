@@ -52,19 +52,13 @@ export const ItemIcon: React.FC<ItemIconProps> = ({
         setCurrentSrc(svgPath);
         setImageState('loading');
       } else {
-        // Not PNG, try placeholder
-        console.log(`🔄 Trying placeholder for: ${item.name}`);
-        setCurrentSrc('/placeholder.svg');
-        setImageState('loading');
+        // Not PNG, use dynamic icon directly
+        console.log(`❌ Using dynamic icon for: ${item.name}`);
+        setImageState('fallback');
       }
-    } else if (imageState === 'loading' && currentSrc !== '/placeholder.svg' && currentSrc !== item.iconPath) {
-      // SVG failed, try placeholder
-      console.log(`🔄 SVG failed, trying placeholder for: ${item.name}`);
-      setCurrentSrc('/placeholder.svg');
-      setImageState('loading');
     } else {
-      // All attempts failed: use dynamic icon
-      console.log(`❌ All failed, using dynamic icon for: ${item.name}`);
+      // SVG failed: use dynamic icon
+      console.log(`❌ SVG failed, using dynamic icon for: ${item.name}`);
       setImageState('fallback');
     }
   }, [imageState, currentSrc, item.iconPath, item.name]);
