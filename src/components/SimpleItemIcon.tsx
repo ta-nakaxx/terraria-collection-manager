@@ -53,19 +53,34 @@ export default function SimpleItemIcon({
 }: SimpleItemIconProps) {
   const [imageError, setImageError] = React.useState(false);
   const [imageLoading, setImageLoading] = React.useState(true);
+  const [currentIconPath, setCurrentIconPath] = React.useState<string>('');
+  const [fallbackIndex, setFallbackIndex] = React.useState(0);
   
   const rarityColor = RARITY_COLORS[item.rarity as keyof typeof RARITY_COLORS] || '#FFFFFF';
   const categoryText = CATEGORY_TEXT[item.category as keyof typeof CATEGORY_TEXT] || '?';
   
-  // アイコンパスの正規化
-  const normalizedIconPath = item.iconPath.startsWith('/') ? item.iconPath : `/${item.iconPath}`;
+  // アイコンパスの候補リスト（PNG優先）
+  const getIconPathCandidates = React.useCallback(() => {
+    const category = item.category.toLowerCase();
+    const id = item.id;
+    
+    return [
+      `/assets/icons/${category}/${id}.png`,  // 実際のゲーム画像（最優先）
+      `/assets/icons/${category}/${id}.svg`,  // プレースホルダー
+      item.iconPath.startsWith('/') ? item.iconPath : `/${item.iconPath}` // 元のパス
+    ];
+  }, [item.category, item.id, item.iconPath]);
   
-  // デバッグログ（最初の数個のアイテムのみ）
+  // アイコンパスの決定と初期化
   React.useEffect(() => {
-    if (parseInt(item.id) <= 10) {
-      console.log(`Loading icon for ${item.name} (ID: ${item.id}): ${normalizedIconPath}`);
-    }
-  }, []);
+    const candidates = getIconPathCandidates();
+    setCurrentIconPath(candidates[0]);
+    setFallbackIndex(0);
+    setImageError(false);
+    setImageLoading(true);
+    
+    console.log(`🔍 Trying icon for ${item.name} (ID: ${item.id}): ${candidates[0]}`);
+  }, [getIconPathCandidates, item.name, item.id]);
 
   // 所持状態に応じたスタイル
   const isOwned = item.owned;
@@ -74,15 +89,30 @@ export default function SimpleItemIcon({
   const opacityStyle = isOwned ? 'opacity-100' : 'opacity-60';
 
   const handleImageLoad = () => {
-    console.log(`✅ Icon loaded successfully: ${item.name} (ID: ${item.id}) - ${normalizedIconPath}`);
+    console.log(`✅ Icon loaded successfully: ${item.name} (ID: ${item.id}) - ${currentIconPath}`);
     setImageLoading(false);
     setImageError(false);
   };
 
   const handleImageError = (e: React.SyntheticEvent<HTMLImageElement>) => {
-    console.error(`❌ Failed to load icon: ${normalizedIconPath} for ${item.name} (ID: ${item.id})`, e);
-    setImageLoading(false);
-    setImageError(true);
+    console.error(`❌ Failed to load icon: ${currentIconPath} for ${item.name} (ID: ${item.id})`, e);
+    
+    const candidates = getIconPathCandidates();
+    const nextIndex = fallbackIndex + 1;
+    
+    if (nextIndex < candidates.length) {
+      // 次の候補を試す
+      console.log(`🔄 Trying fallback ${nextIndex} for ${item.name} (ID: ${item.id}): ${candidates[nextIndex]}`);
+      setCurrentIconPath(candidates[nextIndex]);
+      setFallbackIndex(nextIndex);
+      setImageError(false);
+      setImageLoading(true);
+    } else {
+      // すべての候補を試し終わったので、エラー状態にする
+      console.error(`💥 All icon candidates failed for ${item.name} (ID: ${item.id})`);
+      setImageLoading(false);
+      setImageError(true);
+    }
   };
 
   // タイムアウトによるフォールバック（3秒後）
@@ -113,10 +143,10 @@ export default function SimpleItemIcon({
       title={`${item.name} (ID: ${item.id})`}
     >
       {/* 実際のアイコン表示 */}
-      {showIcon && !imageError && (
+      {showIcon && !imageError && currentIconPath && (
         /* eslint-disable-next-line @next/next/no-img-element */
         <img
-          src={normalizedIconPath}
+          src={currentIconPath}
           alt={item.name}
           className={`object-contain transition-opacity duration-200 ${
             imageLoading ? 'opacity-0' : 'opacity-100'
