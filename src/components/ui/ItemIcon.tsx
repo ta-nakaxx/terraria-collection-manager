@@ -43,7 +43,7 @@ export const ItemIcon: React.FC<ItemIconProps> = ({
       imageState
     });
     
-    // Try fallback strategy
+    // Simplified fallback: PNG → SVG → DynamicIcon (no placeholder.svg)
     if (imageState === 'loading' && currentSrc === item.iconPath) {
       // First error: try SVG version if original was PNG
       if (item.iconPath.endsWith('.png')) {
@@ -52,13 +52,13 @@ export const ItemIcon: React.FC<ItemIconProps> = ({
         setCurrentSrc(svgPath);
         setImageState('loading');
       } else {
-        // Not PNG, use dynamic icon directly
-        console.log(`❌ Using dynamic icon for: ${item.name}`);
+        // Not PNG, use lightweight dynamic icon
+        console.log(`❌ Using lightweight dynamic icon for: ${item.name}`);
         setImageState('fallback');
       }
     } else {
-      // SVG failed: use dynamic icon
-      console.log(`❌ SVG failed, using dynamic icon for: ${item.name}`);
+      // SVG failed: use lightweight dynamic icon
+      console.log(`❌ SVG failed, using lightweight dynamic icon for: ${item.name}`);
       setImageState('fallback');
     }
   }, [imageState, currentSrc, item.iconPath, item.name]);

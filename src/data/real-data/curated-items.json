@@ -240,7 +240,7 @@
     "collectionType": "collectible"
   },
   {
-    "id": "1",
+    "id": "tool_1",
     "name": "Copper Pickaxe",
     "type": "tool",
     "category": "Tools",
@@ -270,7 +270,7 @@
     "collectionType": "collectible"
   },
   {
-    "id": "10",
+    "id": "tool_10",
     "name": "Copper Hammer",
     "type": "tool",
     "category": "Tools",
@@ -300,7 +300,7 @@
     "collectionType": "collectible"
   },
   {
-    "id": "103",
+    "id": "tool_103",
     "name": "Iron Axe",
     "type": "tool",
     "category": "Tools",
@@ -825,13 +825,13 @@
     "collectionType": "collectible"
   },
   {
-    "id": "273",
+    "id": "757",
     "name": "Terra Blade",
     "type": "weapon",
     "category": "Weapons",
     "subcategory": "Melee",
     "subSubcategory": "sword",
-    "iconPath": "/assets/icons/weapons/273.png",
+    "iconPath": "/assets/icons/weapons/757.png",
     "acquisition": ["craft"],
     "description": "The ultimate sword combining earth and nature",
     "rarity": "red",
