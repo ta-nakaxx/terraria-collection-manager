@@ -1111,5 +1111,113 @@
     "stats": {
       "effects": ["Increased movement speed"]
     }
+  },
+  {
+    "id": "1101",
+    "name": "Wood Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "subSubcategory": "helmet",
+    "iconPath": "/assets/icons/armor/1101.png",
+    "acquisition": ["craft"],
+    "description": "Basic wooden head protection",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 1
+    }
+  },
+  {
+    "id": "1102",
+    "name": "Wood Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "breastplate",
+    "iconPath": "/assets/icons/armor/1102.png",
+    "acquisition": ["craft"],
+    "description": "Basic wooden chest protection",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 1
+    }
+  },
+  {
+    "id": "1103",
+    "name": "Wood Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "subSubcategory": "greaves",
+    "iconPath": "/assets/icons/armor/1103.png",
+    "acquisition": ["craft"],
+    "description": "Basic wooden leg protection",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 1
+    }
+  },
+  {
+    "id": "82",
+    "name": "Copper Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "subSubcategory": "helmet",
+    "iconPath": "/assets/icons/armor/82.png",
+    "acquisition": ["craft"],
+    "description": "Basic copper head protection",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 2
+    }
+  },
+  {
+    "id": "83",
+    "name": "Copper Chainmail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chainmail",
+    "iconPath": "/assets/icons/armor/83.png",
+    "acquisition": ["craft"],
+    "description": "Basic copper chest protection",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 2
+    }
+  },
+  {
+    "id": "84",
+    "name": "Copper Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "subSubcategory": "greaves",
+    "iconPath": "/assets/icons/armor/84.png",
+    "acquisition": ["craft"],
+    "description": "Basic copper leg protection",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 2
+    }
   }
 ]
