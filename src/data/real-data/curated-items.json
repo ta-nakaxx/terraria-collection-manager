@@ -1219,5 +1219,113 @@
     "stats": {
       "defense": 2
     }
+  },
+  {
+    "id": "85",
+    "name": "Silver Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "subSubcategory": "helmet",
+    "iconPath": "/assets/icons/armor/85.png",
+    "acquisition": ["craft"],
+    "description": "Silver head protection with improved defense",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 3
+    }
+  },
+  {
+    "id": "86",
+    "name": "Silver Chainmail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chainmail",
+    "iconPath": "/assets/icons/armor/86.png",
+    "acquisition": ["craft"],
+    "description": "Silver chest protection with improved defense",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 4
+    }
+  },
+  {
+    "id": "87",
+    "name": "Silver Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "subSubcategory": "greaves",
+    "iconPath": "/assets/icons/armor/87.png",
+    "acquisition": ["craft"],
+    "description": "Silver leg protection with improved defense",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 3
+    }
+  },
+  {
+    "id": "94",
+    "name": "Gold Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "subSubcategory": "helmet",
+    "iconPath": "/assets/icons/armor/94.png",
+    "acquisition": ["craft"],
+    "description": "Gold head protection with high defense",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 4
+    }
+  },
+  {
+    "id": "95",
+    "name": "Gold Chainmail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chainmail",
+    "iconPath": "/assets/icons/armor/95.png",
+    "acquisition": ["craft"],
+    "description": "Gold chest protection with high defense",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 5
+    }
+  },
+  {
+    "id": "96",
+    "name": "Gold Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "subSubcategory": "greaves",
+    "iconPath": "/assets/icons/armor/96.png",
+    "acquisition": ["craft"],
+    "description": "Gold leg protection with high defense",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 4
+    }
   }
 ]
