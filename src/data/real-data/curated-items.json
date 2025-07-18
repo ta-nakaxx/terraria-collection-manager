@@ -825,21 +825,6 @@
     "collectionType": "collectible"
   },
   {
-    "id": "757",
-    "name": "Terra Blade",
-    "type": "weapon",
-    "category": "Weapons",
-    "subcategory": "Melee",
-    "subSubcategory": "sword",
-    "iconPath": "/assets/icons/weapons/757.png",
-    "acquisition": ["craft"],
-    "description": "The ultimate sword combining earth and nature",
-    "rarity": "red",
-    "gameStage": "hardmode",
-    "owned": false,
-    "collectionType": "collectible"
-  },
-  {
     "id": "274",
     "name": "Excalibur",
     "type": "weapon",
