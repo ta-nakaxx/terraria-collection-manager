@@ -13,23 +13,41 @@ const testItems = [
   {
     id: "4",
     name: "Iron Broadsword",
+    type: "weapon" as const,
     category: "Weapons",
+    subcategory: "Melee",
     iconPath: "/assets/icons/weapons/4.png",
-    rarity: "white"
+    acquisition: ["craft"],
+    rarity: "white" as const,
+    gameStage: "pre-hardmode" as const,
+    owned: false,
+    collectionType: "collectible" as const
   },
   {
     id: "29",
     name: "Life Crystal",
-    category: "Consumables", 
+    type: "consumable" as const,
+    category: "Consumables",
+    subcategory: "Health",
     iconPath: "/assets/icons/consumables/29.png",
-    rarity: "white"
+    acquisition: ["find"],
+    rarity: "white" as const,
+    gameStage: "pre-hardmode" as const,
+    owned: false,
+    collectionType: "collectible" as const
   },
   {
     id: "test1",
     name: "Non-existent Item",
+    type: "weapon" as const,
     category: "Weapons",
+    subcategory: "Melee",
     iconPath: "/assets/icons/weapons/nonexistent.png",
-    rarity: "white"
+    acquisition: ["test"],
+    rarity: "white" as const,
+    gameStage: "pre-hardmode" as const,
+    owned: false,
+    collectionType: "collectible" as const
   }
 ];
 
