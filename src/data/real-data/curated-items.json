@@ -1018,5 +1018,113 @@
     "gameStage": "pre-hardmode",
     "owned": false,
     "collectionType": "collectible"
+  },
+  {
+    "id": "88",
+    "name": "Iron Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "subSubcategory": "helmet",
+    "iconPath": "/assets/icons/armor/88.png",
+    "acquisition": ["craft"],
+    "description": "Iron helmet providing decent defense",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 3
+    }
+  },
+  {
+    "id": "89",
+    "name": "Iron Chainmail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chestplate",
+    "iconPath": "/assets/icons/armor/89.png",
+    "acquisition": ["craft"],
+    "description": "Iron chestplate with solid protection",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 4
+    }
+  },
+  {
+    "id": "90",
+    "name": "Iron Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "subSubcategory": "leggings",
+    "iconPath": "/assets/icons/armor/90.png",
+    "acquisition": ["craft"],
+    "description": "Iron leg armor for basic protection",
+    "rarity": "white",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 3
+    }
+  },
+  {
+    "id": "156",
+    "name": "Band of Regeneration",
+    "type": "accessory",
+    "category": "Accessories",
+    "subcategory": "Combat",
+    "subSubcategory": "regeneration",
+    "iconPath": "/assets/icons/accessories/156.png",
+    "acquisition": ["find"],
+    "description": "Slowly regenerates health over time",
+    "rarity": "blue",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "effects": ["Health regeneration +1"]
+    }
+  },
+  {
+    "id": "159",
+    "name": "Cloud in a Bottle",
+    "type": "accessory",
+    "category": "Accessories",
+    "subcategory": "Movement",
+    "subSubcategory": "jump",
+    "iconPath": "/assets/icons/accessories/159.png",
+    "acquisition": ["find"],
+    "description": "Allows double jumping",
+    "rarity": "blue",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "effects": ["Double jump ability"]
+    }
+  },
+  {
+    "id": "862",
+    "name": "Hermes Boots",
+    "type": "accessory",
+    "category": "Accessories",
+    "subcategory": "Movement",
+    "subSubcategory": "speed",
+    "iconPath": "/assets/icons/accessories/862.png",
+    "acquisition": ["find"],
+    "description": "Increases movement speed after running",
+    "rarity": "blue",
+    "gameStage": "pre-hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "effects": ["Increased movement speed"]
+    }
   }
 ]
