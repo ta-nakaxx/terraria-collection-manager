@@ -6,7 +6,7 @@
 
 import React from 'react';
 import Image from 'next/image';
-import ItemIcon from '@/components/ItemIcon';
+import ItemIcon from '@/components/ui/ItemIcon';
 import { generateItemIcon, svgToDataUri } from '@/utils/iconGenerator';
 
 const testItems = [
