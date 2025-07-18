@@ -1327,5 +1327,221 @@
     "stats": {
       "defense": 4
     }
+  },
+  {
+    "id": "371",
+    "name": "Cobalt Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "subSubcategory": "helmet",
+    "iconPath": "/assets/icons/armor/371.png",
+    "acquisition": ["craft"],
+    "description": "Cobalt head protection for hardmode adventures",
+    "rarity": "blue",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 6
+    }
+  },
+  {
+    "id": "372",
+    "name": "Cobalt Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "breastplate",
+    "iconPath": "/assets/icons/armor/372.png",
+    "acquisition": ["craft"],
+    "description": "Cobalt chest protection for hardmode adventures",
+    "rarity": "blue",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 7
+    }
+  },
+  {
+    "id": "373",
+    "name": "Cobalt Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "subSubcategory": "leggings",
+    "iconPath": "/assets/icons/armor/373.png",
+    "acquisition": ["craft"],
+    "description": "Cobalt leg protection for hardmode adventures",
+    "rarity": "blue",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 5
+    }
+  },
+  {
+    "id": "374",
+    "name": "Mythril Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "subSubcategory": "helmet",
+    "iconPath": "/assets/icons/armor/374.png",
+    "acquisition": ["craft"],
+    "description": "Mythril head protection with enhanced abilities",
+    "rarity": "blue",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 7
+    }
+  },
+  {
+    "id": "375",
+    "name": "Mythril Chainmail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "chainmail",
+    "iconPath": "/assets/icons/armor/375.png",
+    "acquisition": ["craft"],
+    "description": "Mythril chest protection with enhanced abilities",
+    "rarity": "blue",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 8
+    }
+  },
+  {
+    "id": "376",
+    "name": "Mythril Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "subSubcategory": "greaves",
+    "iconPath": "/assets/icons/armor/376.png",
+    "acquisition": ["craft"],
+    "description": "Mythril leg protection with enhanced abilities",
+    "rarity": "blue",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 6
+    }
+  },
+  {
+    "id": "377",
+    "name": "Adamantite Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "subSubcategory": "helmet",
+    "iconPath": "/assets/icons/armor/377.png",
+    "acquisition": ["craft"],
+    "description": "Adamantite head protection with superior defense",
+    "rarity": "blue",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 8
+    }
+  },
+  {
+    "id": "378",
+    "name": "Adamantite Breastplate",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "breastplate",
+    "iconPath": "/assets/icons/armor/378.png",
+    "acquisition": ["craft"],
+    "description": "Adamantite chest protection with superior defense",
+    "rarity": "blue",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 9
+    }
+  },
+  {
+    "id": "379",
+    "name": "Adamantite Leggings",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "subSubcategory": "leggings",
+    "iconPath": "/assets/icons/armor/379.png",
+    "acquisition": ["craft"],
+    "description": "Adamantite leg protection with superior defense",
+    "rarity": "blue",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 7
+    }
+  },
+  {
+    "id": "549",
+    "name": "Hallowed Helmet",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Head",
+    "subSubcategory": "helmet",
+    "iconPath": "/assets/icons/armor/549.png",
+    "acquisition": ["craft"],
+    "description": "Hallowed head protection blessed with holy power",
+    "rarity": "green",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 10
+    }
+  },
+  {
+    "id": "550",
+    "name": "Hallowed Plate Mail",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Chest",
+    "subSubcategory": "plate mail",
+    "iconPath": "/assets/icons/armor/550.png",
+    "acquisition": ["craft"],
+    "description": "Hallowed chest protection blessed with holy power",
+    "rarity": "green",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 11
+    }
+  },
+  {
+    "id": "551",
+    "name": "Hallowed Greaves",
+    "type": "armor",
+    "category": "Armor",
+    "subcategory": "Legs",
+    "subSubcategory": "greaves",
+    "iconPath": "/assets/icons/armor/551.png",
+    "acquisition": ["craft"],
+    "description": "Hallowed leg protection blessed with holy power",
+    "rarity": "green",
+    "gameStage": "hardmode",
+    "owned": false,
+    "collectionType": "collectible",
+    "stats": {
+      "defense": 9
+    }
   }
 ]
